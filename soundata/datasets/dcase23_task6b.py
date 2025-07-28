@@ -274,7 +274,6 @@ class Dataset(core.Dataset):
     """
 
     def __init__(self, data_home=None, version="default"):
-        self.clothowrapper = ClothoWrapper(data_home=data_home)
         
         super().__init__(
             data_home,
@@ -286,7 +285,7 @@ class Dataset(core.Dataset):
             remotes=REMOTES,
             license_info=LICENSE_INFO,
         )
-        
+        self.clothowrapper = ClothoWrapper(self.data_home)
         
     @core.copy_docs(load_audio)
     def load_audio(self, *args, **kwargs):
@@ -295,13 +294,7 @@ class Dataset(core.Dataset):
     @core.cached_property
     def _metadata(self):
         # Define all the metadata and caption files for both datasets
-        files = {
-            # "clotho_metadata_development.csv": "metadata",
-            # "clotho_metadata_evaluation.csv": "metadata",
-            # "clotho_metadata_validation.csv": "metadata",
-            # "clotho_captions_development.csv": "captions",
-            # "clotho_captions_evaluation.csv": "captions",
-            # "clotho_captions_validation.csv": "captions",
+        files = {                        
             "retrieval_audio_metadata.csv": "metadata",
         }
         combined_data = {}
@@ -348,7 +341,8 @@ class Dataset(core.Dataset):
                         combined_data[file_key]["captions"] = [
                             row[key] for key in row if key != "file_name"
                         ]
+        clotho_wrapper = ClothoWrapper(data_home=self.data_home)
         for metadata in combined_data.values():
-            metadata["clotho_wrapper"] = self.clotho_wrapper
+            metadata["clotho_wrapper"] = clotho_wrapper
             
         return combined_data

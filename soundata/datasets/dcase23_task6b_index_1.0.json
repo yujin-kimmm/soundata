@@ -1,0 +1,6039 @@
+{
+  "version": "1.0",
+  "clips": {
+    "test/mau2": {
+      "audio": [
+        "test/mau2.wav",
+        "3aa9ad81184dc3a97199db4e712858d1"
+      ]
+    },
+    "test/rainy morning in town": {
+      "audio": [
+        "test/rainy morning in town.wav",
+        "a3f9fca36217a8f40fdb3c5d81b129fb"
+      ]
+    },
+    "test/Wasserfall 2": {
+      "audio": [
+        "test/Wasserfall 2.wav",
+        "0853c2d16d5f162ea23339a03d9f9dba"
+      ]
+    },
+    "test/mono_bell_0_D_16sec": {
+      "audio": [
+        "test/mono_bell_0_D_16sec.wav",
+        "16253f1f5f0b26d652a0a24d31510e6a"
+      ]
+    },
+    "test/Waves at the edge of Bosphorus": {
+      "audio": [
+        "test/Waves at the edge of Bosphorus.wav",
+        "4612c63dd75ee0f5ea94b7326ab3ffe4"
+      ]
+    },
+    "test/harbour scene 2": {
+      "audio": [
+        "test/harbour scene 2.wav",
+        "51325ab6c94bb00a9d592ff2231fc7bc"
+      ]
+    },
+    "test/dremmel-noise2": {
+      "audio": [
+        "test/dremmel-noise2.wav",
+        "e32c6e4cf63139e40927c38f06d6f0a2"
+      ]
+    },
+    "test/Waves on to rocks": {
+      "audio": [
+        "test/Waves on to rocks.wav",
+        "8952d5c8e9056b204e5e52eee9fc2139"
+      ]
+    },
+    "test/erasing 1": {
+      "audio": [
+        "test/erasing 1.wav",
+        "abdf14a5202902c53912e696e4458792"
+      ]
+    },
+    "test/ABC&#39;s (long version)": {
+      "audio": [
+        "test/ABC&#39;s (long version).wav",
+        "abec7c4f4bb28a089ba54cb948ab7d83"
+      ]
+    },
+    "test/Buzzbees": {
+      "audio": [
+        "test/Buzzbees.wav",
+        "741529cff284746a2face6081ee9a6bd"
+      ]
+    },
+    "test/backpack": {
+      "audio": [
+        "test/backpack.wav",
+        "ab1c3884737ec85de6070b50d6f1ec78"
+      ]
+    },
+    "test/Track 06": {
+      "audio": [
+        "test/Track 06.wav",
+        "cfdb5533022aaff8f28734567d5ab0ed"
+      ]
+    },
+    "test/Regen_inhet_Bos_kort": {
+      "audio": [
+        "test/Regen_inhet_Bos_kort.wav",
+        "9ac8f590428be6ecad2e36c69f5d44d6"
+      ]
+    },
+    "test/Street Interview": {
+      "audio": [
+        "test/Street Interview.wav",
+        "1e830d350c750be3625edf81d4b23168"
+      ]
+    },
+    "test/Ousman Ramble": {
+      "audio": [
+        "test/Ousman Ramble.wav",
+        "4b650ace5e47ade6265e797b0f146a22"
+      ]
+    },
+    "test/Dribbling water Edited": {
+      "audio": [
+        "test/Dribbling water Edited.wav",
+        "1be0a93892084367602f2ee630a8b7f5"
+      ]
+    },
+    "test/Microwave1": {
+      "audio": [
+        "test/Microwave1.wav",
+        "386726962689b945f0180f08f8603b21"
+      ]
+    },
+    "test/steps in the station": {
+      "audio": [
+        "test/steps in the station.wav",
+        "6aa77afcef5cab328346847003b897b2"
+      ]
+    },
+    "test/bathroom_water_tap_on_fill_off_drain_24_96_stereo": {
+      "audio": [
+        "test/bathroom_water_tap_on_fill_off_drain_24_96_stereo.wav",
+        "d198d690ec0450c21a7c2639134a7338"
+      ]
+    },
+    "test/Sheep bleating": {
+      "audio": [
+        "test/Sheep bleating.wav",
+        "af253c76d0352b5d71e96fca584f5b8b"
+      ]
+    },
+    "test/Waves near the dock": {
+      "audio": [
+        "test/Waves near the dock.wav",
+        "a8a69f5a0ea3d38d9e0a2b768ddf6fae"
+      ]
+    },
+    "test/Zipper sounds": {
+      "audio": [
+        "test/Zipper sounds.wav",
+        "ba7c7b00c1df57dc076640d299d29fc7"
+      ]
+    },
+    "test/StreamPTDMos": {
+      "audio": [
+        "test/StreamPTDMos.wav",
+        "ca4abbc60a70dd3f7aff68545b917cee"
+      ]
+    },
+    "test/Chopping mushrooms vigorously": {
+      "audio": [
+        "test/Chopping mushrooms vigorously.wav",
+        "01d497c998a489fd6bfbca108b79e81a"
+      ]
+    },
+    "test/Morning Ambience city": {
+      "audio": [
+        "test/Morning Ambience city.wav",
+        "c2d2551b7193a420e68877e5a4956916"
+      ]
+    },
+    "test/CP_Whipping_Wind_Storm_Medium01": {
+      "audio": [
+        "test/CP_Whipping_Wind_Storm_Medium01.wav",
+        "690d5acd806142cbbb203eaf2dac6ead"
+      ]
+    },
+    "test/elevator 001": {
+      "audio": [
+        "test/elevator 001.wav",
+        "5f8f6048aabbdfa6daa9abca31431817"
+      ]
+    },
+    "test/Wind in trees-force8-night": {
+      "audio": [
+        "test/Wind in trees-force8-night.wav",
+        "3886195ce3f3d9bdbdad44836f286749"
+      ]
+    },
+    "test/city_traffic_day": {
+      "audio": [
+        "test/city_traffic_day.wav",
+        "b43b25fc5314d860050ab557c6cb23b7"
+      ]
+    },
+    "test/vacuuming upholstery": {
+      "audio": [
+        "test/vacuuming upholstery.wav",
+        "4dce9a504168c13ff4230d81dbbac04d"
+      ]
+    },
+    "test/balloonburner": {
+      "audio": [
+        "test/balloonburner.wav",
+        "e2ac1ba792307ba88fdddfe3f8b92313"
+      ]
+    },
+    "test/rios_barney_geo_fonia_contra_el_viento": {
+      "audio": [
+        "test/rios_barney_geo_fonia_contra_el_viento.wav",
+        "d7a1e77833e7c6cdf953335d85ca213e"
+      ]
+    },
+    "test/Paper_Shake": {
+      "audio": [
+        "test/Paper_Shake.wav",
+        "e2ded54d938cb14e9cc234592bdab87e"
+      ]
+    },
+    "test/CanChaos": {
+      "audio": [
+        "test/CanChaos.wav",
+        "2516d02fb20871bc68f6dad116518cfb"
+      ]
+    },
+    "test/SHOWER": {
+      "audio": [
+        "test/SHOWER.wav",
+        "1240553e02f15c9642ba9f60670d636e"
+      ]
+    },
+    "test/Elevator Arrives": {
+      "audio": [
+        "test/Elevator Arrives.wav",
+        "54f2ade8f099c497c6a8f250df2412af"
+      ]
+    },
+    "test/City Traffic (Outdoor)": {
+      "audio": [
+        "test/City Traffic (Outdoor).wav",
+        "020b11ec0e8de28fedb6ca8fedbdc8d0"
+      ]
+    },
+    "test/novasound7100": {
+      "audio": [
+        "test/novasound7100.wav",
+        "04ebba6095b12cfa065f37d3ec542c3e"
+      ]
+    },
+    "test/In_a_que01": {
+      "audio": [
+        "test/In_a_que01.wav",
+        "a9933c630f179ab651887c88d8f0c42e"
+      ]
+    },
+    "test/Crickets Night 2": {
+      "audio": [
+        "test/Crickets Night 2.wav",
+        "05455adcde8e3f6c0c2e360a109598f1"
+      ]
+    },
+    "test/footsteps-gravel-birds": {
+      "audio": [
+        "test/footsteps-gravel-birds.wav",
+        "8865a2f7a57ed9a7b918122a2679bf36"
+      ]
+    },
+    "test/church organ 2": {
+      "audio": [
+        "test/church organ 2.wav",
+        "9d8ded49c439dae4bc7a4c0b76f57654"
+      ]
+    },
+    "test/Ball bouncing": {
+      "audio": [
+        "test/Ball bouncing.wav",
+        "e25cfb52439b0114ba14e4768b7c426c"
+      ]
+    },
+    "test/Storm wind": {
+      "audio": [
+        "test/Storm wind.wav",
+        "d2baacdace6ea28d6542c50d716cdf08"
+      ]
+    },
+    "test/WALKING IN A CAVE": {
+      "audio": [
+        "test/WALKING IN A CAVE.wav",
+        "f97a82bb1f35ef329bba96d0b65e1fdc"
+      ]
+    },
+    "test/Cricket2": {
+      "audio": [
+        "test/Cricket2.wav",
+        "f744cc5462adca3ae0a058cbcdd31845"
+      ]
+    },
+    "test/Shower Turn on - Turn off": {
+      "audio": [
+        "test/Shower Turn on - Turn off.wav",
+        "96bd2ec77e7d70603ec0043dad15f654"
+      ]
+    },
+    "test/RainFallsThruTinGutterMcCoy": {
+      "audio": [
+        "test/RainFallsThruTinGutterMcCoy.wav",
+        "0b7da6ad8d434fb5f556806694645f33"
+      ]
+    },
+    "test/Heavy Trash Hit": {
+      "audio": [
+        "test/Heavy Trash Hit.wav",
+        "618814964f439926209adad1651c7a28"
+      ]
+    },
+    "test/Train Mill Hill v1": {
+      "audio": [
+        "test/Train Mill Hill v1.wav",
+        "23d40229ba612a94c83b237b464cbc9f"
+      ]
+    },
+    "test/ambientBell": {
+      "audio": [
+        "test/ambientBell.wav",
+        "02eeadd7be5051f9d1e4a6a78254a72f"
+      ]
+    },
+    "test/Kaituna": {
+      "audio": [
+        "test/Kaituna.wav",
+        "c90bcc4db2c8d325b65c3f9b754c0498"
+      ]
+    },
+    "test/Chainsaw_1": {
+      "audio": [
+        "test/Chainsaw_1.wav",
+        "678654e4a81a955e6aaf3620bff5a115"
+      ]
+    },
+    "test/Very loud thunder clap": {
+      "audio": [
+        "test/Very loud thunder clap.wav",
+        "ae6cdf4721ed554314c0be25c762747d"
+      ]
+    },
+    "test/rowing boat": {
+      "audio": [
+        "test/rowing boat.wav",
+        "9c85e1177d30831970042bc89c47a49c"
+      ]
+    },
+    "test/Stanley Knife Scraping Macbook": {
+      "audio": [
+        "test/Stanley Knife Scraping Macbook.wav",
+        "93ee554ea582972962a7c424f06d5c0c"
+      ]
+    },
+    "test/160170_Gravel_OWI": {
+      "audio": [
+        "test/160170_Gravel_OWI.wav",
+        "783e41331427168336d477a7d59b963d"
+      ]
+    },
+    "test/departing_train": {
+      "audio": [
+        "test/departing_train.wav",
+        "c145baf1f3276e08941cc15c0c6a3dc2"
+      ]
+    },
+    "test/chicago police scanner": {
+      "audio": [
+        "test/chicago police scanner.wav",
+        "33862b5479dbac388be665707ffe0b3f"
+      ]
+    },
+    "test/Budgies Chirping 2": {
+      "audio": [
+        "test/Budgies Chirping 2.wav",
+        "456de7491df0fd566050f5db2b3ff355"
+      ]
+    },
+    "test/Tap_Water": {
+      "audio": [
+        "test/Tap_Water.wav",
+        "40a8f517002a1b67e16cb8b208e9138c"
+      ]
+    },
+    "test/windy day indoors windows rattle": {
+      "audio": [
+        "test/windy day indoors windows rattle.wav",
+        "23034285a1fbbd7e2b0204bb075bc6a8"
+      ]
+    },
+    "test/three departures at bus station": {
+      "audio": [
+        "test/three departures at bus station.wav",
+        "471e3a530aca6fedb9922366c3e38778"
+      ]
+    },
+    "test/Cotton Flapping": {
+      "audio": [
+        "test/Cotton Flapping.wav",
+        "a697487b0ce7a3ce2a500ec9dd650d20"
+      ]
+    },
+    "test/Ambience - Freerange Birds - 96kHzsdasd": {
+      "audio": [
+        "test/Ambience - Freerange Birds - 96kHzsdasd.wav",
+        "e44dcc12081924e4df7c912360d44da0"
+      ]
+    },
+    "test/car_pass_02_070812": {
+      "audio": [
+        "test/car_pass_02_070812.wav",
+        "7d55fe94c0c3735cf03c387d79135736"
+      ]
+    },
+    "test/Ambulence - WARNING LOUD": {
+      "audio": [
+        "test/Ambulence - WARNING LOUD.wav",
+        "2efe2d7200da8d785f5dd37a08e15866"
+      ]
+    },
+    "test/SR005F": {
+      "audio": [
+        "test/SR005F.wav",
+        "cfdecc09087e28c5e68967f66ec9c3ca"
+      ]
+    },
+    "test/ThunderRoll02": {
+      "audio": [
+        "test/ThunderRoll02.wav",
+        "557d4b22a20214a9542c6d66d5520ccb"
+      ]
+    },
+    "test/object falls on wood": {
+      "audio": [
+        "test/object falls on wood.wav",
+        "2745e05518f686a0f66e5d2390a0b217"
+      ]
+    },
+    "test/014_House_Fan": {
+      "audio": [
+        "test/014_House_Fan.wav",
+        "ff995e6c70b9da4d7a1bc69591e2f63a"
+      ]
+    },
+    "test/AftershaveSpray": {
+      "audio": [
+        "test/AftershaveSpray.wav",
+        "3c862fe9e4048bf0818db8c45192df0a"
+      ]
+    },
+    "test/acent": {
+      "audio": [
+        "test/acent.wav",
+        "3597a8ebcb674d75cd38e3f8557be625"
+      ]
+    },
+    "test/Filling Teapot": {
+      "audio": [
+        "test/Filling Teapot.wav",
+        "1caa427855b32f84afbf828b6699e306"
+      ]
+    },
+    "test/glassfordstreet": {
+      "audio": [
+        "test/glassfordstreet.wav",
+        "a34bdb32a45336961e1dfb27a3122c9f"
+      ]
+    },
+    "test/closingmyfrondoor": {
+      "audio": [
+        "test/closingmyfrondoor.wav",
+        "57ea3acb41b6d5db78951eb8cbdf8dd9"
+      ]
+    },
+    "test/FIRE ENGINE long approach and drive away": {
+      "audio": [
+        "test/FIRE ENGINE long approach and drive away.wav",
+        "a2202867baa4f0e1e5944ec924601383"
+      ]
+    },
+    "test/20150330_11.wooden.floor.night.MS": {
+      "audio": [
+        "test/20150330_11.wooden.floor.night.MS.wav",
+        "00cafbef5dac325a5664077cf8d20328"
+      ]
+    },
+    "test/Bumblebees in garden, calm wind, crickets in background 1,21min": {
+      "audio": [
+        "test/Bumblebees in garden, calm wind, crickets in background 1,21min.wav",
+        "57736d200c9b04c3403dc5d8329c0690"
+      ]
+    },
+    "test/Amphitheatre Birds Wav": {
+      "audio": [
+        "test/Amphitheatre Birds Wav.wav",
+        "43845170c94f0f3beca009d14a44f4a1"
+      ]
+    },
+    "test/breath003": {
+      "audio": [
+        "test/breath003.wav",
+        "e3dbd6871dda9907775299fc9f40994f"
+      ]
+    },
+    "test/church bell_ljubljana": {
+      "audio": [
+        "test/church bell_ljubljana.wav",
+        "180f576f072430058770356a385d7b25"
+      ]
+    },
+    "test/Esperance Wind Farm II": {
+      "audio": [
+        "test/Esperance Wind Farm II.wav",
+        "a50a90687532ddeb0a9773a1a62bffe3"
+      ]
+    },
+    "test/HorseGoingBy": {
+      "audio": [
+        "test/HorseGoingBy.wav",
+        "b73de90f6dc6a2b8f316fab1aa8c3195"
+      ]
+    },
+    "test/soundscape forest": {
+      "audio": [
+        "test/soundscape forest.wav",
+        "891493e54aa4b3a9144b7f5ff8fb3c47"
+      ]
+    },
+    "test/atmo__wind_leaves_water_traffic": {
+      "audio": [
+        "test/atmo__wind_leaves_water_traffic.wav",
+        "9219d094153d9421a42b1f7afd4dd328"
+      ]
+    },
+    "test/fizzy-drink-can": {
+      "audio": [
+        "test/fizzy-drink-can.wav",
+        "31f9c3d0a033040a3f2668a99f8905ee"
+      ]
+    },
+    "test/14-Nails Scratching-consolidated": {
+      "audio": [
+        "test/14-Nails Scratching-consolidated.wav",
+        "e8090170a9239b27bd81893f6163024d"
+      ]
+    },
+    "test/Underground Parking Ambience": {
+      "audio": [
+        "test/Underground Parking Ambience.wav",
+        "5285b10056257420bd356bcd33110d93"
+      ]
+    },
+    "test/dog panting": {
+      "audio": [
+        "test/dog panting.wav",
+        "829d3d99b1990259c9661a20ade7b1c9"
+      ]
+    },
+    "test/Blinds being opened and closed quickly and slowly": {
+      "audio": [
+        "test/Blinds being opened and closed quickly and slowly.wav",
+        "6e7cca66e3ee18b7939b8b3eb8871f11"
+      ]
+    },
+    "test/bright_wind": {
+      "audio": [
+        "test/bright_wind.wav",
+        "6fca635967c57fd8d8a225a3c6ba6d09"
+      ]
+    },
+    "test/CFX-20130331-UK-DorsetHarbour02": {
+      "audio": [
+        "test/CFX-20130331-UK-DorsetHarbour02.wav",
+        "ceb60031878bc129e2d218dfe2f4c7c1"
+      ]
+    },
+    "test/LR FRONT_INT CAR DOOR SHUT MVT cricket eve": {
+      "audio": [
+        "test/LR FRONT_INT CAR DOOR SHUT MVT cricket eve.wav",
+        "21a3d659a09b5fe90fdd10546c90f437"
+      ]
+    },
+    "test/PS3F_FOZ_centro_Mufato_anuncio2_tarde": {
+      "audio": [
+        "test/PS3F_FOZ_centro_Mufato_anuncio2_tarde.wav",
+        "1060790ec2a98e202501ba9d38af4461"
+      ]
+    },
+    "test/MetroTrain": {
+      "audio": [
+        "test/MetroTrain.wav",
+        "7b5095fa97932fc7c33c7a11c6627b46"
+      ]
+    },
+    "test/Highway Traffic_1-2": {
+      "audio": [
+        "test/Highway Traffic_1-2.wav",
+        "5956becd2119f3856b4484dcdff0b4e6"
+      ]
+    },
+    "test/Canada geese": {
+      "audio": [
+        "test/Canada geese.wav",
+        "ee488a99c7cf6d45589a6b2258478052"
+      ]
+    },
+    "test/JM_NOIZ_Buzz 01 - Neon Light": {
+      "audio": [
+        "test/JM_NOIZ_Buzz 01 - Neon Light.wav",
+        "fe4c90f41ce89780470d34779e6cb004"
+      ]
+    },
+    "test/waves recording": {
+      "audio": [
+        "test/waves recording.wav",
+        "1dbea22d19fabd126942ca4642d93b09"
+      ]
+    },
+    "test/India Train Ride (Train passing by, Voices, Whistle, sounds inside while riding, Train stopping)": {
+      "audio": [
+        "test/India Train Ride (Train passing by, Voices, Whistle, sounds inside while riding, Train stopping).wav",
+        "75fbdce849f0fd2fee2036bae4774cf8"
+      ]
+    },
+    "test/Vocal Strain - Unprocessed": {
+      "audio": [
+        "test/Vocal Strain - Unprocessed.wav",
+        "e7b858899ba67dea12c4df24c0438421"
+      ]
+    },
+    "test/big glip": {
+      "audio": [
+        "test/big glip.wav",
+        "983ce65a780b1f189586f6b068fe28da"
+      ]
+    },
+    "test/md9trk2": {
+      "audio": [
+        "test/md9trk2.wav",
+        "291ff2dda1bf937537c1d7173d5523d5"
+      ]
+    },
+    "test/fly 1 sands_05": {
+      "audio": [
+        "test/fly 1 sands_05.wav",
+        "ed9ab907963bdb7d2f993b28820c47bc"
+      ]
+    },
+    "test/20060620.ambiance.forest.summer01": {
+      "audio": [
+        "test/20060620.ambiance.forest.summer01.wav",
+        "148b74c510aa5b0a1748f45dec41c4e9"
+      ]
+    },
+    "test/Darkness Of the mind": {
+      "audio": [
+        "test/Darkness Of the mind.wav",
+        "96ba6c7362f956b09ee1cd472d6d4067"
+      ]
+    },
+    "test/Small tractor": {
+      "audio": [
+        "test/Small tractor.wav",
+        "118e15be1ba832d541a18b5db690222d"
+      ]
+    },
+    "test/Class 31 No 31108 at Sutton Cross Halt": {
+      "audio": [
+        "test/Class 31 No 31108 at Sutton Cross Halt.wav",
+        "d326411a56f11d4745f3cd24a6fbbdbf"
+      ]
+    },
+    "test/single bird": {
+      "audio": [
+        "test/single bird.wav",
+        "ede21e8f195b16927a767dc87d8e8780"
+      ]
+    },
+    "test/AMB_CityPark_Day_Seagull_People": {
+      "audio": [
+        "test/AMB_CityPark_Day_Seagull_People.wav",
+        "f0d359391e60a1fdfe869a183375b5ae"
+      ]
+    },
+    "test/Briefcase Open &amp; Close 2": {
+      "audio": [
+        "test/Briefcase Open &amp; Close 2.wav",
+        "2b64a2fc711638de60dcdc98202167c9"
+      ]
+    },
+    "test/bathroomSink1": {
+      "audio": [
+        "test/bathroomSink1.wav",
+        "4058ca2b27ed458f00450a6ae92a5b9e"
+      ]
+    },
+    "test/indoors house ambient living room tone distant neighbours and traffic": {
+      "audio": [
+        "test/indoors house ambient living room tone distant neighbours and traffic.wav",
+        "59a8dd8b37629fee35549ecb70e7c01f"
+      ]
+    },
+    "test/City Street": {
+      "audio": [
+        "test/City Street.wav",
+        "e6f39bb3948c5f49dfd5e8d48a579f1f"
+      ]
+    },
+    "test/hits_bathroomStomp": {
+      "audio": [
+        "test/hits_bathroomStomp.wav",
+        "a517b3c791728c9af5a1bf0f0420648a"
+      ]
+    },
+    "test/road_spikes": {
+      "audio": [
+        "test/road_spikes.wav",
+        "6a07d8115835c59405c31f4c3eab3171"
+      ]
+    },
+    "test/TrafficAmb": {
+      "audio": [
+        "test/TrafficAmb.wav",
+        "5ebe1602af09a2e18d440216de27bc70"
+      ]
+    },
+    "test/Guitar Center employees self-recording 24 bit": {
+      "audio": [
+        "test/Guitar Center employees self-recording 24 bit.wav",
+        "611b4a6e491c56df50a33d31a6cfd96a"
+      ]
+    },
+    "test/Chainsaw_2": {
+      "audio": [
+        "test/Chainsaw_2.wav",
+        "f39528a89d781caae55d0dd697b2a1f8"
+      ]
+    },
+    "test/Squeaking of door handle and rumbling of door": {
+      "audio": [
+        "test/Squeaking of door handle and rumbling of door.wav",
+        "753a4cb8eed732bb177099a98efd8303"
+      ]
+    },
+    "test/trainpvoc": {
+      "audio": [
+        "test/trainpvoc.wav",
+        "77495a198878d74f712fc2146f4d5264"
+      ]
+    },
+    "test/Sitting On Office Chair": {
+      "audio": [
+        "test/Sitting On Office Chair.wav",
+        "5b3b90870c52d1ec2488a8df55559c7e"
+      ]
+    },
+    "test/Pirita Storm waves06.12.2015": {
+      "audio": [
+        "test/Pirita Storm waves06.12.2015.wav",
+        "31d4cd8fc2a2687b9880a1e665d31b87"
+      ]
+    },
+    "test/water jugs": {
+      "audio": [
+        "test/water jugs.wav",
+        "e083b9978cb28b9b73855743a48c4916"
+      ]
+    },
+    "test/closing washing machine": {
+      "audio": [
+        "test/closing washing machine.wav",
+        "055babeeaacb3cb3cecb6e039291f7ca"
+      ]
+    },
+    "test/Setting Class on Table_02-01": {
+      "audio": [
+        "test/Setting Class on Table_02-01.wav",
+        "85771c15e3a10c6ae60c42c53a76aa73"
+      ]
+    },
+    "test/City House Ambience": {
+      "audio": [
+        "test/City House Ambience.wav",
+        "1b6e8c18844df0292b7ebb3ff1667096"
+      ]
+    },
+    "test/indoors ambient room tone": {
+      "audio": [
+        "test/indoors ambient room tone.wav",
+        "d5e621c3007fcca80acfd33ee1b4614b"
+      ]
+    },
+    "test/Insects in the herbs of the plain, thunders in background": {
+      "audio": [
+        "test/Insects in the herbs of the plain, thunders in background.wav",
+        "4bc76608d020c45012378c0c8b5039a5"
+      ]
+    },
+    "test/Antonio Casquez - Canvis": {
+      "audio": [
+        "test/Antonio Casquez - Canvis.wav",
+        "8f588277229fa71f94aec025554994b2"
+      ]
+    },
+    "test/Sliding_Window": {
+      "audio": [
+        "test/Sliding_Window.wav",
+        "b4adf154304137c235d1d901efe680af"
+      ]
+    },
+    "test/Ripples": {
+      "audio": [
+        "test/Ripples.wav",
+        "06c0d344dba9a7f04d280a4336c4d298"
+      ]
+    },
+    "test/04122 metallic cinematic hits": {
+      "audio": [
+        "test/04122 metallic cinematic hits.wav",
+        "8d5570c5a64c5c4f00040440f0015b3e"
+      ]
+    },
+    "test/water blups": {
+      "audio": [
+        "test/water blups.wav",
+        "76b3151c712d8aeaf568ac7d45b6fa8a"
+      ]
+    },
+    "test/bangalore_zug_schnell": {
+      "audio": [
+        "test/bangalore_zug_schnell.wav",
+        "e5711d0b4a13572d0d6886989e5ffaff"
+      ]
+    },
+    "test/Chains Being Rolled Up": {
+      "audio": [
+        "test/Chains Being Rolled Up.wav",
+        "e542a3da5e98367dd7be9b5a0675d9eb"
+      ]
+    },
+    "test/WaterRunning": {
+      "audio": [
+        "test/WaterRunning.wav",
+        "3cba06d95d2e07df1e5c02bc55a92a4c"
+      ]
+    },
+    "test/steam engine": {
+      "audio": [
+        "test/steam engine.wav",
+        "8b249f8c04f9bf850da5e3e28d1ada0c"
+      ]
+    },
+    "test/natural_wind": {
+      "audio": [
+        "test/natural_wind.wav",
+        "c26eb4afaa5e325af370be3afdea4e7a"
+      ]
+    },
+    "test/20060510.walk.scrub": {
+      "audio": [
+        "test/20060510.walk.scrub.wav",
+        "1d2d0db32f4c10bf04d82b72a4a3434e"
+      ]
+    },
+    "test/static choppy 1400 kHz": {
+      "audio": [
+        "test/static choppy 1400 kHz.wav",
+        "2c0ff61d215d8ade2f47a50258e47556"
+      ]
+    },
+    "test/walking on lava": {
+      "audio": [
+        "test/walking on lava.wav",
+        "87b81b3eb2d02bf3fda521a74d393332"
+      ]
+    },
+    "test/Water plopping in pulling out small object": {
+      "audio": [
+        "test/Water plopping in pulling out small object.wav",
+        "a6e32f763f7e35cb705b07853d1b70ba"
+      ]
+    },
+    "test/2016-10-06 Thunder Crack": {
+      "audio": [
+        "test/2016-10-06 Thunder Crack.wav",
+        "91f3ae292d1cb52e360ecb145d779070"
+      ]
+    },
+    "test/Coming into a hospital in saturday": {
+      "audio": [
+        "test/Coming into a hospital in saturday.wav",
+        "6957b01e0c5dc0414a871588c8a4786c"
+      ]
+    },
+    "test/Footsteps on Slushy Cement": {
+      "audio": [
+        "test/Footsteps on Slushy Cement.wav",
+        "4e6d22797c7137850b528309c1629366"
+      ]
+    },
+    "test/night_station": {
+      "audio": [
+        "test/night_station.wav",
+        "6fccb3d07ad0e07b1a45284aee4f62ec"
+      ]
+    },
+    "test/shower short": {
+      "audio": [
+        "test/shower short.wav",
+        "8c5afbb7b074762b132d4ed0c637cbf4"
+      ]
+    },
+    "test/Klangschale weich ff": {
+      "audio": [
+        "test/Klangschale weich ff.wav",
+        "ebbccaeb6244676563446269e3efe5ef"
+      ]
+    },
+    "test/level crossing": {
+      "audio": [
+        "test/level crossing.wav",
+        "e8587a21672b0a9a10aa96c8e01ac744"
+      ]
+    },
+    "test/20080302.sheeps.close": {
+      "audio": [
+        "test/20080302.sheeps.close.wav",
+        "582336276a3996d8e21894296632b1e8"
+      ]
+    },
+    "test/market1": {
+      "audio": [
+        "test/market1.wav",
+        "b1724a748dddfbfce5bb8ddf2f734279"
+      ]
+    },
+    "test/pukanie1": {
+      "audio": [
+        "test/pukanie1.wav",
+        "1eaae9a256028e27f8fb45bf182c7e0e"
+      ]
+    },
+    "test/0808091": {
+      "audio": [
+        "test/0808091.wav",
+        "e9cb7a0f29fd3e6e5c6aabcd0f0ba636"
+      ]
+    },
+    "test/Sewing_machine_OWI": {
+      "audio": [
+        "test/Sewing_machine_OWI.wav",
+        "e22a160fdffb96a35b9c956a90ba6382"
+      ]
+    },
+    "test/Travers": {
+      "audio": [
+        "test/Travers.wav",
+        "70839b3aedd2beec9a2d5ce9559d236f"
+      ]
+    },
+    "test/CFX-20130331-UK-DorsetHarbour06": {
+      "audio": [
+        "test/CFX-20130331-UK-DorsetHarbour06.wav",
+        "5d8b3673b02835da6528572ab43a1378"
+      ]
+    },
+    "test/Rain In The City": {
+      "audio": [
+        "test/Rain In The City.wav",
+        "bd05ea712c7fffb7d434d393ef3e175a"
+      ]
+    },
+    "test/Pecan nuts cracked open": {
+      "audio": [
+        "test/Pecan nuts cracked open.wav",
+        "4b3dbffa55b826efb445234f2af41a0b"
+      ]
+    },
+    "test/kettle-watergong3": {
+      "audio": [
+        "test/kettle-watergong3.wav",
+        "4fbac8c4a8a6840cad081dc957341186"
+      ]
+    },
+    "test/Amtrak Crescent and Commuter Train, Left to Right": {
+      "audio": [
+        "test/Amtrak Crescent and Commuter Train, Left to Right.wav",
+        "806a8aec565c3d7c119ac1e3fdb2ff1a"
+      ]
+    },
+    "test/20061214.wrench.01": {
+      "audio": [
+        "test/20061214.wrench.01.wav",
+        "ef7d506ad29522627c345290ae7f263c"
+      ]
+    },
+    "test/130915 - Interior Room - Hard Rain on Flat Roof": {
+      "audio": [
+        "test/130915 - Interior Room - Hard Rain on Flat Roof.wav",
+        "36df7f193689d3b9ee8717ec8013768e"
+      ]
+    },
+    "test/md1trk13": {
+      "audio": [
+        "test/md1trk13.wav",
+        "5f0422a0945e51e6b544f64c5978adec"
+      ]
+    },
+    "test/Office environment": {
+      "audio": [
+        "test/Office environment.wav",
+        "68cd35c88c747d6173aa60447f72d8b9"
+      ]
+    },
+    "test/Bus sound": {
+      "audio": [
+        "test/Bus sound.wav",
+        "6588932319fbbe98807c3982ce7f7a9e"
+      ]
+    },
+    "test/CFX-20130329-UK-DorsetHouseDoors01": {
+      "audio": [
+        "test/CFX-20130329-UK-DorsetHouseDoors01.wav",
+        "fcc382bb0acf49b6612b0908a0d4b898"
+      ]
+    },
+    "test/Footsteps Water 01": {
+      "audio": [
+        "test/Footsteps Water 01.wav",
+        "03c3681e1932676344c06285bac789ed"
+      ]
+    },
+    "test/douche01-def01": {
+      "audio": [
+        "test/douche01-def01.wav",
+        "5250d8f64c26530bd4d9895560d2aea0"
+      ]
+    },
+    "test/kettle-watergong2": {
+      "audio": [
+        "test/kettle-watergong2.wav",
+        "9ed40dd19000f40501cef0161be32664"
+      ]
+    },
+    "test/untitled_sitting on bed": {
+      "audio": [
+        "test/untitled_sitting on bed.wav",
+        "a3bd2f6b0770a1a21d489e594d16cc54"
+      ]
+    },
+    "test/sweep phrase": {
+      "audio": [
+        "test/sweep phrase.wav",
+        "e2869d764e41d19f30ac1acb1295bf85"
+      ]
+    },
+    "test/Squeaky Windshield Wipers": {
+      "audio": [
+        "test/Squeaky Windshield Wipers.wav",
+        "0f0f525a54878ea88adcba07d8390a48"
+      ]
+    },
+    "test/Short circuit": {
+      "audio": [
+        "test/Short circuit.wav",
+        "f5a7381b6d6367ec75adea867bddf0f3"
+      ]
+    },
+    "test/Kurla local train station Mumbai (2)": {
+      "audio": [
+        "test/Kurla local train station Mumbai (2).wav",
+        "2dfc39895149bef6873912743eb4e1ca"
+      ]
+    },
+    "test/vendedor_ambulante": {
+      "audio": [
+        "test/vendedor_ambulante.wav",
+        "5884629a01dc328285ed369b264c7c99"
+      ]
+    },
+    "test/rainy alleyway": {
+      "audio": [
+        "test/rainy alleyway.wav",
+        "de54a98a730d3832150ccbf33a7f5ea1"
+      ]
+    },
+    "test/Waterfalls_00212": {
+      "audio": [
+        "test/Waterfalls_00212.wav",
+        "5628ac496abc8b3b8617192948577809"
+      ]
+    },
+    "test/AMB_traffic_night_distant_02": {
+      "audio": [
+        "test/AMB_traffic_night_distant_02.wav",
+        "416f7d3ba7b1346a477f0034ebb9995a"
+      ]
+    },
+    "test/Busy Dining Room Atmos": {
+      "audio": [
+        "test/Busy Dining Room Atmos.wav",
+        "4469b0b9888c54a3872cb80e62188409"
+      ]
+    },
+    "test/Rain Drip With Bird": {
+      "audio": [
+        "test/Rain Drip With Bird.wav",
+        "c8f3ed7553e485fdcc53568e9e6765a0"
+      ]
+    },
+    "test/Espresso": {
+      "audio": [
+        "test/Espresso.wav",
+        "f378e298366efb34839ffc98e613d94a"
+      ]
+    },
+    "test/Fuse": {
+      "audio": [
+        "test/Fuse.wav",
+        "4431a0904011bbe91f4fc860604d564d"
+      ]
+    },
+    "test/20070424.footsteps": {
+      "audio": [
+        "test/20070424.footsteps.wav",
+        "1d15cfd6247d4588364a01174f1497ca"
+      ]
+    },
+    "test/firenze_kids_churchyard": {
+      "audio": [
+        "test/firenze_kids_churchyard.wav",
+        "8127360ba717dac85bedb28e253f8dac"
+      ]
+    },
+    "test/indoors ambient room tone 1": {
+      "audio": [
+        "test/indoors ambient room tone 1.wav",
+        "292da3a5c3af94b06f6d165558021da9"
+      ]
+    },
+    "test/EXT Quiet Valley": {
+      "audio": [
+        "test/EXT Quiet Valley.wav",
+        "4c7c6253c3eda8ffc1bf8f5d44e53315"
+      ]
+    },
+    "test/burton_waterfall_02": {
+      "audio": [
+        "test/burton_waterfall_02.wav",
+        "1c82c445f84ff18e6365855baecb12d7"
+      ]
+    },
+    "test/passage_tgv": {
+      "audio": [
+        "test/passage_tgv.wav",
+        "0692a80142da0a36ec6645a8362675ed"
+      ]
+    },
+    "test/Birds_Singing": {
+      "audio": [
+        "test/Birds_Singing.wav",
+        "269b4041d785edfcecb46523d5641e9b"
+      ]
+    },
+    "test/Thunderstrikes very close": {
+      "audio": [
+        "test/Thunderstrikes very close.wav",
+        "96a872604d881baa61b17acecc631c8e"
+      ]
+    },
+    "test/police motorcycle distance to stop": {
+      "audio": [
+        "test/police motorcycle distance to stop.wav",
+        "c06fe30774a941cc2bc3129ddf822635"
+      ]
+    },
+    "test/Peeing into toilet": {
+      "audio": [
+        "test/Peeing into toilet.wav",
+        "9300875c0de1257e71f95442adf04ccc"
+      ]
+    },
+    "test/GORAZD_0075_Omori_Pachinko": {
+      "audio": [
+        "test/GORAZD_0075_Omori_Pachinko.wav",
+        "4bd86eda9bee7c85b1398797fe00124d"
+      ]
+    },
+    "test/coffee Elite opening": {
+      "audio": [
+        "test/coffee Elite opening.wav",
+        "ebce385f07765995e0c57724380c39fc"
+      ]
+    },
+    "test/Motor bikes passing by": {
+      "audio": [
+        "test/Motor bikes passing by.wav",
+        "9e370791ea0c63f8ee93d077ed0edea5"
+      ]
+    },
+    "test/rbh Waves Lake Medium 01": {
+      "audio": [
+        "test/rbh Waves Lake Medium 01.wav",
+        "2631d50ddf148f02e6af4cd36df4d758"
+      ]
+    },
+    "test/Ambience_Outdoor_Wind_Birds": {
+      "audio": [
+        "test/Ambience_Outdoor_Wind_Birds.wav",
+        "e5bace2771582e0634ffd4de89ab69b7"
+      ]
+    },
+    "test/Cicada_00410": {
+      "audio": [
+        "test/Cicada_00410.wav",
+        "0525f8eefb59eec09c993ea4571a886c"
+      ]
+    },
+    "test/sparrows_berlin": {
+      "audio": [
+        "test/sparrows_berlin.wav",
+        "a2d3123d521119fa340ac0d220e0ce44"
+      ]
+    },
+    "test/foley footsteps walking in room indoors": {
+      "audio": [
+        "test/foley footsteps walking in room indoors.wav",
+        "1bb09b36c24d3fc1948c700a991209df"
+      ]
+    },
+    "test/Neighborhood Ambiance": {
+      "audio": [
+        "test/Neighborhood Ambiance.wav",
+        "b6de1a86c953892732da5b437803fe22"
+      ]
+    },
+    "test/150209 Trevor Webb Teeth Brushing": {
+      "audio": [
+        "test/150209 Trevor Webb Teeth Brushing.wav",
+        "0163284cb07ab2a678f6c83ad9874e37"
+      ]
+    },
+    "test/20091217.05.street.cleaning": {
+      "audio": [
+        "test/20091217.05.street.cleaning.wav",
+        "3b1b65c0b18dff75d73cf8b50aabb78d"
+      ]
+    },
+    "test/AMB_Ext_Night_Residential_001": {
+      "audio": [
+        "test/AMB_Ext_Night_Residential_001.wav",
+        "26aafe87777ff82ac8fcbba0883a6f77"
+      ]
+    },
+    "test/ChurchProcession": {
+      "audio": [
+        "test/ChurchProcession.wav",
+        "f19ba4f6f1e7c578493e2414156dd0fb"
+      ]
+    },
+    "test/BigCrowdBigHall": {
+      "audio": [
+        "test/BigCrowdBigHall.wav",
+        "9d0067f659fbd039fb52f8f4b8f2f996"
+      ]
+    },
+    "test/ouverture-contenair_1": {
+      "audio": [
+        "test/ouverture-contenair_1.wav",
+        "ed602e16c5f476d13bfa8247c6e4085c"
+      ]
+    },
+    "test/Drinking Water and refreshing sigh": {
+      "audio": [
+        "test/Drinking Water and refreshing sigh.wav",
+        "30766570602c1ac16d68fbc56aa603f0"
+      ]
+    },
+    "test/washing_machine_beginning": {
+      "audio": [
+        "test/washing_machine_beginning.wav",
+        "83a9f021013aa7cb9fa767a145f6292f"
+      ]
+    },
+    "test/disquetera3": {
+      "audio": [
+        "test/disquetera3.wav",
+        "33faefacf6c166e78bcf23374f430000"
+      ]
+    },
+    "test/creek_tyrol_austria": {
+      "audio": [
+        "test/creek_tyrol_austria.wav",
+        "9b00f71134886d4176b0dc405be50440"
+      ]
+    },
+    "test/bkkairport01": {
+      "audio": [
+        "test/bkkairport01.wav",
+        "6de24729d4440d9368342a6ba7a3e739"
+      ]
+    },
+    "test/ICE55": {
+      "audio": [
+        "test/ICE55.wav",
+        "6a04abc98591f989625fac2541c00330"
+      ]
+    },
+    "test/rutting deer 2": {
+      "audio": [
+        "test/rutting deer 2.wav",
+        "b3cf29fd64b6f58313ce716dc9e78275"
+      ]
+    },
+    "test/Football Practice Huddle, Pad Hits &amp; Sack": {
+      "audio": [
+        "test/Football Practice Huddle, Pad Hits &amp; Sack.wav",
+        "db54f65142c34537d036b781fed3196a"
+      ]
+    },
+    "test/Popcorn Foley": {
+      "audio": [
+        "test/Popcorn Foley.wav",
+        "8ff697f7680f65859035e10dc9bea81c"
+      ]
+    },
+    "test/sanding wallboard": {
+      "audio": [
+        "test/sanding wallboard.wav",
+        "36508dc33a7d5ddb44998be9fe18a6b3"
+      ]
+    },
+    "test/Foley Man Collapsing": {
+      "audio": [
+        "test/Foley Man Collapsing.wav",
+        "6bef796dd26fe487e7316c032917fbb2"
+      ]
+    },
+    "test/CFX-20130331-UK-DorsetHarbour05": {
+      "audio": [
+        "test/CFX-20130331-UK-DorsetHarbour05.wav",
+        "11ec823c24f7f91f8a3b3535418ac44a"
+      ]
+    },
+    "test/people_sitting_by_fire": {
+      "audio": [
+        "test/people_sitting_by_fire.wav",
+        "acb64913e97b2a0af2b8b9c2c74fa968"
+      ]
+    },
+    "test/Sk310308 chaffinch crow": {
+      "audio": [
+        "test/Sk310308 chaffinch crow.wav",
+        "e70277aa4c5070f73b9328b6376e6100"
+      ]
+    },
+    "test/platform": {
+      "audio": [
+        "test/platform.wav",
+        "0518eef13bfe05c913133140687ad4a8"
+      ]
+    },
+    "test/Birds and insects in the wetlands of Melissant": {
+      "audio": [
+        "test/Birds and insects in the wetlands of Melissant.wav",
+        "ab9a95f6cd64911c43379630698fb87c"
+      ]
+    },
+    "test/Mascara": {
+      "audio": [
+        "test/Mascara.wav",
+        "9541d8e2085a15af7121515bc7de6943"
+      ]
+    },
+    "test/crossing bells": {
+      "audio": [
+        "test/crossing bells.wav",
+        "0ceafdbf47e13a460062b401009a2abf"
+      ]
+    },
+    "test/CFX-20130329-UK-DorsetHouseDoors02": {
+      "audio": [
+        "test/CFX-20130329-UK-DorsetHouseDoors02.wav",
+        "f1010c85a1728fcd8105de4adcbcd461"
+      ]
+    },
+    "test/Yellow Throated Honeyeater": {
+      "audio": [
+        "test/Yellow Throated Honeyeater.wav",
+        "12274f831d32952e62410d05595a98a9"
+      ]
+    },
+    "test/ThreeFireworks": {
+      "audio": [
+        "test/ThreeFireworks.wav",
+        "bb7baa6ee2a7111104216c2f8b1b7bf2"
+      ]
+    },
+    "test/Water on tarp 2": {
+      "audio": [
+        "test/Water on tarp 2.wav",
+        "3083600828dcb5691d62da4f295436c5"
+      ]
+    },
+    "test/Moving Chair On Carpet": {
+      "audio": [
+        "test/Moving Chair On Carpet.wav",
+        "1f107334466151db9455ecd373630cef"
+      ]
+    },
+    "test/shopper_atmos": {
+      "audio": [
+        "test/shopper_atmos.wav",
+        "f78a805d41aa9f48363430b4316d34a6"
+      ]
+    },
+    "test/Coffee Machine - Brew 1": {
+      "audio": [
+        "test/Coffee Machine - Brew 1.wav",
+        "36ba6cfed04874057f2316feff5b2a11"
+      ]
+    },
+    "test/CFX-20130331-UK-DorsetHarbour04": {
+      "audio": [
+        "test/CFX-20130331-UK-DorsetHarbour04.wav",
+        "7da2284b2d40fa11d5b759423bf411f4"
+      ]
+    },
+    "test/Before-After Remix of 53263__stomachache__pterodactyl": {
+      "audio": [
+        "test/Before-After Remix of 53263__stomachache__pterodactyl.wav",
+        "cfe6125ebf775e01be04c18f7f52d2bb"
+      ]
+    },
+    "test/HOUSEHOLD-FRIDGE-Whirlpool-brand fridge cooling, opening and closing fridge door_001": {
+      "audio": [
+        "test/HOUSEHOLD-FRIDGE-Whirlpool-brand fridge cooling, opening and closing fridge door_001.wav",
+        "43cf5a2e7bbe2a955b473438a4b2b34b"
+      ]
+    },
+    "test/In an English Suburban Garden": {
+      "audio": [
+        "test/In an English Suburban Garden.wav",
+        "2098b5e952733affffbcdcc554b7c050"
+      ]
+    },
+    "test/Ambience_hurricane tube_low freq": {
+      "audio": [
+        "test/Ambience_hurricane tube_low freq.wav",
+        "92f48fb000b2c257064f53cf4bb802c3"
+      ]
+    },
+    "test/Landing Jet 3": {
+      "audio": [
+        "test/Landing Jet 3.wav",
+        "507c3786f6df4ffca66173761dc8ac77"
+      ]
+    },
+    "test/wine_glasses_drying_bottom_up (miroslawski.net)": {
+      "audio": [
+        "test/wine_glasses_drying_bottom_up (miroslawski.net).wav",
+        "65a773daedf5b20fe0c2170e5859e586"
+      ]
+    },
+    "test/Train Passing Grade Crossing": {
+      "audio": [
+        "test/Train Passing Grade Crossing.wav",
+        "f36c8da6a430a1bb5e4b71994988f2ed"
+      ]
+    },
+    "test/big wooden door open close": {
+      "audio": [
+        "test/big wooden door open close.wav",
+        "d2a5f44597b63a61dd9b58fa57fcd769"
+      ]
+    },
+    "test/stanley_and_reese_bath_03": {
+      "audio": [
+        "test/stanley_and_reese_bath_03.wav",
+        "a923838c09af26586c787e34a8a9a549"
+      ]
+    },
+    "test/Remulada": {
+      "audio": [
+        "test/Remulada.wav",
+        "65589ee7da83c937874045d50c50cf83"
+      ]
+    },
+    "test/WS RunningWater": {
+      "audio": [
+        "test/WS RunningWater.wav",
+        "beba5974558d4ff82a417b8098c803e2"
+      ]
+    },
+    "test/Ferry boat": {
+      "audio": [
+        "test/Ferry boat.wav",
+        "5adf38b2bec52fc5c4640ee92de230f7"
+      ]
+    },
+    "test/Polaroid Camera Shot": {
+      "audio": [
+        "test/Polaroid Camera Shot.wav",
+        "d5bff1943301a430d63395e3739ab6ad"
+      ]
+    },
+    "test/Fly Spray 4X Slow": {
+      "audio": [
+        "test/Fly Spray 4X Slow.wav",
+        "59eb694b199e47a257a85ea27b64e43b"
+      ]
+    },
+    "test/Thunder (Olympus LS-20M)": {
+      "audio": [
+        "test/Thunder (Olympus LS-20M).wav",
+        "3de3c7ee06290649d65edef111d1dc32"
+      ]
+    },
+    "test/The Commons": {
+      "audio": [
+        "test/The Commons.wav",
+        "9af8eea6c4ffceaabd830073158de018"
+      ]
+    },
+    "test/stan_laughing_12292012": {
+      "audio": [
+        "test/stan_laughing_12292012.wav",
+        "b9da931268f8399858d209546ccccd7d"
+      ]
+    },
+    "test/Chainsaw_4": {
+      "audio": [
+        "test/Chainsaw_4.wav",
+        "827458d45ec7ec08750e92667e8e4ed9"
+      ]
+    },
+    "test/Resocopter Fast": {
+      "audio": [
+        "test/Resocopter Fast.wav",
+        "ffe74bd1240374a5d500e0f7f3c35f8a"
+      ]
+    },
+    "test/Opening Closing old oven": {
+      "audio": [
+        "test/Opening Closing old oven.wav",
+        "3dc60df04c0a0318ef10988a7984e924"
+      ]
+    },
+    "test/office.refrigerator": {
+      "audio": [
+        "test/office.refrigerator.wav",
+        "c3122bb333c5a4c3bc0cd5ef81c98773"
+      ]
+    },
+    "test/Ambience of the battle field2": {
+      "audio": [
+        "test/Ambience of the battle field2.wav",
+        "53153e2803d7c36e543efe0217aea5a0"
+      ]
+    },
+    "test/Man inhale and exhale vape": {
+      "audio": [
+        "test/Man inhale and exhale vape.wav",
+        "b90ace0fa465397b3f5429153e8030f9"
+      ]
+    },
+    "test/CFX-20130331-UK-DorsetSeaBeach02": {
+      "audio": [
+        "test/CFX-20130331-UK-DorsetSeaBeach02.wav",
+        "84d9c4e1ad53b918179cc799cb286933"
+      ]
+    },
+    "test/elvis_radio_announcer_no_static": {
+      "audio": [
+        "test/elvis_radio_announcer_no_static.wav",
+        "69e6a624b8e94b5829d9a96c9fabc2a3"
+      ]
+    },
+    "test/Pills02": {
+      "audio": [
+        "test/Pills02.wav",
+        "6d6af219573d0ab0635ed3792312e8fb"
+      ]
+    },
+    "test/Mechanical office sharpener": {
+      "audio": [
+        "test/Mechanical office sharpener.wav",
+        "1f31033d153ba88fb2fbbbae70248156"
+      ]
+    },
+    "test/gotes lent": {
+      "audio": [
+        "test/gotes lent.wav",
+        "cc7410125448772a9946964f1ee0682b"
+      ]
+    },
+    "test/Windermere Ferry Door Closing": {
+      "audio": [
+        "test/Windermere Ferry Door Closing.wav",
+        "04776a70c8310947599a59f1d008e55d"
+      ]
+    },
+    "test/Cat Meow and Purr": {
+      "audio": [
+        "test/Cat Meow and Purr.wav",
+        "33b67dfb1fd67deb9f2e329648fed9cd"
+      ]
+    },
+    "test/PipeWork": {
+      "audio": [
+        "test/PipeWork.wav",
+        "ea90bfadf6033855469594f95fa142ce"
+      ]
+    },
+    "test/windscreen wipers light rain": {
+      "audio": [
+        "test/windscreen wipers light rain.wav",
+        "12d43d6c8d5e65366e5a71d1da44488a"
+      ]
+    },
+    "test/Doorsbell": {
+      "audio": [
+        "test/Doorsbell.wav",
+        "05f633c057117e3fd8a748fe97f9aa2e"
+      ]
+    },
+    "test/Oil sizzling": {
+      "audio": [
+        "test/Oil sizzling.wav",
+        "b6fb1cc3133f92955cb35158861ad689"
+      ]
+    },
+    "test/FX_Closing Sqeezing Wooden Door": {
+      "audio": [
+        "test/FX_Closing Sqeezing Wooden Door.wav",
+        "4f9f585a986a4cc61ab2e4e45241fcb1"
+      ]
+    },
+    "test/Water on Coal": {
+      "audio": [
+        "test/Water on Coal.wav",
+        "905a255446294238917bdb441411babc"
+      ]
+    },
+    "test/PJcalls2": {
+      "audio": [
+        "test/PJcalls2.wav",
+        "b3f67ee662ecade8048f74f6d9bacd7b"
+      ]
+    },
+    "test/20110903_cycadas.n.wind.06": {
+      "audio": [
+        "test/20110903_cycadas.n.wind.06.wav",
+        "a5b99a9505172b1b04a2734ddbaccb84"
+      ]
+    },
+    "test/Moscow metro journey": {
+      "audio": [
+        "test/Moscow metro journey.wav",
+        "c88ddd18103f3a04a5fbe810a9aaeb52"
+      ]
+    },
+    "test/WASHER machine 2": {
+      "audio": [
+        "test/WASHER machine 2.wav",
+        "44651450eb5c02c7fc857abda73656b0"
+      ]
+    },
+    "test/Rain next to open window, dog barks in the distance": {
+      "audio": [
+        "test/Rain next to open window, dog barks in the distance.wav",
+        "85f14824f4a9897da019509066909cfa"
+      ]
+    },
+    "test/2009-07-23_1554_Serralves Park Airplane flying by": {
+      "audio": [
+        "test/2009-07-23_1554_Serralves Park Airplane flying by.wav",
+        "13a52e23d3f10c35f62e8c4b2744afcf"
+      ]
+    },
+    "test/Call to Prayer, Old Dehli": {
+      "audio": [
+        "test/Call to Prayer, Old Dehli.wav",
+        "c6473bb5c510fab088162051789aa089"
+      ]
+    },
+    "test/bumble bee web": {
+      "audio": [
+        "test/bumble bee web.wav",
+        "f45b149df94942a4c55ea6865c536144"
+      ]
+    },
+    "test/chickens in coop": {
+      "audio": [
+        "test/chickens in coop.wav",
+        "75934fcb74434f1a0ab37986cd1eb3df"
+      ]
+    },
+    "test/BRITISH PHONE": {
+      "audio": [
+        "test/BRITISH PHONE.wav",
+        "83bb783ff9f14f1b2f6508a9e55f7753"
+      ]
+    },
+    "test/traffic at green light": {
+      "audio": [
+        "test/traffic at green light.wav",
+        "b25613a962fdcc9e67cdd4fc71162148"
+      ]
+    },
+    "test/Clothing Rubbing Foley Sound": {
+      "audio": [
+        "test/Clothing Rubbing Foley Sound.wav",
+        "0f585136ca727c7aaba19dff34f13246"
+      ]
+    },
+    "test/20060804.marshes.cricket02": {
+      "audio": [
+        "test/20060804.marshes.cricket02.wav",
+        "9182748fd9b7da649a78d8a77f40711a"
+      ]
+    },
+    "test/Robot Overlords Monologue": {
+      "audio": [
+        "test/Robot Overlords Monologue.wav",
+        "75fdcfd4decda9ad512cc0420f30d8ea"
+      ]
+    },
+    "test/templebell": {
+      "audio": [
+        "test/templebell.wav",
+        "89c16bd46bdc2e077dce8cfbe5218359"
+      ]
+    },
+    "test/Microwave 01": {
+      "audio": [
+        "test/Microwave 01.wav",
+        "b47823cb7b898f3127ba0b36134c5f45"
+      ]
+    },
+    "test/Portugese Fish Market": {
+      "audio": [
+        "test/Portugese Fish Market.wav",
+        "10e59d2ea97a7ca867734b35f40e5086"
+      ]
+    },
+    "test/Cutting paper": {
+      "audio": [
+        "test/Cutting paper.wav",
+        "4d43ec76486add5ce5dc8c4fa9eecb4b"
+      ]
+    },
+    "test/dumpster truck": {
+      "audio": [
+        "test/dumpster truck.wav",
+        "11046ab0b15f48b46693ae0dfaf4c0ed"
+      ]
+    },
+    "test/WATER DRIP 2 ECHO LOW PITCH": {
+      "audio": [
+        "test/WATER DRIP 2 ECHO LOW PITCH.wav",
+        "2d045ad4f0f8bfde106944c841b32579"
+      ]
+    },
+    "test/Sirena_24.05.11": {
+      "audio": [
+        "test/Sirena_24.05.11.wav",
+        "c4aebc9a16e0c3ee998bfa67c5fa9eab"
+      ]
+    },
+    "test/Neighbourhood Ambiance": {
+      "audio": [
+        "test/Neighbourhood Ambiance.wav",
+        "06eb67e3f937da6d188fde50bcc5c5da"
+      ]
+    },
+    "test/Kitchen Timer Ticking Long": {
+      "audio": [
+        "test/Kitchen Timer Ticking Long.wav",
+        "58738903e8c0352e561f7f94f98440bc"
+      ]
+    },
+    "test/radio_am_01": {
+      "audio": [
+        "test/radio_am_01.wav",
+        "f8c4237a69a91dcd73e6e9f4d4600a98"
+      ]
+    },
+    "test/20110823_mountain.01": {
+      "audio": [
+        "test/20110823_mountain.01.wav",
+        "11e714ca9437d815468957cc68686f0b"
+      ]
+    },
+    "test/Chrysler LHS tire squeal 04 (04-25-2009)": {
+      "audio": [
+        "test/Chrysler LHS tire squeal 04 (04-25-2009).wav",
+        "a6b4a7edc26de1f589adf9cd66cacc5d"
+      ]
+    },
+    "test/dishwasher01": {
+      "audio": [
+        "test/dishwasher01.wav",
+        "0f2f6d73acffadab5d8f832e8801fe9e"
+      ]
+    },
+    "test/White Water": {
+      "audio": [
+        "test/White Water.wav",
+        "2a897ee05d05565db0ca738b9d9ae6f8"
+      ]
+    },
+    "test/erilee_tram_over_bridge": {
+      "audio": [
+        "test/erilee_tram_over_bridge.wav",
+        "92f6487cd3b1b3f4ee5215f21919c306"
+      ]
+    },
+    "test/water dispenser": {
+      "audio": [
+        "test/water dispenser.wav",
+        "1aa2eaacdbb0b81b70eb57f7dadab629"
+      ]
+    },
+    "test/Pork sausage": {
+      "audio": [
+        "test/Pork sausage.wav",
+        "cb624ea5bfedd4593f78b9a59289270d"
+      ]
+    },
+    "test/city pond ducks yell": {
+      "audio": [
+        "test/city pond ducks yell.wav",
+        "29a02b6da4677e3066627ec6ca1def49"
+      ]
+    },
+    "test/Machine": {
+      "audio": [
+        "test/Machine.wav",
+        "94c446f7dc4b5b815138008693a9f2fc"
+      ]
+    },
+    "test/Creek Running water": {
+      "audio": [
+        "test/Creek Running water.wav",
+        "2a4202384e9bd4919097b074b042adac"
+      ]
+    },
+    "test/Tap Water Open": {
+      "audio": [
+        "test/Tap Water Open.wav",
+        "4d5d144baf3c8fdaef9365f8f628bdc2"
+      ]
+    },
+    "test/Bell Ring.R": {
+      "audio": [
+        "test/Bell Ring.R.wav",
+        "662da740bc815d33916b1a800d09d9ce"
+      ]
+    },
+    "test/Oxford Cambridge boat race 2010": {
+      "audio": [
+        "test/Oxford Cambridge boat race 2010.wav",
+        "4cd049ef4be211686ba2e31bddd9d822"
+      ]
+    },
+    "test/cowbells1": {
+      "audio": [
+        "test/cowbells1.wav",
+        "ffb7d16431b55f2364b3d24e13c2db1b"
+      ]
+    },
+    "test/nightbird": {
+      "audio": [
+        "test/nightbird.wav",
+        "ad6e0cd4cb200a970dbc66a6448b3845"
+      ]
+    },
+    "test/Car by slow Acura DonFX": {
+      "audio": [
+        "test/Car by slow Acura DonFX.wav",
+        "263191c68bc24d3981029ae718422d80"
+      ]
+    },
+    "test/istanbul tram": {
+      "audio": [
+        "test/istanbul tram.wav",
+        "3ee7660b00bd6736e1b83358f6240ec7"
+      ]
+    },
+    "test/Voktebef_I&#39;m not sure if I&#39;m here": {
+      "audio": [
+        "test/Voktebef_I&#39;m not sure if I&#39;m here.wav",
+        "f32393c011a4cfdf156b6ec6b2c2e60b"
+      ]
+    },
+    "test/Opening and closing a big old door": {
+      "audio": [
+        "test/Opening and closing a big old door.wav",
+        "e1569fa57900245d7230749ce1731096"
+      ]
+    },
+    "test/Boulevard with motorbike": {
+      "audio": [
+        "test/Boulevard with motorbike.wav",
+        "6200e2a35942ecca02a416db72c2b66c"
+      ]
+    },
+    "test/telefono_en_espera": {
+      "audio": [
+        "test/telefono_en_espera.wav",
+        "8847238e1ccd64fb390a84f5ff386b94"
+      ]
+    },
+    "test/SOUND1_sodapop_VONT01_1": {
+      "audio": [
+        "test/SOUND1_sodapop_VONT01_1.wav",
+        "cb0f5ac1956582fd40e7ac3501499301"
+      ]
+    },
+    "test/Construction Work 1 - 44.1kHz16Bit - Measurement Mirophone - Mono - TASCAM_DR40 - normalized - fade in and fade out low-3": {
+      "audio": [
+        "test/Construction Work 1 - 44.1kHz16Bit - Measurement Mirophone - Mono - TASCAM_DR40 - normalized - fade in and fade out low-3.wav",
+        "00863438a419ef6cd748bd12e61aa3cb"
+      ]
+    },
+    "test/Carillon Servaas Church 100411": {
+      "audio": [
+        "test/Carillon Servaas Church 100411.wav",
+        "b0ea9d736cd6fe90459005208f6289c9"
+      ]
+    },
+    "test/Cash Money sounds_fieldtapes": {
+      "audio": [
+        "test/Cash Money sounds_fieldtapes.wav",
+        "5277f9a3f136245c33e1729e073d889a"
+      ]
+    },
+    "test/Tokyo-cicadas": {
+      "audio": [
+        "test/Tokyo-cicadas.wav",
+        "9fa836e7a604025768942cc919f9e811"
+      ]
+    },
+    "test/unlocki door to mod rain": {
+      "audio": [
+        "test/unlocki door to mod rain.wav",
+        "985b72174a948dafeaa770726c477dec"
+      ]
+    },
+    "test/09-07-11_0653_Bolhao early morning, truck gets unpacked": {
+      "audio": [
+        "test/09-07-11_0653_Bolhao early morning, truck gets unpacked.wav",
+        "51e0a5e146dfcef9e8398e2b633a4e88"
+      ]
+    },
+    "test/stenochscentre": {
+      "audio": [
+        "test/stenochscentre.wav",
+        "7e68c3f69f81d4286db6e86271847aa6"
+      ]
+    },
+    "test/subway train.L": {
+      "audio": [
+        "test/subway train.L.wav",
+        "b5f35785ae3acdb06f565f90bb8ffe93"
+      ]
+    },
+    "test/20100220.concentration.00": {
+      "audio": [
+        "test/20100220.concentration.00.wav",
+        "47f048de6c629f42974ccd8e07ebde14"
+      ]
+    },
+    "test/cape taxi radio": {
+      "audio": [
+        "test/cape taxi radio.wav",
+        "5410f7014e6a0f66f93933fd14a939d6"
+      ]
+    },
+    "test/AMB_Ext_Residential_Day_Stereo_002": {
+      "audio": [
+        "test/AMB_Ext_Residential_Day_Stereo_002.wav",
+        "e85d6ae4a81cdd214bde5b59b3b40b26"
+      ]
+    },
+    "test/indoors empty bar noisy ambient 2": {
+      "audio": [
+        "test/indoors empty bar noisy ambient 2.wav",
+        "05a9565dcc6db0354a20b8f3ec25b4f7"
+      ]
+    },
+    "test/Twee dozen aardbeien": {
+      "audio": [
+        "test/Twee dozen aardbeien.wav",
+        "4959307771126501e907b9dc56be1ec6"
+      ]
+    },
+    "test/strange wind 03": {
+      "audio": [
+        "test/strange wind 03.wav",
+        "85937e495321009cfe9781e73f14ed90"
+      ]
+    },
+    "test/An English Country Garden in July": {
+      "audio": [
+        "test/An English Country Garden in July.wav",
+        "a23c1897875909da3ec58bf3daebcf73"
+      ]
+    },
+    "test/Drawers": {
+      "audio": [
+        "test/Drawers.wav",
+        "a816de5b4f4826364a4d730285f38294"
+      ]
+    },
+    "test/Lights Flicker On": {
+      "audio": [
+        "test/Lights Flicker On.wav",
+        "1ded08903230c01103d7473f74e58d44"
+      ]
+    },
+    "test/high park crickets.3": {
+      "audio": [
+        "test/high park crickets.3.wav",
+        "14820ec7daa04aa243e8d85a21ac83cc"
+      ]
+    },
+    "test/Next To School in Street Ambience": {
+      "audio": [
+        "test/Next To School in Street Ambience.wav",
+        "eb030e5c9f75ecf35ba9037f9734ff39"
+      ]
+    },
+    "test/BangkokMarket": {
+      "audio": [
+        "test/BangkokMarket.wav",
+        "fc37e2ce6ba8eb8722a9bca3a57803c8"
+      ]
+    },
+    "test/TONE pink noise  44.1 16bit": {
+      "audio": [
+        "test/TONE pink noise  44.1 16bit.wav",
+        "9439c22c50c62db003bf34fd22c4d8ee"
+      ]
+    },
+    "test/NEW INTRO FEB 2012 TDAR": {
+      "audio": [
+        "test/NEW INTRO FEB 2012 TDAR.wav",
+        "8c7294a0c1f7d508a276d93dd6daf523"
+      ]
+    },
+    "test/street": {
+      "audio": [
+        "test/street.wav",
+        "c135a9dab7a32513aa7eb2eeabdbe27b"
+      ]
+    },
+    "test/abandoned-ballroom-objects-wood-metal": {
+      "audio": [
+        "test/abandoned-ballroom-objects-wood-metal.wav",
+        "840c3ee074c3e65de84004be9dab6acd"
+      ]
+    },
+    "test/Hangers Moving": {
+      "audio": [
+        "test/Hangers Moving.wav",
+        "9008519b436f8a862e8a767b6ebaac6c"
+      ]
+    },
+    "test/Writing_Fx": {
+      "audio": [
+        "test/Writing_Fx.wav",
+        "7424c272039f078ec4265013454dfbce"
+      ]
+    },
+    "test/clunks_in_water": {
+      "audio": [
+        "test/clunks_in_water.wav",
+        "2cfc0f7aca96d3590a1a6b948060a43f"
+      ]
+    },
+    "test/Metropassingclose(L-R)": {
+      "audio": [
+        "test/Metropassingclose(L-R).wav",
+        "efd2b846cc6cd341b97d4804b81730b9"
+      ]
+    },
+    "test/hereg_hungary__car_passing_by_1_20080712": {
+      "audio": [
+        "test/hereg_hungary__car_passing_by_1_20080712.wav",
+        "a30f5cab331a17837af863323023cc4d"
+      ]
+    },
+    "test/traffic-construction-noise": {
+      "audio": [
+        "test/traffic-construction-noise.wav",
+        "59ba6c676670ff26e3c12e88fefa4fe3"
+      ]
+    },
+    "test/rain_villaverde1": {
+      "audio": [
+        "test/rain_villaverde1.wav",
+        "f6522968ca22ac48e7232008d3cb8a8a"
+      ]
+    },
+    "test/Ball and Tennis Racket_01": {
+      "audio": [
+        "test/Ball and Tennis Racket_01.wav",
+        "157c03a790fc123d2a0f2420f5cef9ac"
+      ]
+    },
+    "test/150209 Trevor Webb Tire Squeeke": {
+      "audio": [
+        "test/150209 Trevor Webb Tire Squeeke.wav",
+        "27e03120a2aba75214f8fd9f92633552"
+      ]
+    },
+    "test/BERBER _SONG": {
+      "audio": [
+        "test/BERBER _SONG.wav",
+        "805bb056e5ac4d0182fc9127466b0130"
+      ]
+    },
+    "test/Tool Box": {
+      "audio": [
+        "test/Tool Box.wav",
+        "991081e02f3a8cb675d5ea250b5d9870"
+      ]
+    },
+    "test/20110423_distant.cuckoo": {
+      "audio": [
+        "test/20110423_distant.cuckoo.wav",
+        "c6123476ad8fbc14189da947cc83c0fa"
+      ]
+    },
+    "test/InsideBus": {
+      "audio": [
+        "test/InsideBus.wav",
+        "1e26b0ca8e33bd53744a65529e737476"
+      ]
+    },
+    "test/Bats in East Finchley": {
+      "audio": [
+        "test/Bats in East Finchley.wav",
+        "c4f475870093928b4329c5fbfb8a214b"
+      ]
+    },
+    "test/train11": {
+      "audio": [
+        "test/train11.wav",
+        "fb1b2b0c274c28e1db461d5dfb2add12"
+      ]
+    },
+    "test/Chewing_Fx": {
+      "audio": [
+        "test/Chewing_Fx.wav",
+        "bb90cffd7fd4980c07a804788327804c"
+      ]
+    },
+    "test/5_Navy-Blue-Angels-jets_CLIP": {
+      "audio": [
+        "test/5_Navy-Blue-Angels-jets_CLIP.wav",
+        "ddb8e1ffc3247c721ebcf89a5e8c8b29"
+      ]
+    },
+    "test/scooter_pass-by4": {
+      "audio": [
+        "test/scooter_pass-by4.wav",
+        "f48f226ab542dc0fef17fc4a3dbfcc09"
+      ]
+    },
+    "test/psikedelic": {
+      "audio": [
+        "test/psikedelic.wav",
+        "b174317d7b5ed44f2ffe52d48f149c5c"
+      ]
+    },
+    "test/CafeAmbience": {
+      "audio": [
+        "test/CafeAmbience.wav",
+        "09d394d2a148c6f8f6058e5e956c905f"
+      ]
+    },
+    "test/amsterdam bijmer station escalator": {
+      "audio": [
+        "test/amsterdam bijmer station escalator.wav",
+        "1ddc84a174bdde5b4111a0461b5bf89f"
+      ]
+    },
+    "test/HeavySkirtMovement": {
+      "audio": [
+        "test/HeavySkirtMovement.wav",
+        "4673350e83a086f6dcdfccdd60e8a54d"
+      ]
+    },
+    "test/different variations of taring material": {
+      "audio": [
+        "test/different variations of taring material.wav",
+        "d1f986941264825dc0d0bcd3ef5f57ee"
+      ]
+    },
+    "test/parking lot": {
+      "audio": [
+        "test/parking lot.wav",
+        "40c4cf0dc5e7c3bb57de1d6e44c1c212"
+      ]
+    },
+    "test/Footsteps on Wood floor 1": {
+      "audio": [
+        "test/Footsteps on Wood floor 1.wav",
+        "352a6820254e4570ec0ba28f00b20a19"
+      ]
+    },
+    "test/Motorcycle Driveby": {
+      "audio": [
+        "test/Motorcycle Driveby.wav",
+        "04ec09fb49d92eeb6cdfa52364544d9a"
+      ]
+    },
+    "test/telephone ring": {
+      "audio": [
+        "test/telephone ring.wav",
+        "7f0ab2f297edc2aff08ee0d35ca591d5"
+      ]
+    },
+    "test/german motorway or the autobahn": {
+      "audio": [
+        "test/german motorway or the autobahn.wav",
+        "f3c371865f5ebce1337af0cf57e5bd5a"
+      ]
+    },
+    "test/Phone Dong": {
+      "audio": [
+        "test/Phone Dong.wav",
+        "6ea87e912ca908cfc5adfdae92281cad"
+      ]
+    },
+    "test/bitmapnoise3": {
+      "audio": [
+        "test/bitmapnoise3.wav",
+        "83abe6394514aea8ef26022bcb65cc2b"
+      ]
+    },
+    "test/fliping paper": {
+      "audio": [
+        "test/fliping paper.wav",
+        "6bc7659e4694359fdcd4bd02b03228b4"
+      ]
+    },
+    "test/RomaBenzinaioGas_viaPomonte": {
+      "audio": [
+        "test/RomaBenzinaioGas_viaPomonte.wav",
+        "ba6770010459c5d16cf34ace614b2961"
+      ]
+    },
+    "test/Intersection Wet_Metro Pass": {
+      "audio": [
+        "test/Intersection Wet_Metro Pass.wav",
+        "ae1f46babc78b00aeeeb02e34bd5b748"
+      ]
+    },
+    "test/arrancada i aturada de la moto": {
+      "audio": [
+        "test/arrancada i aturada de la moto.wav",
+        "1be12191704d2f39fd72cca42f48ec33"
+      ]
+    },
+    "test/Public Place": {
+      "audio": [
+        "test/Public Place.wav",
+        "fad09562a0ec6ec88e48e541afaf9df8"
+      ]
+    },
+    "test/clang_metal_(hit)": {
+      "audio": [
+        "test/clang_metal_(hit).wav",
+        "192229791e4b0a9c3dbf1a2a5abb89f1"
+      ]
+    },
+    "test/Sea&amp;wind": {
+      "audio": [
+        "test/Sea&amp;wind.wav",
+        "7379e5dc2f26ce23540d5d1be7ab53d9"
+      ]
+    },
+    "test/spaced": {
+      "audio": [
+        "test/spaced.wav",
+        "2ad1dc0e633afb615289772a9e1beb37"
+      ]
+    },
+    "test/25_MIXER": {
+      "audio": [
+        "test/25_MIXER.wav",
+        "c0810ef3d4240101043416f0a6842dd2"
+      ]
+    },
+    "test/wien_demo": {
+      "audio": [
+        "test/wien_demo.wav",
+        "2216c2e09a3d4c39b02ac5dcbdcdc149"
+      ]
+    },
+    "test/backhoes": {
+      "audio": [
+        "test/backhoes.wav",
+        "281c3956d8d5dad4a462090a9e77b769"
+      ]
+    },
+    "test/Kamp Zeist": {
+      "audio": [
+        "test/Kamp Zeist.wav",
+        "5b832c5f8e6624a6579ea9a06e74281b"
+      ]
+    },
+    "test/20060730.bells": {
+      "audio": [
+        "test/20060730.bells.wav",
+        "c34970e51cbc8c56e9989f3265f6cd1c"
+      ]
+    },
+    "test/Rustling keys": {
+      "audio": [
+        "test/Rustling keys.wav",
+        "ea46cedb303a4d7fd345e437eb1d302f"
+      ]
+    },
+    "test/Gas Door": {
+      "audio": [
+        "test/Gas Door.wav",
+        "1419334208be49580d50ec07a73ed6db"
+      ]
+    },
+    "test/Bell7": {
+      "audio": [
+        "test/Bell7.wav",
+        "109cde61ef32bb550def9f0d365527a8"
+      ]
+    },
+    "test/METAL LADLE ON CHINA PLATE": {
+      "audio": [
+        "test/METAL LADLE ON CHINA PLATE.wav",
+        "d11e33e3b937748298935597b68d57b5"
+      ]
+    },
+    "test/Broom brushing on mat": {
+      "audio": [
+        "test/Broom brushing on mat.wav",
+        "b4ec207c7e85ae5716bdc0414aadd21e"
+      ]
+    },
+    "test/grilla_garden_ambience": {
+      "audio": [
+        "test/grilla_garden_ambience.wav",
+        "1b8017dbc61e7e176cce8f4929e73bd8"
+      ]
+    },
+    "test/resonante bass ring-15.J": {
+      "audio": [
+        "test/resonante bass ring-15.J.wav",
+        "ede2a727d8528f678b0bb318ac381ccd"
+      ]
+    },
+    "test/gaunermarkt_werbung": {
+      "audio": [
+        "test/gaunermarkt_werbung.wav",
+        "445502f6536130f04f164a020aeb7eba"
+      ]
+    },
+    "test/swifts 2": {
+      "audio": [
+        "test/swifts 2.wav",
+        "6443db1a7976a3335ed3a4b94bd99c72"
+      ]
+    },
+    "test/inicio": {
+      "audio": [
+        "test/inicio.wav",
+        "57e76844885a00adf8d94acbb06956c1"
+      ]
+    },
+    "test/graveylargo": {
+      "audio": [
+        "test/graveylargo.wav",
+        "958fb431b30e379c7bc690d4acbcabac"
+      ]
+    },
+    "test/Clidren_joke_fun": {
+      "audio": [
+        "test/Clidren_joke_fun.wav",
+        "ec6e24014abfd7f1011fa88161b66282"
+      ]
+    },
+    "test/CD Case": {
+      "audio": [
+        "test/CD Case.wav",
+        "8b7228bc8f3a92aa14efbb7ce6f50972"
+      ]
+    },
+    "test/20060729.lid": {
+      "audio": [
+        "test/20060729.lid.wav",
+        "13df2db43c79df4874c4ea10b9d2c695"
+      ]
+    },
+    "test/Public Place Children Indoors": {
+      "audio": [
+        "test/Public Place Children Indoors.wav",
+        "2fe37f290fcb6a2eaef92207baa3d065"
+      ]
+    },
+    "test/lavar platos": {
+      "audio": [
+        "test/lavar platos.wav",
+        "27223d55af3130af6f1ca5eff653cc5d"
+      ]
+    },
+    "test/train_coming_in": {
+      "audio": [
+        "test/train_coming_in.wav",
+        "41e5b7767d5353bd4495ecb3f2b05e6e"
+      ]
+    },
+    "test/park ambience-distant voices": {
+      "audio": [
+        "test/park ambience-distant voices.wav",
+        "61f9c3d22f6bfb3e4d44423a79305e3a"
+      ]
+    },
+    "test/Standard Bell": {
+      "audio": [
+        "test/Standard Bell.wav",
+        "8303306eab07d366410a28163bf470b6"
+      ]
+    },
+    "test/Noise and Walking 2": {
+      "audio": [
+        "test/Noise and Walking 2.wav",
+        "5cc127e2b452f20dcb099e17f32099ea"
+      ]
+    },
+    "test/kriswattierain": {
+      "audio": [
+        "test/kriswattierain.wav",
+        "0ef1d43729c8544b1ee5e7aa49f7f582"
+      ]
+    },
+    "test/RowanMagennis_160019_SD100_DeadBodyHitsWoodenFloor": {
+      "audio": [
+        "test/RowanMagennis_160019_SD100_DeadBodyHitsWoodenFloor.wav",
+        "fef7b1c71ab9339aafda78eee82391f9"
+      ]
+    },
+    "test/Elevator Ride and Door Open Merchants Bldg": {
+      "audio": [
+        "test/Elevator Ride and Door Open Merchants Bldg.wav",
+        "3066e9582ed3189dea6b9c5de2a596d6"
+      ]
+    },
+    "test/bebops_wind1": {
+      "audio": [
+        "test/bebops_wind1.wav",
+        "7784973628a6c578599dbd79ac5e48a0"
+      ]
+    },
+    "test/CR SharktoGnawAmb": {
+      "audio": [
+        "test/CR SharktoGnawAmb.wav",
+        "6016dc848ca1105279af84dcb147b614"
+      ]
+    },
+    "test/scratching_door": {
+      "audio": [
+        "test/scratching_door.wav",
+        "3d7fa1d4f5a7b900520302f18a8bfdb3"
+      ]
+    },
+    "test/the sound of melting snow on the path high in the mountains - front": {
+      "audio": [
+        "test/the sound of melting snow on the path high in the mountains - front.wav",
+        "99cd5824b89e8a4a0829d2ef1d0e4d1a"
+      ]
+    },
+    "test/20090419.san.pedro.bells": {
+      "audio": [
+        "test/20090419.san.pedro.bells.wav",
+        "c9f38bc5c09c3bee852b962b2acbfb07"
+      ]
+    },
+    "test/13_Rain_onGrassStone_Gutter_44_16": {
+      "audio": [
+        "test/13_Rain_onGrassStone_Gutter_44_16.wav",
+        "d2c11b27dc53adb2cb4572de5478d24d"
+      ]
+    },
+    "test/kitchen indoor atmosphere": {
+      "audio": [
+        "test/kitchen indoor atmosphere.wav",
+        "25017a876076e37a7f6654b58c8b82b3"
+      ]
+    },
+    "test/Scraping of a Carpet with a Brush": {
+      "audio": [
+        "test/Scraping of a Carpet with a Brush.wav",
+        "dc07d0342d8de8d636dfae799a367e47"
+      ]
+    },
+    "test/gully with water drips": {
+      "audio": [
+        "test/gully with water drips.wav",
+        "e27fad70326df1bef804cde977445d96"
+      ]
+    },
+    "test/2_frogs_qinghua": {
+      "audio": [
+        "test/2_frogs_qinghua.wav",
+        "009d75d0a8cadd8246304189928f5bb1"
+      ]
+    },
+    "test/Outside UU FSW 080701": {
+      "audio": [
+        "test/Outside UU FSW 080701.wav",
+        "d79c74f3043bb125b43f71e8452f8eb6"
+      ]
+    },
+    "test/Tornado Left To  Right": {
+      "audio": [
+        "test/Tornado Left To  Right.wav",
+        "38b3cd3c5cea8141aaf249c7993e42b6"
+      ]
+    },
+    "test/cart machine": {
+      "audio": [
+        "test/cart machine.wav",
+        "ec357382ac310350cb5c8b1e31a34697"
+      ]
+    },
+    "test/Small italian village - Quite afternoon": {
+      "audio": [
+        "test/Small italian village - Quite afternoon.wav",
+        "9679c85000cfc53eee9f818f254faaac"
+      ]
+    },
+    "test/kitchen refrigerator working": {
+      "audio": [
+        "test/kitchen refrigerator working.wav",
+        "32f110f9a42da4dca0359df8f1c501d8"
+      ]
+    },
+    "test/Traffic Karl-Liebknechtstrasse 111223": {
+      "audio": [
+        "test/Traffic Karl-Liebknechtstrasse 111223.wav",
+        "1fceecb05c9c9cdaefdce43647e00c93"
+      ]
+    },
+    "test/Clark&#39;s Nutcrackers 01": {
+      "audio": [
+        "test/Clark&#39;s Nutcrackers 01.wav",
+        "04e500420bce3e222f8ba8fb1a9a0f9e"
+      ]
+    },
+    "test/RainFallsonUmbrellaMcCoy": {
+      "audio": [
+        "test/RainFallsonUmbrellaMcCoy.wav",
+        "da771c5e82be96e77cf3d42a6e397be6"
+      ]
+    },
+    "test/140815_drezyna_2": {
+      "audio": [
+        "test/140815_drezyna_2.wav",
+        "e5fe5e8911ce022b392e5a428e08152f"
+      ]
+    },
+    "test/bread_machine_1": {
+      "audio": [
+        "test/bread_machine_1.wav",
+        "f8722077af93d5302606680bf0de4cd1"
+      ]
+    },
+    "test/ShortTrain": {
+      "audio": [
+        "test/ShortTrain.wav",
+        "9966f2de33040e90d48612d9ce8ee31a"
+      ]
+    },
+    "test/Outside Sound": {
+      "audio": [
+        "test/Outside Sound.wav",
+        "5c2e670f8f63036153d1e52e9b319dda"
+      ]
+    },
+    "test/Cicada.1.45": {
+      "audio": [
+        "test/Cicada.1.45.wav",
+        "1f49d3fa43331713d2d3c264fb4ef9c6"
+      ]
+    },
+    "test/md3trk7": {
+      "audio": [
+        "test/md3trk7.wav",
+        "90500c4165044cead286ca8c716ad915"
+      ]
+    },
+    "test/Pounding a metal stake with hammer v2": {
+      "audio": [
+        "test/Pounding a metal stake with hammer v2.wav",
+        "4f5f86be5b7bbbba0419d6b961c8d9bf"
+      ]
+    },
+    "test/Marble Church": {
+      "audio": [
+        "test/Marble Church.wav",
+        "3082d33b66fbd85caba413a802bd0772"
+      ]
+    },
+    "test/tram_night_crossroad_stop_go_02": {
+      "audio": [
+        "test/tram_night_crossroad_stop_go_02.wav",
+        "70626281d92f7dc62c3513c47ed4e155"
+      ]
+    },
+    "test/Inside Servaas Church 01 100411": {
+      "audio": [
+        "test/Inside Servaas Church 01 100411.wav",
+        "d7b79dbc52f1d0bf624aa5a69902d8c0"
+      ]
+    },
+    "test/Vieques night soundscape 10-10-10": {
+      "audio": [
+        "test/Vieques night soundscape 10-10-10.wav",
+        "4628263963f90145489e760690503e77"
+      ]
+    },
+    "test/Gun Cleaning": {
+      "audio": [
+        "test/Gun Cleaning.wav",
+        "2201d70ff789c159abb85760509e028b"
+      ]
+    },
+    "test/begin-metro-BCN": {
+      "audio": [
+        "test/begin-metro-BCN.wav",
+        "6a1218136d7495107f2f60bb7ced7398"
+      ]
+    },
+    "test/earthkiller background 1": {
+      "audio": [
+        "test/earthkiller background 1.wav",
+        "f47af7675d5355a405c5939aa3f456b8"
+      ]
+    },
+    "test/gravel walking": {
+      "audio": [
+        "test/gravel walking.wav",
+        "b5df29a48791ae23e45c6a2f749e0270"
+      ]
+    },
+    "test/cats on heat": {
+      "audio": [
+        "test/cats on heat.wav",
+        "a79f5817486123c6aa668756e2bb78e4"
+      ]
+    },
+    "test/stump": {
+      "audio": [
+        "test/stump.wav",
+        "4a85bf8a3cd58a17b05fa05cf493dbe2"
+      ]
+    },
+    "test/Gun Handling": {
+      "audio": [
+        "test/Gun Handling.wav",
+        "736e24e21226739a4aa3c8a73f97ea9c"
+      ]
+    },
+    "test/Bell 6inch away": {
+      "audio": [
+        "test/Bell 6inch away.wav",
+        "7325f4978380b70b52a5ccb28b40133d"
+      ]
+    },
+    "test/Ambiance1": {
+      "audio": [
+        "test/Ambiance1.wav",
+        "1197ab7fea39e83a09b7fe9b800a4e52"
+      ]
+    },
+    "test/CFX-20130329-UK-DorsetRoomTone03": {
+      "audio": [
+        "test/CFX-20130329-UK-DorsetRoomTone03.wav",
+        "531648dc89fd9fe890e9703e488fc4ae"
+      ]
+    },
+    "test/Water drops into a metallic bowl": {
+      "audio": [
+        "test/Water drops into a metallic bowl.wav",
+        "be5af36427b4873fb0e81c665161749b"
+      ]
+    },
+    "test/running_forest_snow": {
+      "audio": [
+        "test/running_forest_snow.wav",
+        "90905eb39b9f51eb453a4f0994d038bb"
+      ]
+    },
+    "test/Clockwork_Stegasaurus_Toy": {
+      "audio": [
+        "test/Clockwork_Stegasaurus_Toy.wav",
+        "9f50c7ba006e28503f6d386f4125a839"
+      ]
+    },
+    "test/24 may 2011": {
+      "audio": [
+        "test/24 may 2011.wav",
+        "f6d116c4a27b4834b37e79c98fb54fba"
+      ]
+    },
+    "test/Evening_birds_light_rain_dripping_gutter": {
+      "audio": [
+        "test/Evening_birds_light_rain_dripping_gutter.wav",
+        "f4b4d3f4d3380e6059ffc7bdab7ae4bd"
+      ]
+    },
+    "test/Night in nature 2": {
+      "audio": [
+        "test/Night in nature 2.wav",
+        "612a5bf7029ab01ddfff89980cc31ce3"
+      ]
+    },
+    "test/AlexandreJourdan_2013_s2": {
+      "audio": [
+        "test/AlexandreJourdan_2013_s2.wav",
+        "1c95e97edc6d5ff6ab4821210d1636a9"
+      ]
+    },
+    "test/washing_out_5_gallon_bucket": {
+      "audio": [
+        "test/washing_out_5_gallon_bucket.wav",
+        "8045b5c8aa0bc9326e21efd8a1efefee"
+      ]
+    },
+    "test/envelope": {
+      "audio": [
+        "test/envelope.wav",
+        "9412979c906547dd82cdbc39feadd9b6"
+      ]
+    },
+    "test/traffic from inside an apartment": {
+      "audio": [
+        "test/traffic from inside an apartment.wav",
+        "3bee41f381c9e49afdef211f6d95562c"
+      ]
+    },
+    "test/various slap takes": {
+      "audio": [
+        "test/various slap takes.wav",
+        "871844f69f3da62e2f757d9826eb1622"
+      ]
+    },
+    "test/vertrek": {
+      "audio": [
+        "test/vertrek.wav",
+        "dc40a36942e2583e30a31252bedd8020"
+      ]
+    },
+    "test/volcanoeruption": {
+      "audio": [
+        "test/volcanoeruption.wav",
+        "480f9c6f735489fdb4ce3a76c15f74d0"
+      ]
+    },
+    "test/131227_strumyk_2": {
+      "audio": [
+        "test/131227_strumyk_2.wav",
+        "6757eb31ded6dbfc075563c274fc8baf"
+      ]
+    },
+    "test/FP_Diesel_Tractor_Start_Run": {
+      "audio": [
+        "test/FP_Diesel_Tractor_Start_Run.wav",
+        "235fd3eb0bf794e9f87e24f9c0d8fce9"
+      ]
+    },
+    "test/Birds over Brooklyn": {
+      "audio": [
+        "test/Birds over Brooklyn.wav",
+        "132155f5077974c704423da1f4d70823"
+      ]
+    },
+    "test/WATER SHOWER 001": {
+      "audio": [
+        "test/WATER SHOWER 001.wav",
+        "bc92fdf38575bd253754b89c29a3f7c3"
+      ]
+    },
+    "test/vand": {
+      "audio": [
+        "test/vand.wav",
+        "5d031df876441b9614eaba3a4d7957a5"
+      ]
+    },
+    "test/dognailsonlinoleum": {
+      "audio": [
+        "test/dognailsonlinoleum.wav",
+        "61fc99fa21864de6b1d999109b39f668"
+      ]
+    },
+    "test/Chalk Writing - Slow": {
+      "audio": [
+        "test/Chalk Writing - Slow.wav",
+        "d824188449833cf37aad5dcbb838d959"
+      ]
+    },
+    "test/Urban owl hoot": {
+      "audio": [
+        "test/Urban owl hoot.wav",
+        "697dbf4a6a315984ee9ceb01fb73e14d"
+      ]
+    },
+    "test/RKeaton_EMF366_3_Water In Glass Bottle with Metal Cap": {
+      "audio": [
+        "test/RKeaton_EMF366_3_Water In Glass Bottle with Metal Cap.wav",
+        "843ca690f98cf380cc7fa0326b692ec4"
+      ]
+    },
+    "test/EnterGate": {
+      "audio": [
+        "test/EnterGate.wav",
+        "6f4a5ddb4bfae6dfa59295b5fa7d3384"
+      ]
+    },
+    "test/bebops_wind2": {
+      "audio": [
+        "test/bebops_wind2.wav",
+        "819a6b2fcb1b5f9782d96e0f9c90fe28"
+      ]
+    },
+    "test/20160610_fading.plane.forest": {
+      "audio": [
+        "test/20160610_fading.plane.forest.wav",
+        "bb15c275fb4dfefaa84e54660bca6c3c"
+      ]
+    },
+    "test/toy_tower": {
+      "audio": [
+        "test/toy_tower.wav",
+        "692e9d236cc6c4b9246278352453ad0c"
+      ]
+    },
+    "test/Stones sound": {
+      "audio": [
+        "test/Stones sound.wav",
+        "0a832d9f41876470964a173c9b07ff56"
+      ]
+    },
+    "test/Remove crashed glass": {
+      "audio": [
+        "test/Remove crashed glass.wav",
+        "1649e08d46bc3cd18210a0c86b376902"
+      ]
+    },
+    "test/20150712_underground.parking": {
+      "audio": [
+        "test/20150712_underground.parking.wav",
+        "0f9fb76bf1c9dde38f977a1c3c05cec7"
+      ]
+    },
+    "test/02-BikeDemo_Chimes_Speak": {
+      "audio": [
+        "test/02-BikeDemo_Chimes_Speak.wav",
+        "73ab9ed72598af47a0823f1677ec767d"
+      ]
+    },
+    "test/20060129.scrub.04": {
+      "audio": [
+        "test/20060129.scrub.04.wav",
+        "bd140e82785ec9f92d881040c4d7d1b6"
+      ]
+    },
+    "test/Folds": {
+      "audio": [
+        "test/Folds.wav",
+        "59d753b273eb390f7b3898860b206f8e"
+      ]
+    },
+    "test/synthwind": {
+      "audio": [
+        "test/synthwind.wav",
+        "3612c4b54b040363b154291a0c2c826c"
+      ]
+    },
+    "test/Inside a train 2": {
+      "audio": [
+        "test/Inside a train 2.wav",
+        "15d5fe96deefb75ed9b818d5f5054e93"
+      ]
+    },
+    "test/Welte Philharmonic Organ": {
+      "audio": [
+        "test/Welte Philharmonic Organ.wav",
+        "787bbe169dbec0f56cb25b769950cfb1"
+      ]
+    },
+    "test/3overtones": {
+      "audio": [
+        "test/3overtones.wav",
+        "4e40934b33d8748abde09898a3999eae"
+      ]
+    },
+    "test/door sound": {
+      "audio": [
+        "test/door sound.wav",
+        "e64e476c14f3b3dd581f41f6a3e6a4b2"
+      ]
+    },
+    "test/Page_Turning_Fx": {
+      "audio": [
+        "test/Page_Turning_Fx.wav",
+        "19c8daaeb740c51415fb24f2e5b65c02"
+      ]
+    },
+    "test/Stream Under Rocks": {
+      "audio": [
+        "test/Stream Under Rocks.wav",
+        "9580f9ab4a98303ffacccce66e7e64df"
+      ]
+    },
+    "test/Birds of Noosa Biosphere Reserve": {
+      "audio": [
+        "test/Birds of Noosa Biosphere Reserve.wav",
+        "3965ee4c8e7428030a14527ff06e8b92"
+      ]
+    },
+    "test/FootstepsOnaDock": {
+      "audio": [
+        "test/FootstepsOnaDock.wav",
+        "220514516244141c7b4e14ae43682362"
+      ]
+    },
+    "test/Through Slime": {
+      "audio": [
+        "test/Through Slime.wav",
+        "2db90828909a37a246ca544027e11320"
+      ]
+    },
+    "test/screenplayTheater__footsteps_leatherSoles-onWood": {
+      "audio": [
+        "test/screenplayTheater__footsteps_leatherSoles-onWood.wav",
+        "1207cdac42ec3a2bd4c58b894e3a00a7"
+      ]
+    },
+    "test/times_square": {
+      "audio": [
+        "test/times_square.wav",
+        "b57f29820fdf6219f6ac53716438bed9"
+      ]
+    },
+    "test/Schritte_BootsTeppich": {
+      "audio": [
+        "test/Schritte_BootsTeppich.wav",
+        "25f877f498efa022ab040f95f6abbf69"
+      ]
+    },
+    "test/Noisemetro (Long)": {
+      "audio": [
+        "test/Noisemetro (Long).wav",
+        "04e06d06ee370f8908a2d709da44192f"
+      ]
+    },
+    "test/3 persons walking slowly on grass noisy ambient 2": {
+      "audio": [
+        "test/3 persons walking slowly on grass noisy ambient 2.wav",
+        "080fdb4c29552ed0fa94765bced7eff1"
+      ]
+    },
+    "test/Busy Drug Store": {
+      "audio": [
+        "test/Busy Drug Store.wav",
+        "72e19a274a0a7d50d050fb75246a43ed"
+      ]
+    },
+    "test/A000051_6": {
+      "audio": [
+        "test/A000051_6.wav",
+        "336dd8cf43c6c112fd1c10244038cfab"
+      ]
+    },
+    "test/Achter de Stekke ": {
+      "audio": [
+        "test/Achter de Stekke .wav",
+        "321ad7079263b28a4d5fad7bfb4faa97"
+      ]
+    },
+    "test/entering shower moving curtain raffle raffling foley VARIOUS TAKES": {
+      "audio": [
+        "test/entering shower moving curtain raffle raffling foley VARIOUS TAKES.wav",
+        "2a88c47f5776aa049a5915a1f7a7d614"
+      ]
+    },
+    "test/Rain on Shed": {
+      "audio": [
+        "test/Rain on Shed.wav",
+        "74db82588dbcc7d1cd48cd08a2496400"
+      ]
+    },
+    "test/Footsteps Dirt 02": {
+      "audio": [
+        "test/Footsteps Dirt 02.wav",
+        "751b536dd4125f094eb61b475c4d89e1"
+      ]
+    },
+    "test/20091214.christmas.song": {
+      "audio": [
+        "test/20091214.christmas.song.wav",
+        "9bd1c545ff16ae6566955e392db72c2e"
+      ]
+    },
+    "test/barrage_of_crickets_chirping": {
+      "audio": [
+        "test/barrage_of_crickets_chirping.wav",
+        "0b9651e88267b3f6f396ad1c7a84bd3b"
+      ]
+    },
+    "test/noise pollution in a city park": {
+      "audio": [
+        "test/noise pollution in a city park.wav",
+        "eca11b2a71dc0f962623ae6555150678"
+      ]
+    },
+    "test/Ambient noise Kauai": {
+      "audio": [
+        "test/Ambient noise Kauai.wav",
+        "1b23a535ca7b3f7534d84b700becb880"
+      ]
+    },
+    "test/Waterflow_Ib": {
+      "audio": [
+        "test/Waterflow_Ib.wav",
+        "063dc81160d904633249a5aaf7c3e5a0"
+      ]
+    },
+    "test/Knife hit on Bread Board": {
+      "audio": [
+        "test/Knife hit on Bread Board.wav",
+        "fdb679261bba5a8601642987e899c48e"
+      ]
+    },
+    "test/settingdownglassbottle": {
+      "audio": [
+        "test/settingdownglassbottle.wav",
+        "544047ff6d03a92daf72a5d592aa655a"
+      ]
+    },
+    "test/bikebell": {
+      "audio": [
+        "test/bikebell.wav",
+        "dc426a616c78bb1c4ef162023bf0edf3"
+      ]
+    },
+    "test/thunder_nl": {
+      "audio": [
+        "test/thunder_nl.wav",
+        "a85ca247a990cd696d2022f8f33b0cec"
+      ]
+    },
+    "test/20070628.casual.ambiance": {
+      "audio": [
+        "test/20070628.casual.ambiance.wav",
+        "3f07fcd2c71fd3653a14a51fa3f85de5"
+      ]
+    },
+    "test/HandsOnConcreteWithDirt": {
+      "audio": [
+        "test/HandsOnConcreteWithDirt.wav",
+        "07679a836a995762a128d701ac7d240c"
+      ]
+    },
+    "test/refrigerator buzzing": {
+      "audio": [
+        "test/refrigerator buzzing.wav",
+        "bc3f89d0ab053c65f3a2e3c605d7daf6"
+      ]
+    },
+    "test/Synthetic Thunderstorm": {
+      "audio": [
+        "test/Synthetic Thunderstorm.wav",
+        "5ebc893f98f74ef3f561c8651a40bc47"
+      ]
+    },
+    "test/STEREO INTERFERENCE": {
+      "audio": [
+        "test/STEREO INTERFERENCE.wav",
+        "c18cf37cddc5f6d70d1cc5e831b51ea8"
+      ]
+    },
+    "test/antique-sawmill-01": {
+      "audio": [
+        "test/antique-sawmill-01.wav",
+        "bc844e6437484a1f68aa9dea9828d031"
+      ]
+    },
+    "test/openingdome": {
+      "audio": [
+        "test/openingdome.wav",
+        "c7a0cc58abbc1ebc42542ebedf4b2c61"
+      ]
+    },
+    "test/dare16_eerie": {
+      "audio": [
+        "test/dare16_eerie.wav",
+        "041c864a7f4695176bb171caa6da98cc"
+      ]
+    },
+    "test/korea_flohmarkt": {
+      "audio": [
+        "test/korea_flohmarkt.wav",
+        "fe9a428a4657b6ebc4dda735deeae750"
+      ]
+    },
+    "test/trolley wheels foley-mg": {
+      "audio": [
+        "test/trolley wheels foley-mg.wav",
+        "3ac677959962fc60e2be964579bd743a"
+      ]
+    },
+    "test/icesplashes3": {
+      "audio": [
+        "test/icesplashes3.wav",
+        "b5d30885907f0bfee735094135fb52d8"
+      ]
+    },
+    "test/Rain &amp; Thunder 1 Clap": {
+      "audio": [
+        "test/Rain &amp; Thunder 1 Clap.wav",
+        "64831c9bc14e0a1e0d951a5209cbd469"
+      ]
+    },
+    "test/Auto_Door_Open_Close": {
+      "audio": [
+        "test/Auto_Door_Open_Close.wav",
+        "33eb37b30ba1c0e58810d56fb529f34c"
+      ]
+    },
+    "test/Asher": {
+      "audio": [
+        "test/Asher.wav",
+        "1c72a06d1791924853fe17ab2fcaa8e4"
+      ]
+    },
+    "test/Street Interview - shorter version": {
+      "audio": [
+        "test/Street Interview - shorter version.wav",
+        "3999b0cd781bc70bae0fc0ff5d0d6dcb"
+      ]
+    },
+    "test/NY 176andSt.Nicholas AMB": {
+      "audio": [
+        "test/NY 176andSt.Nicholas AMB.wav",
+        "273eaac82863e537d531abcbfe270176"
+      ]
+    },
+    "test/getting_on_the_highway": {
+      "audio": [
+        "test/getting_on_the_highway.wav",
+        "aedfca96892c6b206acf190fd891b30e"
+      ]
+    },
+    "test/London Bus": {
+      "audio": [
+        "test/London Bus.wav",
+        "062463ad9bc6774a4affaeafef23ba61"
+      ]
+    },
+    "test/BIG DOGS_Continues Barking Labrador Retriever (SFX)": {
+      "audio": [
+        "test/BIG DOGS_Continues Barking Labrador Retriever (SFX).wav",
+        "5987f48665b7f8625227954849be99a5"
+      ]
+    },
+    "test/fdv_gouttes_de_pluie": {
+      "audio": [
+        "test/fdv_gouttes_de_pluie.wav",
+        "182badf44afb28e410c1b5dbae28d9fb"
+      ]
+    },
+    "test/light_waterpipes_ambience1": {
+      "audio": [
+        "test/light_waterpipes_ambience1.wav",
+        "6d150f4e3d139ff65b6804d2ef2112de"
+      ]
+    },
+    "test/Water_Falling_Bathtub_Drain": {
+      "audio": [
+        "test/Water_Falling_Bathtub_Drain.wav",
+        "072cc6b94e10d7b040210b09f39e95c6"
+      ]
+    },
+    "test/thunder002": {
+      "audio": [
+        "test/thunder002.wav",
+        "5328c19352b0b8597aa0a1126ca9dddf"
+      ]
+    },
+    "test/20060607.bird.gone.nuts": {
+      "audio": [
+        "test/20060607.bird.gone.nuts.wav",
+        "75bdcf1e1bf1fecb50bf83e362c4a07e"
+      ]
+    },
+    "test/Door in SPB-045": {
+      "audio": [
+        "test/Door in SPB-045.wav",
+        "435a43a643b5828e07f91ccca14042c0"
+      ]
+    },
+    "test/Helicopter interior, no rotor": {
+      "audio": [
+        "test/Helicopter interior, no rotor.wav",
+        "758bab9b68c23d79265f98ca427577e2"
+      ]
+    },
+    "test/chipmunk anger": {
+      "audio": [
+        "test/chipmunk anger.wav",
+        "47a6b87b06a3fb11fad66e07dfca640f"
+      ]
+    },
+    "test/Alien junkyard": {
+      "audio": [
+        "test/Alien junkyard.wav",
+        "01a107207389f888d645a1b501a6c029"
+      ]
+    },
+    "test/Car Fly by": {
+      "audio": [
+        "test/Car Fly by.wav",
+        "ef87f6b5d39a4dfa384165c9c766763f"
+      ]
+    },
+    "test/people chatting background": {
+      "audio": [
+        "test/people chatting background.wav",
+        "2d136df13722bcc8f8e2a2df1baa6005"
+      ]
+    },
+    "test/kamakura_train": {
+      "audio": [
+        "test/kamakura_train.wav",
+        "ebcec742f368ee635318a9ae9de5e74f"
+      ]
+    },
+    "test/safe deposit box lock-unlock": {
+      "audio": [
+        "test/safe deposit box lock-unlock.wav",
+        "e5b7b207c8cd15fced7aa6fc88b0c4f5"
+      ]
+    },
+    "test/lift_relais": {
+      "audio": [
+        "test/lift_relais.wav",
+        "3396f8565dc8e719d2b5b6cc83267d8a"
+      ]
+    },
+    "test/ModernSewingMachine": {
+      "audio": [
+        "test/ModernSewingMachine.wav",
+        "f7d41296da48da052d84b3930cce1c63"
+      ]
+    },
+    "test/Bus_on_Freeway": {
+      "audio": [
+        "test/Bus_on_Freeway.wav",
+        "8f64a05cee7dfb2cc2a398be9f17a414"
+      ]
+    },
+    "test/spaceship engine": {
+      "audio": [
+        "test/spaceship engine.wav",
+        "044dbb71d148e665bb17399406fb5896"
+      ]
+    },
+    "test/09-07-15_2053_Small place near metro station Faria Guimaraes in the evening": {
+      "audio": [
+        "test/09-07-15_2053_Small place near metro station Faria Guimaraes in the evening.wav",
+        "089ae3cfb34026e2e2b18dec802ab196"
+      ]
+    },
+    "test/Stove Full": {
+      "audio": [
+        "test/Stove Full.wav",
+        "bc232d481524d9ae7fd05a41b9e242f0"
+      ]
+    },
+    "test/car moving 01": {
+      "audio": [
+        "test/car moving 01.wav",
+        "0c497d3e7c6692c0e9b1a0366b1e1c12"
+      ]
+    },
+    "test/Analog Wall Clock": {
+      "audio": [
+        "test/Analog Wall Clock.wav",
+        "d500e4d39bca3b5900fd2079346ff66d"
+      ]
+    },
+    "test/metal-bowl-long-decay": {
+      "audio": [
+        "test/metal-bowl-long-decay.wav",
+        "3fb12e00ef4205f105cfcb29c8c6f1db"
+      ]
+    },
+    "test/Espresso Machine": {
+      "audio": [
+        "test/Espresso Machine.wav",
+        "78646b1a1925466bf60efa4aab42a975"
+      ]
+    },
+    "test/Outside Library": {
+      "audio": [
+        "test/Outside Library.wav",
+        "3ef7028676f31bd052b819df50b46563"
+      ]
+    },
+    "test/kenrokuen": {
+      "audio": [
+        "test/kenrokuen.wav",
+        "705f2e9296e31a6338273faf465d5625"
+      ]
+    },
+    "test/plants-watering": {
+      "audio": [
+        "test/plants-watering.wav",
+        "66d02ca3fdb713602f520c435d2bf03c"
+      ]
+    },
+    "test/NM-Mejor-Lado-Thunder-01": {
+      "audio": [
+        "test/NM-Mejor-Lado-Thunder-01.wav",
+        "2df3f7815140bcf103fcb7bb879b8b0a"
+      ]
+    },
+    "test/LargeStuckDoorHallway": {
+      "audio": [
+        "test/LargeStuckDoorHallway.wav",
+        "efa7b1b0f01bbb96df537954219afd4c"
+      ]
+    },
+    "test/Toilet Flush Krucifix Productions Sound Effects": {
+      "audio": [
+        "test/Toilet Flush Krucifix Productions Sound Effects.wav",
+        "bc47e70ef9f7561ceedcb86743d96a5f"
+      ]
+    },
+    "test/Japan_Yukinoura_Bamboo_Forest_and_Road_": {
+      "audio": [
+        "test/Japan_Yukinoura_Bamboo_Forest_and_Road_.wav",
+        "39722a710cc432c972a4bbd28b817e4d"
+      ]
+    },
+    "test/contact_mic_coffee_maker": {
+      "audio": [
+        "test/contact_mic_coffee_maker.wav",
+        "a446eee5145d5c20dd74fea326546546"
+      ]
+    },
+    "test/crows and owl": {
+      "audio": [
+        "test/crows and owl.wav",
+        "ca8e978271a00a732afc1f84dea4a716"
+      ]
+    },
+    "test/museum2": {
+      "audio": [
+        "test/museum2.wav",
+        "891900d9184bce345cdca34ead0fbd5b"
+      ]
+    },
+    "test/thunderstorm_4": {
+      "audio": [
+        "test/thunderstorm_4.wav",
+        "2418915b0cbe64b1ff287368a1bd06e6"
+      ]
+    },
+    "test/160170_warm afternoon_OWI": {
+      "audio": [
+        "test/160170_warm afternoon_OWI.wav",
+        "aadedf37a427d9e24b16ec8b3160f55d"
+      ]
+    },
+    "test/metro underground  ambient opening closing doors noisy transport catalan spanish barcelona": {
+      "audio": [
+        "test/metro underground  ambient opening closing doors noisy transport catalan spanish barcelona.wav",
+        "34490ce6c6355d3da6c685200451ff29"
+      ]
+    },
+    "test/Water - Leak, small": {
+      "audio": [
+        "test/Water - Leak, small.wav",
+        "26d636e9eaa67b1295504c6cf01abafc"
+      ]
+    },
+    "test/SmallCarriageClockTicking": {
+      "audio": [
+        "test/SmallCarriageClockTicking.wav",
+        "9e64f3ee1bbe481e4867ffe84916ed80"
+      ]
+    },
+    "test/01451 war scene arrangement 1": {
+      "audio": [
+        "test/01451 war scene arrangement 1.wav",
+        "48ec25169963b13a46bbb159adb24221"
+      ]
+    },
+    "test/ATV foley &amp; drive in woods - Reverberant [ST]": {
+      "audio": [
+        "test/ATV foley &amp; drive in woods - Reverberant [ST].wav",
+        "4c5b137cc5010fa3e469a8ad7674287f"
+      ]
+    },
+    "test/FastCarAmb": {
+      "audio": [
+        "test/FastCarAmb.wav",
+        "04e766b3428bf43cb7b5901874fff8d8"
+      ]
+    },
+    "test/Amusement Park (Ambience)": {
+      "audio": [
+        "test/Amusement Park (Ambience).wav",
+        "138b454c41733bf472ace66121c5b5cb"
+      ]
+    },
+    "test/Opening and Closing an old Glass Door": {
+      "audio": [
+        "test/Opening and Closing an old Glass Door.wav",
+        "5935bfe71934b5801822faae54fb5c05"
+      ]
+    },
+    "test/timber": {
+      "audio": [
+        "test/timber.wav",
+        "c28c854de26896d11e50b9255a0b37ba"
+      ]
+    },
+    "test/August night": {
+      "audio": [
+        "test/August night.wav",
+        "e7481aafc307629bd50586eaa8736a1b"
+      ]
+    },
+    "test/Sound_FX_dishmachine_digital": {
+      "audio": [
+        "test/Sound_FX_dishmachine_digital.wav",
+        "28e5709c0c3078c769e6aa68fd1d94b3"
+      ]
+    },
+    "test/door knocks": {
+      "audio": [
+        "test/door knocks.wav",
+        "831ead6a917155cb444492dd24e7fbe9"
+      ]
+    },
+    "test/nxSample015": {
+      "audio": [
+        "test/nxSample015.wav",
+        "70f6e4a21ec2ee9b8a4b38d96ebab394"
+      ]
+    },
+    "test/The Great Outdoors of Kortepohja": {
+      "audio": [
+        "test/The Great Outdoors of Kortepohja.wav",
+        "6ce107a1cca462f2bd8925f71a1f40c2"
+      ]
+    },
+    "test/ending.applause": {
+      "audio": [
+        "test/ending.applause.wav",
+        "15ef6b38bf29df63df063dd22034a3e4"
+      ]
+    },
+    "test/03480 static white noise": {
+      "audio": [
+        "test/03480 static white noise.wav",
+        "d0e8685b8ecab9e7b8a0f791db731845"
+      ]
+    },
+    "test/070821_flsp_narrows": {
+      "audio": [
+        "test/070821_flsp_narrows.wav",
+        "d6ea6d8e547bc9f01c702e3e0c4a890a"
+      ]
+    },
+    "test/trame5_5": {
+      "audio": [
+        "test/trame5_5.wav",
+        "13712a48b88f4b83028ad506712608ef"
+      ]
+    },
+    "test/Toilet flushing, water filling bowl": {
+      "audio": [
+        "test/Toilet flushing, water filling bowl.wav",
+        "1967d81e6b102fe585582506cfa0969e"
+      ]
+    },
+    "test/Dropping Coins into Water": {
+      "audio": [
+        "test/Dropping Coins into Water.wav",
+        "06720ea568f8c8df72ff3bdf9fc80967"
+      ]
+    },
+    "test/00213 train signal bird and rain": {
+      "audio": [
+        "test/00213 train signal bird and rain.wav",
+        "117aba036b82919d5af3872ba8fb33f5"
+      ]
+    },
+    "test/screech_owl": {
+      "audio": [
+        "test/screech_owl.wav",
+        "4286403057addde9eb5a9656acdd26da"
+      ]
+    },
+    "test/wind, basement, dripping water": {
+      "audio": [
+        "test/wind, basement, dripping water.wav",
+        "a3c5caa9bdbcd5692e32e2c74107a5b4"
+      ]
+    },
+    "test/Pug Woof 3": {
+      "audio": [
+        "test/Pug Woof 3.wav",
+        "ba95b3daab2a44c62dc7144df720924d"
+      ]
+    },
+    "test/motors-moteurs": {
+      "audio": [
+        "test/motors-moteurs.wav",
+        "41f8a8bba9f013a9f081f53da1751d75"
+      ]
+    },
+    "test/UoA_NuLibraryGlassLift_1202": {
+      "audio": [
+        "test/UoA_NuLibraryGlassLift_1202.wav",
+        "fdb7061c446e6e3e74ecadc3ecb0b029"
+      ]
+    },
+    "test/Grill": {
+      "audio": [
+        "test/Grill.wav",
+        "eb40c0285a03be93b9a0767674185fbe"
+      ]
+    },
+    "test/Electromagnetic Waves on a Macbook Pro": {
+      "audio": [
+        "test/Electromagnetic Waves on a Macbook Pro.wav",
+        "ca6fe27a3d696104123992fa41bcb1ac"
+      ]
+    },
+    "test/Electric Stovetop": {
+      "audio": [
+        "test/Electric Stovetop.wav",
+        "c683bae4b396a60e3e827f2a074d6976"
+      ]
+    },
+    "test/Running water 20121021T2335": {
+      "audio": [
+        "test/Running water 20121021T2335.wav",
+        "8af7b1c17e94fc182adf2062a05d588f"
+      ]
+    },
+    "test/cat food": {
+      "audio": [
+        "test/cat food.wav",
+        "8490878838d70b7a07f19fded2da99f0"
+      ]
+    },
+    "test/Help Me": {
+      "audio": [
+        "test/Help Me.wav",
+        "6d0c46d80049d05e3c450f9bec063733"
+      ]
+    },
+    "test/World Spinning_01": {
+      "audio": [
+        "test/World Spinning_01.wav",
+        "509b08e2be801e0a082b00d34b34d6a6"
+      ]
+    },
+    "test/fireworkslong2": {
+      "audio": [
+        "test/fireworkslong2.wav",
+        "12fa8df66d41559f43c2d3bfee96c808"
+      ]
+    },
+    "test/Ambience - Quiet Train": {
+      "audio": [
+        "test/Ambience - Quiet Train.wav",
+        "4c1db9678203a22b18fcfb61326777f9"
+      ]
+    },
+    "test/20070610.thunder": {
+      "audio": [
+        "test/20070610.thunder.wav",
+        "4bf445c319870ef8012c461fe6dbabea"
+      ]
+    },
+    "test/soft-motor-wobble": {
+      "audio": [
+        "test/soft-motor-wobble.wav",
+        "06f0c1e27b7bf1b9b900bb3ec726ddaf"
+      ]
+    },
+    "test/Metal_Tin_Hit_bang": {
+      "audio": [
+        "test/Metal_Tin_Hit_bang.wav",
+        "12f63d55bf5cc6a58dc405521bdc3dc4"
+      ]
+    },
+    "test/Chopping of vegetables and fruit - knife on cutting board": {
+      "audio": [
+        "test/Chopping of vegetables and fruit - knife on cutting board.wav",
+        "d1c258d237ee11004ae1756d9fc928fe"
+      ]
+    },
+    "test/tata_hungary__ady_endre_road_20080718": {
+      "audio": [
+        "test/tata_hungary__ady_endre_road_20080718.wav",
+        "7cce12171f5443a01e4b7893598ba916"
+      ]
+    },
+    "test/glassgnissel1": {
+      "audio": [
+        "test/glassgnissel1.wav",
+        "a21f88d3623a69a413a3133f62077275"
+      ]
+    },
+    "test/PUTTING IN DVD": {
+      "audio": [
+        "test/PUTTING IN DVD.wav",
+        "bc2d1bbbf0fe655f318da95a3bde854b"
+      ]
+    },
+    "test/dub1": {
+      "audio": [
+        "test/dub1.wav",
+        "29b14b2e0118c13755f235f7e9c9972b"
+      ]
+    },
+    "test/Wheat ears shaken": {
+      "audio": [
+        "test/Wheat ears shaken.wav",
+        "7197f932c1e232380759ef04027fcdf2"
+      ]
+    },
+    "test/soda can_pop": {
+      "audio": [
+        "test/soda can_pop.wav",
+        "a21c0f77f791aeb1b11bb25b1206604e"
+      ]
+    },
+    "test/Booklet_-_Throwing_down_on_wood_03_L_Close_R_Distant": {
+      "audio": [
+        "test/Booklet_-_Throwing_down_on_wood_03_L_Close_R_Distant.wav",
+        "3bec67f29891adf0bc2d2839ffc23eb1"
+      ]
+    },
+    "test/Talll Grass Hits 2": {
+      "audio": [
+        "test/Talll Grass Hits 2.wav",
+        "14056cdcfeac8a8a2abc0c02bb7d33f7"
+      ]
+    },
+    "test/DVD Cases": {
+      "audio": [
+        "test/DVD Cases.wav",
+        "ab342dda5edb582e40306242cc737024"
+      ]
+    },
+    "test/16 coffee shop ambience": {
+      "audio": [
+        "test/16 coffee shop ambience.wav",
+        "4c9cefd0255269d30768e2dfd221c548"
+      ]
+    },
+    "test/Water_bubbles_stereo_StereoPiezo_44_24": {
+      "audio": [
+        "test/Water_bubbles_stereo_StereoPiezo_44_24.wav",
+        "c647ad1b8bd7f456a1eec04cbb784110"
+      ]
+    },
+    "test/newport-hotel-door-slam": {
+      "audio": [
+        "test/newport-hotel-door-slam.wav",
+        "81074b0dc334905c518982b9ccebe6f5"
+      ]
+    },
+    "test/Dropping and Putting Down of Keys": {
+      "audio": [
+        "test/Dropping and Putting Down of Keys.wav",
+        "042f2926a01f6808c4bb14d01a3dba40"
+      ]
+    },
+    "test/Paper_Tear_Fx": {
+      "audio": [
+        "test/Paper_Tear_Fx.wav",
+        "7fda1d7f7eb33690ff58a60edfdb4cc8"
+      ]
+    },
+    "test/TREIN3": {
+      "audio": [
+        "test/TREIN3.wav",
+        "0dc3fab02a564eabd462c05d6b927427"
+      ]
+    },
+    "test/City Traffic in the Rain": {
+      "audio": [
+        "test/City Traffic in the Rain.wav",
+        "77912a04631c4fb6a5003e542c6bc1f5"
+      ]
+    },
+    "test/popibuuns": {
+      "audio": [
+        "test/popibuuns.wav",
+        "2a51546835a0a9cbad339be8636bbf4a"
+      ]
+    },
+    "test/160718 HSN spanish fish market": {
+      "audio": [
+        "test/160718 HSN spanish fish market.wav",
+        "7dea08702d3c1f21b3c7cf193eeda7d1"
+      ]
+    },
+    "test/weights rope": {
+      "audio": [
+        "test/weights rope.wav",
+        "8c063e16b54c317f76796bdd15a16e72"
+      ]
+    },
+    "test/Fire Crackle with Roaring Chimney": {
+      "audio": [
+        "test/Fire Crackle with Roaring Chimney.wav",
+        "1570462855a88f27b520a23bd345601d"
+      ]
+    },
+    "test/Engine Reving": {
+      "audio": [
+        "test/Engine Reving.wav",
+        "2bb4f6db940a9afc012b805055986d1a"
+      ]
+    },
+    "test/greece_naxos_cicadas_6": {
+      "audio": [
+        "test/greece_naxos_cicadas_6.wav",
+        "5cadf35e3534a74f98ff397c4882d0a6"
+      ]
+    },
+    "test/Match being lit": {
+      "audio": [
+        "test/Match being lit.wav",
+        "d072db71dee6e1cb330076a176aa3283"
+      ]
+    },
+    "test/Carmel Market": {
+      "audio": [
+        "test/Carmel Market.wav",
+        "69860204a8456da518861b93a04f912d"
+      ]
+    },
+    "test/Kids GardenHose 130723_02": {
+      "audio": [
+        "test/Kids GardenHose 130723_02.wav",
+        "6e55dc339acc098b208dad4b5c559c15"
+      ]
+    },
+    "test/SuctionTool": {
+      "audio": [
+        "test/SuctionTool.wav",
+        "8be16dd5f07cca444965a18e26c3691a"
+      ]
+    },
+    "test/Footsteps, slippers dragging on tile": {
+      "audio": [
+        "test/Footsteps, slippers dragging on tile.wav",
+        "6e0897c1822aa822c07cebf128e34233"
+      ]
+    },
+    "test/bruits.chute.petite.urne.gravillons": {
+      "audio": [
+        "test/bruits.chute.petite.urne.gravillons.wav",
+        "2b12087449a50ff03e0df1636bb115f1"
+      ]
+    },
+    "test/Scratching Hair": {
+      "audio": [
+        "test/Scratching Hair.wav",
+        "ab1a0fcfd04e72938e3b8451443af066"
+      ]
+    },
+    "test/Synthetic rumble with rising tone": {
+      "audio": [
+        "test/Synthetic rumble with rising tone.wav",
+        "7df21b3eaf8fb08b869433e326c25b37"
+      ]
+    },
+    "test/Booklet_-_Leaf_through_02_L_Close_R_Distant": {
+      "audio": [
+        "test/Booklet_-_Leaf_through_02_L_Close_R_Distant.wav",
+        "bdf946351342bdb53b696731ad45e686"
+      ]
+    },
+    "test/hereg_hungary__car_passing_by_2_20080712": {
+      "audio": [
+        "test/hereg_hungary__car_passing_by_2_20080712.wav",
+        "c647502b3176bf856e0b5c56edfda635"
+      ]
+    },
+    "test/thebit2": {
+      "audio": [
+        "test/thebit2.wav",
+        "71ca029727cc48e4aac56f838ea37534"
+      ]
+    },
+    "test/playing chess": {
+      "audio": [
+        "test/playing chess.wav",
+        "55bbc17900d75c8bd8a12fb1fa7631cd"
+      ]
+    },
+    "test/Windchimes + Neighborhood Mutt": {
+      "audio": [
+        "test/Windchimes + Neighborhood Mutt.wav",
+        "83c9a6a9b804a17eee3a2750ff87c9f0"
+      ]
+    },
+    "test/cleaning_fridge": {
+      "audio": [
+        "test/cleaning_fridge.wav",
+        "62c6190af946793467b874cfc0558b4e"
+      ]
+    },
+    "test/sortdemo_qb45_insert": {
+      "audio": [
+        "test/sortdemo_qb45_insert.wav",
+        "6f8982ff465bcc48ebfdcddab9c09288"
+      ]
+    },
+    "test/JBF Buggy Race 3": {
+      "audio": [
+        "test/JBF Buggy Race 3.wav",
+        "f21f3adc5ea247c4e5d34b2e010451da"
+      ]
+    },
+    "test/lightswitch2": {
+      "audio": [
+        "test/lightswitch2.wav",
+        "e706da5eb7f3a3128476253c0c8ab9d7"
+      ]
+    },
+    "test/bath room fan": {
+      "audio": [
+        "test/bath room fan.wav",
+        "6464bd375c50246264c20ba5ec1372a7"
+      ]
+    },
+    "test/Rain And Birds Chirping Krucifix Productions Sound Effects": {
+      "audio": [
+        "test/Rain And Birds Chirping Krucifix Productions Sound Effects.wav",
+        "d744268f0cc74ba333d2047ab3d38182"
+      ]
+    },
+    "test/Key Jingling": {
+      "audio": [
+        "test/Key Jingling.wav",
+        "53c62055a771c5ac28c2dadcb40f09b0"
+      ]
+    },
+    "test/Siberian Weather Front 5 PM 110304": {
+      "audio": [
+        "test/Siberian Weather Front 5 PM 110304.wav",
+        "cfac8bd3aaa1c32b759daf30bf0f11c8"
+      ]
+    },
+    "test/F-1-race-cars-restart-1stLap-Turn11-DR081": {
+      "audio": [
+        "test/F-1-race-cars-restart-1stLap-Turn11-DR081.wav",
+        "81220aa1d9419aa820d46b286000e95c"
+      ]
+    },
+    "test/0129 Big_shop": {
+      "audio": [
+        "test/0129 Big_shop.wav",
+        "491bdb7dc1666cae0d2cce667bac1331"
+      ]
+    },
+    "test/turning door lock": {
+      "audio": [
+        "test/turning door lock.wav",
+        "e07702b420fc074a2d7e8e62cee53c04"
+      ]
+    },
+    "test/Inside Car Ambience Next to School More Quiet Version": {
+      "audio": [
+        "test/Inside Car Ambience Next to School More Quiet Version.wav",
+        "262babf21b2985a0be86e195c9724c9f"
+      ]
+    },
+    "test/Tap Drip Vox inc reverb": {
+      "audio": [
+        "test/Tap Drip Vox inc reverb.wav",
+        "b60afcb0bec2b458ea15b6c8fe3051b1"
+      ]
+    },
+    "test/very strong thunder by fresco": {
+      "audio": [
+        "test/very strong thunder by fresco.wav",
+        "52437114bea7ad049d06acd5c7e90ad7"
+      ]
+    },
+    "test/Old alarm clock (ticking and ringing)": {
+      "audio": [
+        "test/Old alarm clock (ticking and ringing).wav",
+        "ed12de155b8fba27db74d72f3a38ecfd"
+      ]
+    },
+    "test/Wine glass hits": {
+      "audio": [
+        "test/Wine glass hits.wav",
+        "e45c9d0f09d7f5189c29b691c643719d"
+      ]
+    },
+    "test/THAI GONG3": {
+      "audio": [
+        "test/THAI GONG3.wav",
+        "07f5f02c28b13f8b7a754071907b4a8f"
+      ]
+    },
+    "test/1167church_clock_striking_ten": {
+      "audio": [
+        "test/1167church_clock_striking_ten.wav",
+        "8655e2d495d1e684c84a6398c0063509"
+      ]
+    },
+    "test/cinemato": {
+      "audio": [
+        "test/cinemato.wav",
+        "d8d5a44c28c90ac2550ad2cb74d2c31d"
+      ]
+    },
+    "test/Train Passing, A": {
+      "audio": [
+        "test/Train Passing, A.wav",
+        "8026acf7b9c81e2f5e98a1c046cf7629"
+      ]
+    },
+    "test/WOF_slots5": {
+      "audio": [
+        "test/WOF_slots5.wav",
+        "d1d1116967d54a731a85020454bfbd40"
+      ]
+    },
+    "test/opening and swallowing pills": {
+      "audio": [
+        "test/opening and swallowing pills.wav",
+        "ed538ab19bf6cd63d4c6f169750a6573"
+      ]
+    },
+    "test/Binnenrotte market live 100309": {
+      "audio": [
+        "test/Binnenrotte market live 100309.wav",
+        "49eb86abbbaf1f601b69ab1b33a74a2b"
+      ]
+    },
+    "test/Fire crackling": {
+      "audio": [
+        "test/Fire crackling.wav",
+        "6e34a5efc321255c7d788fb7ebdac4b0"
+      ]
+    },
+    "test/POTATO_CHIP_BAG OPEN": {
+      "audio": [
+        "test/POTATO_CHIP_BAG OPEN.wav",
+        "2e49fb816d2bd32d6dc32905c12458d9"
+      ]
+    },
+    "test/commercial vacuum": {
+      "audio": [
+        "test/commercial vacuum.wav",
+        "c320531fa17431dcd9efc899d0f2fb82"
+      ]
+    },
+    "test/forest stream ambiance": {
+      "audio": [
+        "test/forest stream ambiance.wav",
+        "f5c747f810ac5b551319bf3e982e93b3"
+      ]
+    },
+    "test/World Spinning": {
+      "audio": [
+        "test/World Spinning.wav",
+        "a1d22e90dce0c937b82db89e81ee204f"
+      ]
+    },
+    "test/Pad_1_w_melody": {
+      "audio": [
+        "test/Pad_1_w_melody.wav",
+        "ccdada777c047e813f1bb06f365faa61"
+      ]
+    },
+    "test/sdaviau2": {
+      "audio": [
+        "test/sdaviau2.wav",
+        "bb14602439691277361fb740e39d87be"
+      ]
+    },
+    "test/Rural nightfall atmos": {
+      "audio": [
+        "test/Rural nightfall atmos.wav",
+        "fb0345cd7216fb0687f8a56431ca2533"
+      ]
+    },
+    "test/Thunder Sounds Long": {
+      "audio": [
+        "test/Thunder Sounds Long.wav",
+        "75f87b42f4d8a0b8ff16fec81f766124"
+      ]
+    },
+    "test/zippers02": {
+      "audio": [
+        "test/zippers02.wav",
+        "75f5adaa9d86bf0b7d3dad16b2030f85"
+      ]
+    },
+    "test/20061017.apres.lapluie.pigeon": {
+      "audio": [
+        "test/20061017.apres.lapluie.pigeon.wav",
+        "9a0ea4788c99d5bb4dec4040a836ba28"
+      ]
+    },
+    "test/08-Bakken_RacingCars": {
+      "audio": [
+        "test/08-Bakken_RacingCars.wav",
+        "9bf464d9c1ecc4e2f79ce76faefb9245"
+      ]
+    },
+    "test/walk_hard_snow": {
+      "audio": [
+        "test/walk_hard_snow.wav",
+        "a590e14576e5038abd16b331fb464faa"
+      ]
+    },
+    "test/Village Square, Kardamyli, Ciccadas and distant chat": {
+      "audio": [
+        "test/Village Square, Kardamyli, Ciccadas and distant chat.wav",
+        "c80e22f2bb726c0bee94f2baac3d8a01"
+      ]
+    },
+    "test/UoA_PJ120202_HighStAlleyEch": {
+      "audio": [
+        "test/UoA_PJ120202_HighStAlleyEch.wav",
+        "efb3f3b8a16308a55f299e013103ae78"
+      ]
+    },
+    "test/23_train_jallandhar": {
+      "audio": [
+        "test/23_train_jallandhar.wav",
+        "b0f36ba850ff8089a96436f0bb387a25"
+      ]
+    },
+    "test/Heavy wind and rain": {
+      "audio": [
+        "test/Heavy wind and rain.wav",
+        "44fd4e681f7a7a631972d621800e6016"
+      ]
+    },
+    "test/Metal coat hanger on steel hook": {
+      "audio": [
+        "test/Metal coat hanger on steel hook.wav",
+        "cc84447f8b73e2f890088d21557081e3"
+      ]
+    },
+    "test/WineGlass": {
+      "audio": [
+        "test/WineGlass.wav",
+        "f69f3d222d062ef38c7b00dbe47fe254"
+      ]
+    },
+    "test/Ambience outside a series of restaurants": {
+      "audio": [
+        "test/Ambience outside a series of restaurants.wav",
+        "f5858933cca8aaaa9cb375f9add80880"
+      ]
+    },
+    "test/footsteps in woods": {
+      "audio": [
+        "test/footsteps in woods.wav",
+        "5fd2845f7e97ec8fad4e78390068ea46"
+      ]
+    },
+    "test/treinREM2": {
+      "audio": [
+        "test/treinREM2.wav",
+        "fa648982d409a3fda44b1b9fd0928c5c"
+      ]
+    },
+    "test/Whelen Piercer": {
+      "audio": [
+        "test/Whelen Piercer.wav",
+        "77e5ebf426290fd76989f38aaf4a3cf7"
+      ]
+    },
+    "test/Iron gate, street": {
+      "audio": [
+        "test/Iron gate, street.wav",
+        "974ceebd01f89ae07286ab3b213f6ed6"
+      ]
+    },
+    "test/20110212_mercado.05": {
+      "audio": [
+        "test/20110212_mercado.05.wav",
+        "acdd9afa2dc9c13e5995ce0e1dd7f165"
+      ]
+    },
+    "test/Opening a Mysterious Trunk": {
+      "audio": [
+        "test/Opening a Mysterious Trunk.wav",
+        "28662b31c9b60fcea7785c0661d470d6"
+      ]
+    },
+    "test/entering1": {
+      "audio": [
+        "test/entering1.wav",
+        "5a1e701e335675ce85fca890ca5ea89f"
+      ]
+    },
+    "test/creaky-door-11": {
+      "audio": [
+        "test/creaky-door-11.wav",
+        "7afcfe9aa0fa1857e7d68ded1ab21a0f"
+      ]
+    },
+    "test/TASCAM_0337": {
+      "audio": [
+        "test/TASCAM_0337.wav",
+        "bebdef6a6f3ed60cb7c535d1713dfae1"
+      ]
+    },
+    "test/pineforest winter NL SHORT 130110_00": {
+      "audio": [
+        "test/pineforest winter NL SHORT 130110_00.wav",
+        "88c70ce54dd3d71c62ac232862ad0c54"
+      ]
+    },
+    "test/Spring Birds in Finnish forest": {
+      "audio": [
+        "test/Spring Birds in Finnish forest.wav",
+        "e703ab3db53972caa0245fa30e408746"
+      ]
+    },
+    "test/window rapping": {
+      "audio": [
+        "test/window rapping.wav",
+        "5da66358653856f7b2e4963d956f84f0"
+      ]
+    },
+    "test/preparing fire at the picnic": {
+      "audio": [
+        "test/preparing fire at the picnic.wav",
+        "baf762bd254b82500bd9d4d70771c0f1"
+      ]
+    },
+    "test/birdsambience": {
+      "audio": [
+        "test/birdsambience.wav",
+        "dfd7189f855f71868e79e04974496bad"
+      ]
+    },
+    "test/Datse Match - Bhutan": {
+      "audio": [
+        "test/Datse Match - Bhutan.wav",
+        "9a55b1c10bfd233a5f106746153adca4"
+      ]
+    },
+    "test/20080321.warbler.n.dogs": {
+      "audio": [
+        "test/20080321.warbler.n.dogs.wav",
+        "dacc3bde42bd9c3db47338d4f04242e2"
+      ]
+    },
+    "test/AugustNightInCornField": {
+      "audio": [
+        "test/AugustNightInCornField.wav",
+        "8cc317667f515e79ef2efa67db047314"
+      ]
+    },
+    "test/Taps in the Bath": {
+      "audio": [
+        "test/Taps in the Bath.wav",
+        "58a169484145d146e82b11b2d41e84e9"
+      ]
+    },
+    "test/TAMPER_0332": {
+      "audio": [
+        "test/TAMPER_0332.wav",
+        "42bc1382c276fa28c0dcc74447380ac9"
+      ]
+    },
+    "test/gootsteen": {
+      "audio": [
+        "test/gootsteen.wav",
+        "513595be6e72558f487a3d82533584c7"
+      ]
+    },
+    "test/diesellocomotive": {
+      "audio": [
+        "test/diesellocomotive.wav",
+        "46b789b464decb0eee00997555597dc6"
+      ]
+    },
+    "test/stereo noise experiment 130820": {
+      "audio": [
+        "test/stereo noise experiment 130820.wav",
+        "63d421c0fd35b50f6c893e63a061479c"
+      ]
+    },
+    "test/Bell from large rabbit plush": {
+      "audio": [
+        "test/Bell from large rabbit plush.wav",
+        "3271521dea10aa678cd2de7a3cbef412"
+      ]
+    },
+    "test/Water In Montsegur, France": {
+      "audio": [
+        "test/Water In Montsegur, France.wav",
+        "22c7b5f32becbe13255f9840df896717"
+      ]
+    },
+    "test/HARDWARE STORE ROOMTONE": {
+      "audio": [
+        "test/HARDWARE STORE ROOMTONE.wav",
+        "bceb0fbd61a6e574a7cdc06b729c4337"
+      ]
+    },
+    "test/Closing automatic garage door": {
+      "audio": [
+        "test/Closing automatic garage door.wav",
+        "b2d9a00b1327cfe4dfe0efee1ff38a84"
+      ]
+    },
+    "test/reenactment4": {
+      "audio": [
+        "test/reenactment4.wav",
+        "a20bdcb9468709015d5d2ed39a681e89"
+      ]
+    },
+    "test/Sink_on_off": {
+      "audio": [
+        "test/Sink_on_off.wav",
+        "c56088c0b413e126a3e9b7bccc4db19b"
+      ]
+    },
+    "test/cigarette_lighter": {
+      "audio": [
+        "test/cigarette_lighter.wav",
+        "2e061df0891adc6745e29c4757642c97"
+      ]
+    },
+    "test/Lisbon&#39;s church": {
+      "audio": [
+        "test/Lisbon&#39;s church.wav",
+        "f438e5d6da4360891e8eefe1fd82493b"
+      ]
+    },
+    "test/sapjjr-train- grandcentral-1": {
+      "audio": [
+        "test/sapjjr-train- grandcentral-1.wav",
+        "24e8d92fc77103c0c30d67f57707f786"
+      ]
+    },
+    "test/Salvation Army Carol (at Sainsbury)": {
+      "audio": [
+        "test/Salvation Army Carol (at Sainsbury).wav",
+        "c9292b469f6fca6ffe6feed4fa4596c3"
+      ]
+    },
+    "test/tub faucet and drain": {
+      "audio": [
+        "test/tub faucet and drain.wav",
+        "ccff0acf14d1585b373051fa19bfb4b7"
+      ]
+    },
+    "test/tedeschi": {
+      "audio": [
+        "test/tedeschi.wav",
+        "0fafa3763dc635fe72b3fc1277ddd6ab"
+      ]
+    },
+    "test/00208 tractors passing by": {
+      "audio": [
+        "test/00208 tractors passing by.wav",
+        "6eb63731646eaf564c185d97bd782e5c"
+      ]
+    },
+    "test/applause_and_whistle": {
+      "audio": [
+        "test/applause_and_whistle.wav",
+        "68c03343fdc18f13a733d7657a737895"
+      ]
+    },
+    "test/electric screwdriver_ST": {
+      "audio": [
+        "test/electric screwdriver_ST.wav",
+        "29cb1994f0539551cec6b6eab281486f"
+      ]
+    },
+    "test/Misc_bird_calls_ light_distant_traffic": {
+      "audio": [
+        "test/Misc_bird_calls_ light_distant_traffic.wav",
+        "87d77db67d2d5c98bd351687cd82ec7f"
+      ]
+    },
+    "test/Sea Waves Splash the Beach on the Isle of Wight Coast": {
+      "audio": [
+        "test/Sea Waves Splash the Beach on the Isle of Wight Coast.wav",
+        "180361a98d11fde185bf00b76bc7dd4b"
+      ]
+    },
+    "test/Helicopter and crows passing overhead": {
+      "audio": [
+        "test/Helicopter and crows passing overhead.wav",
+        "26c999585c4e62cbaa3d05c178aa3008"
+      ]
+    },
+    "test/Apartment Ambiance 2": {
+      "audio": [
+        "test/Apartment Ambiance 2.wav",
+        "e6eb1627de67e123c7db8c7df9d7c781"
+      ]
+    },
+    "test/20091226.soft.door": {
+      "audio": [
+        "test/20091226.soft.door.wav",
+        "94f50fb253f0140183ed430e9ee6db4a"
+      ]
+    },
+    "test/car coming 1": {
+      "audio": [
+        "test/car coming 1.wav",
+        "9f76889cce5e6f4df4cba68c483871b0"
+      ]
+    },
+    "test/md3trk14": {
+      "audio": [
+        "test/md3trk14.wav",
+        "0c51b5268efeede1903608c4a32d5620"
+      ]
+    },
+    "test/Caporales": {
+      "audio": [
+        "test/Caporales.wav",
+        "fc25976a764d7a4724d3bbce3f96bed1"
+      ]
+    },
+    "test/Morning Ride 7": {
+      "audio": [
+        "test/Morning Ride 7.wav",
+        "a56ee8f4a5e511afa44237a414f8cf55"
+      ]
+    },
+    "test/forestandocean": {
+      "audio": [
+        "test/forestandocean.wav",
+        "eae56e1479db1d95e4c19434b269a484"
+      ]
+    },
+    "test/2 Subway Nice Place to Live": {
+      "audio": [
+        "test/2 Subway Nice Place to Live.wav",
+        "55d3fcabb96e60287a1d4c6d563970ea"
+      ]
+    },
+    "test/FR.CTC.08.CoyuyoS.006": {
+      "audio": [
+        "test/FR.CTC.08.CoyuyoS.006.wav",
+        "2abd5754e742ea3efff37925a919b6e3"
+      ]
+    },
+    "test/footsteps_pebble_each_01": {
+      "audio": [
+        "test/footsteps_pebble_each_01.wav",
+        "f91671c0e97c0029d40c1c459eaaa553"
+      ]
+    },
+    "test/bathtub feet squeek with water splashes ": {
+      "audio": [
+        "test/bathtub feet squeek with water splashes .wav",
+        "549abce85189e225580f06dda9dc6057"
+      ]
+    },
+    "test/meeting singing on boat - galilee": {
+      "audio": [
+        "test/meeting singing on boat - galilee.wav",
+        "bb28d15a81fca4dab9c95a4e78b38284"
+      ]
+    },
+    "test/Midnight Clock": {
+      "audio": [
+        "test/Midnight Clock.wav",
+        "f50a316e9e92237743719b25d5969cab"
+      ]
+    },
+    "test/Stream Running Into Pond": {
+      "audio": [
+        "test/Stream Running Into Pond.wav",
+        "4ac6b69656150884ab8829addf9b9130"
+      ]
+    },
+    "test/Stream 5 at Krka falls": {
+      "audio": [
+        "test/Stream 5 at Krka falls.wav",
+        "37d71fdac01a10eae802f9b5b2501426"
+      ]
+    },
+    "test/PS3F_FOZ_centro_Mufato_carrinhos_tarde": {
+      "audio": [
+        "test/PS3F_FOZ_centro_Mufato_carrinhos_tarde.wav",
+        "b844a1ce0bd7eb15a6822f5e29aa5f2b"
+      ]
+    },
+    "test/VillageLaughter1": {
+      "audio": [
+        "test/VillageLaughter1.wav",
+        "dcf9843496aec578b41069af6770e70d"
+      ]
+    },
+    "test/1_ambiente inicio": {
+      "audio": [
+        "test/1_ambiente inicio.wav",
+        "b26fc6d1abe4bb6ae9ac0713cefa68b2"
+      ]
+    },
+    "test/type writer": {
+      "audio": [
+        "test/type writer.wav",
+        "7a8d8e3f246db07bbd5d494afe05875c"
+      ]
+    },
+    "test/WaterDrops": {
+      "audio": [
+        "test/WaterDrops.wav",
+        "5d5df07ae6f436486e0fc203e239d182"
+      ]
+    },
+    "test/Baby throwing sand all over the place": {
+      "audio": [
+        "test/Baby throwing sand all over the place.wav",
+        "010237ae0e1a16039bf137c308b33129"
+      ]
+    },
+    "test/20060426.marsh.crikets.bee-eaters.stereo": {
+      "audio": [
+        "test/20060426.marsh.crikets.bee-eaters.stereo.wav",
+        "d0a91cbef637d2e9d9cbfeb8b76ece83"
+      ]
+    },
+    "test/IRON_SLIDE": {
+      "audio": [
+        "test/IRON_SLIDE.wav",
+        "58b14be3b97dad3a7a16e2d35ee56d76"
+      ]
+    },
+    "test/Diesel train arrives and departs 1": {
+      "audio": [
+        "test/Diesel train arrives and departs 1.wav",
+        "f816c0d6e5e3ea4ce10428f4a9e079e1"
+      ]
+    },
+    "test/indoors dorm dormitory ambient room tone closed window distant noises neighbours": {
+      "audio": [
+        "test/indoors dorm dormitory ambient room tone closed window distant noises neighbours.wav",
+        "7fb3496cb3010b50722ae0353d46e37e"
+      ]
+    },
+    "test/tube_arriving": {
+      "audio": [
+        "test/tube_arriving.wav",
+        "209dc4b29716d9c8f0dc595d54c4c5ee"
+      ]
+    },
+    "test/drainage pipe running": {
+      "audio": [
+        "test/drainage pipe running.wav",
+        "082ed3891f1ce2ae4a83bd4477e06d1a"
+      ]
+    },
+    "test/Old metal pail": {
+      "audio": [
+        "test/Old metal pail.wav",
+        "0c37caac8152ea47102cd0c77a998e2e"
+      ]
+    },
+    "test/Dropping water": {
+      "audio": [
+        "test/Dropping water.wav",
+        "96ade6ef2fca99fb852c75cb32afec36"
+      ]
+    },
+    "test/RC Helicopter Wind Blowing": {
+      "audio": [
+        "test/RC Helicopter Wind Blowing.wav",
+        "661533fc8d4b3a58bd0ada80473385b7"
+      ]
+    },
+    "test/d0_drips_01": {
+      "audio": [
+        "test/d0_drips_01.wav",
+        "548e133c87361d5815875b8c1794dc94"
+      ]
+    },
+    "test/Walking Downstairs": {
+      "audio": [
+        "test/Walking Downstairs.wav",
+        "0b326d53aae7da782b3ffd02de7ff5f8"
+      ]
+    },
+    "test/jf Resonant Space": {
+      "audio": [
+        "test/jf Resonant Space.wav",
+        "e0951aec72a170634dcda8fa0c33e28d"
+      ]
+    },
+    "test/Hammering on Anvil": {
+      "audio": [
+        "test/Hammering on Anvil.wav",
+        "d1a339052db646df53e3568a6fd8b7ac"
+      ]
+    },
+    "test/Street scene in Bangkok": {
+      "audio": [
+        "test/Street scene in Bangkok.wav",
+        "2dda2e25af8748907571edb00aab183a"
+      ]
+    },
+    "test/Snapping Stick": {
+      "audio": [
+        "test/Snapping Stick.wav",
+        "24177485fae034b50a75118f25e6dcec"
+      ]
+    },
+    "test/Plastic Rain Barrel short": {
+      "audio": [
+        "test/Plastic Rain Barrel short.wav",
+        "5bc85bb2351c469ccac1f92944c55b4f"
+      ]
+    },
+    "test/COUNTRY-farm-yard": {
+      "audio": [
+        "test/COUNTRY-farm-yard.wav",
+        "e5d07e3dd849721e4ca6e0f1a1e8d163"
+      ]
+    },
+    "test/Train Luzern-Engelberg": {
+      "audio": [
+        "test/Train Luzern-Engelberg.wav",
+        "8e8a1a0003405fb77006c0cbd61d1963"
+      ]
+    },
+    "test/sd_coffee3": {
+      "audio": [
+        "test/sd_coffee3.wav",
+        "0ca73b445b0bc1d8fdbb45a42aeb5fcc"
+      ]
+    },
+    "test/KMC_Bell_Ring_01": {
+      "audio": [
+        "test/KMC_Bell_Ring_01.wav",
+        "44f8aeff465e64dbb7f07abd796cf57e"
+      ]
+    },
+    "test/Quiet Chat": {
+      "audio": [
+        "test/Quiet Chat.wav",
+        "ba95f27b87a0f11003eba6cb863e179a"
+      ]
+    },
+    "test/Sorrento Fireworks": {
+      "audio": [
+        "test/Sorrento Fireworks.wav",
+        "bf2396bc7640aaa1a17a29f10c800b47"
+      ]
+    },
+    "test/03199 power generator construction place ": {
+      "audio": [
+        "test/03199 power generator construction place .wav",
+        "68d0a8d98a389815d6f693e8bc38ea81"
+      ]
+    },
+    "test/Opening and Closing Curtains - Slow": {
+      "audio": [
+        "test/Opening and Closing Curtains - Slow.wav",
+        "1b84a0106d86290e6cd2ceab773c289e"
+      ]
+    },
+    "test/Sink running-drain": {
+      "audio": [
+        "test/Sink running-drain.wav",
+        "8f6eec3804a5996deb790190dd813b8f"
+      ]
+    },
+    "test/Footsteps on Hard Floor": {
+      "audio": [
+        "test/Footsteps on Hard Floor.wav",
+        "2f470ff77dabf9b3880caa8848633516"
+      ]
+    },
+    "test/sink1": {
+      "audio": [
+        "test/sink1.wav",
+        "7ccc3ff5e87b84d4014ab14b6e7a40b7"
+      ]
+    },
+    "test/Draining Kitchen Sink by Fajack": {
+      "audio": [
+        "test/Draining Kitchen Sink by Fajack.wav",
+        "426098781db7c345f3f05c94f44457bc"
+      ]
+    },
+    "test/river_small_close_01": {
+      "audio": [
+        "test/river_small_close_01.wav",
+        "23a039ab4914c91d21d1de439a896a2a"
+      ]
+    },
+    "test/HarzTrain": {
+      "audio": [
+        "test/HarzTrain.wav",
+        "667d2c12557d5ab098c52108ba302bbd"
+      ]
+    },
+    "test/20100110.rain.marshes": {
+      "audio": [
+        "test/20100110.rain.marshes.wav",
+        "e57bbff6e3c0bf6b917f492e03b209d6"
+      ]
+    },
+    "test/Torden og lynild 3": {
+      "audio": [
+        "test/Torden og lynild 3.wav",
+        "57c405ce5c13faff2e618b6619a85a23"
+      ]
+    },
+    "test/CFX-20130331-UK-DorsetHarbour09": {
+      "audio": [
+        "test/CFX-20130331-UK-DorsetHarbour09.wav",
+        "a0ce58a7daaeb8daec88b76bc8ae1e38"
+      ]
+    },
+    "test/lachen": {
+      "audio": [
+        "test/lachen.wav",
+        "ff56d8e425efc6a847aa431477a96b69"
+      ]
+    },
+    "test/fist bang 2": {
+      "audio": [
+        "test/fist bang 2.wav",
+        "cbfd27e4e3418d037ebda02e7d810346"
+      ]
+    },
+    "test/grasshopper": {
+      "audio": [
+        "test/grasshopper.wav",
+        "b157ceb3171c0249d3efb8e1d45cbc57"
+      ]
+    },
+    "test/church_bell_song": {
+      "audio": [
+        "test/church_bell_song.wav",
+        "3251c96a0d5f58ef0e8f517e2b58a560"
+      ]
+    },
+    "test/walking 1": {
+      "audio": [
+        "test/walking 1.wav",
+        "6d07d6257f6f89d2c3e88ae4d91f45c8"
+      ]
+    },
+    "test/Passing Tractor": {
+      "audio": [
+        "test/Passing Tractor.wav",
+        "3f7200673d9d9158ad14d92c2726ec43"
+      ]
+    },
+    "test/Toilet 2": {
+      "audio": [
+        "test/Toilet 2.wav",
+        "6ccff8bfe28b1dba1e1df9eb26a297bb"
+      ]
+    },
+    "test/5. Apartment ambience inside room": {
+      "audio": [
+        "test/5. Apartment ambience inside room.wav",
+        "8772c4454d0c9007527c4b52042334c1"
+      ]
+    },
+    "test/Cicada 1": {
+      "audio": [
+        "test/Cicada 1.wav",
+        "d4482a154c9ba0ee1fd6f4203abb6a63"
+      ]
+    },
+    "test/Interference3": {
+      "audio": [
+        "test/Interference3.wav",
+        "a763ed13d1e672635239160595762222"
+      ]
+    },
+    "test/CFX-20130331-UK-DorsetHarbour08": {
+      "audio": [
+        "test/CFX-20130331-UK-DorsetHarbour08.wav",
+        "6fe84975ac6b8a4b52a6852cd765f58a"
+      ]
+    },
+    "test/nia walking": {
+      "audio": [
+        "test/nia walking.wav",
+        "3c59e9e3b7eb11d3bfaea69fb27b375e"
+      ]
+    },
+    "test/Rain 02 091012": {
+      "audio": [
+        "test/Rain 02 091012.wav",
+        "4587f112d30a17426972ccbc2ed45d4c"
+      ]
+    },
+    "test/Tone Shift": {
+      "audio": [
+        "test/Tone Shift.wav",
+        "72b5eb6dd93f2a4c8435bcb55ae5ccb4"
+      ]
+    },
+    "test/97315__Robinhood76__01706_wounded_jungle_animal_Before-After": {
+      "audio": [
+        "test/97315__Robinhood76__01706_wounded_jungle_animal_Before-After.wav",
+        "a88e991a53afb6ad14082a2827f87b43"
+      ]
+    },
+    "test/20100806.stockholm.street.ambiance": {
+      "audio": [
+        "test/20100806.stockholm.street.ambiance.wav",
+        "c7bb538b0873e82e85c12c146ae11597"
+      ]
+    },
+    "test/texting with i-phone": {
+      "audio": [
+        "test/texting with i-phone.wav",
+        "b8b07b75f5510aa9525726cb28e6566a"
+      ]
+    },
+    "test/indoors WC bathroom ambient room tone": {
+      "audio": [
+        "test/indoors WC bathroom ambient room tone.wav",
+        "f8f5c6778e6a6becdfd97a95ef516491"
+      ]
+    },
+    "test/ship horn": {
+      "audio": [
+        "test/ship horn.wav",
+        "0a272d77c801462a845d3e65b7997f2c"
+      ]
+    },
+    "test/foley noisy chair moving standing up different speed": {
+      "audio": [
+        "test/foley noisy chair moving standing up different speed.wav",
+        "c918406fb86f1e3a18d949eef7694368"
+      ]
+    },
+    "test/Cityscape 02 100208": {
+      "audio": [
+        "test/Cityscape 02 100208.wav",
+        "dbbf6b8f24b7f0bc159f2057a1525f86"
+      ]
+    },
+    "test/Glasses Kitchen_IO": {
+      "audio": [
+        "test/Glasses Kitchen_IO.wav",
+        "0e17d4f861dd1cada9c725bcda5c155c"
+      ]
+    },
+    "test/metallic scratches an rubs": {
+      "audio": [
+        "test/metallic scratches an rubs.wav",
+        "ac2b24e3e64562d636c4ee06d6ec4e78"
+      ]
+    },
+    "test/Rain falling and thunder clapping in a storm": {
+      "audio": [
+        "test/Rain falling and thunder clapping in a storm.wav",
+        "a07727bd257f2b1fa15669ecd538d6ca"
+      ]
+    },
+    "test/gotes mig": {
+      "audio": [
+        "test/gotes mig.wav",
+        "a52540a2eb8ecdedd8a4f7a35b5b1695"
+      ]
+    },
+    "test/Synth Wind": {
+      "audio": [
+        "test/Synth Wind.wav",
+        "07ad17413ba440ef6db8a535cd94dedc"
+      ]
+    },
+    "test/Car Pass and Horse Twang - CherryGardens": {
+      "audio": [
+        "test/Car Pass and Horse Twang - CherryGardens.wav",
+        "136b654e4ba2dd11380f76bbe80b0cd3"
+      ]
+    },
+    "test/Washing short hair": {
+      "audio": [
+        "test/Washing short hair.wav",
+        "a74e1e0d0bb0130f123adcaea0822b57"
+      ]
+    },
+    "test/trolley car B": {
+      "audio": [
+        "test/trolley car B.wav",
+        "40436d69149e04495688579f15289fc7"
+      ]
+    },
+    "test/Crossroads with traffic lights #1": {
+      "audio": [
+        "test/Crossroads with traffic lights #1.wav",
+        "764c30d12cebde3435ce8d4edf9ce538"
+      ]
+    },
+    "test/birdies": {
+      "audio": [
+        "test/birdies.wav",
+        "f2f77b969494e7d42b19c40cb60ebf5d"
+      ]
+    },
+    "test/Helicopter Landing": {
+      "audio": [
+        "test/Helicopter Landing.wav",
+        "a4a21e4162f9c23a469a8585d0a0d8ce"
+      ]
+    },
+    "test/13-Nails Impatient Against Wood-consolidated": {
+      "audio": [
+        "test/13-Nails Impatient Against Wood-consolidated.wav",
+        "234fe5fe3db75e189164e0b36e39ce65"
+      ]
+    },
+    "test/city town Havana afternoon balcony": {
+      "audio": [
+        "test/city town Havana afternoon balcony.wav",
+        "9fec70182816df371d7870970457cb48"
+      ]
+    },
+    "test/Prairie Sounds - walking on dirt road between grassy fields - raw": {
+      "audio": [
+        "test/Prairie Sounds - walking on dirt road between grassy fields - raw.wav",
+        "e0e75514898b573aeea0c486653e3fcd"
+      ]
+    },
+    "test/Heavy Rain tin roof": {
+      "audio": [
+        "test/Heavy Rain tin roof.wav",
+        "145338501e948b7b175381b764605617"
+      ]
+    },
+    "test/thunder wind 02": {
+      "audio": [
+        "test/thunder wind 02.wav",
+        "ac46738ed3f95acdf059a8a26b956348"
+      ]
+    },
+    "test/echo_ljubljana_castle": {
+      "audio": [
+        "test/echo_ljubljana_castle.wav",
+        "a897dcf2222b6461a5aa115a6ed3dc64"
+      ]
+    },
+    "test/20101118.omnium.sanctorum": {
+      "audio": [
+        "test/20101118.omnium.sanctorum.wav",
+        "8485f47e7cb17c0047ff5321def53f2e"
+      ]
+    },
+    "test/Strange_en_horn": {
+      "audio": [
+        "test/Strange_en_horn.wav",
+        "903400de7a97f9a05655ef3560efee7d"
+      ]
+    },
+    "test/Mall Ambient": {
+      "audio": [
+        "test/Mall Ambient.wav",
+        "7571d60bec020e70b7dc59f33b2bf4c6"
+      ]
+    },
+    "test/Washing Dishes in Kitchen Sink_1-2": {
+      "audio": [
+        "test/Washing Dishes in Kitchen Sink_1-2.wav",
+        "a942c79e3b1f3fe4d44d8c0e21d09ce6"
+      ]
+    },
+    "test/mountainBike pass in wood 140120_01": {
+      "audio": [
+        "test/mountainBike pass in wood 140120_01.wav",
+        "b213f429c2b2ffc1c00f229b3c46d5b8"
+      ]
+    },
+    "test/Tissue Paper ": {
+      "audio": [
+        "test/Tissue Paper .wav",
+        "e426a019075992c0c705663b4a528ec3"
+      ]
+    },
+    "test/Desert at Night": {
+      "audio": [
+        "test/Desert at Night.wav",
+        "6c6959dadd1be05d329a8188a70ba9ce"
+      ]
+    },
+    "test/Washing and scrubbing": {
+      "audio": [
+        "test/Washing and scrubbing.wav",
+        "e2068710c096cdbaf5dd82a0b5c5c5b2"
+      ]
+    },
+    "test/Rolling Chair": {
+      "audio": [
+        "test/Rolling Chair.wav",
+        "564c63471f76a937d5648cbc81eeaaf1"
+      ]
+    },
+    "test/ambience_rural_house_outdoors_noon": {
+      "audio": [
+        "test/ambience_rural_house_outdoors_noon.wav",
+        "b561e41c70f8cd2a42350030e2694a06"
+      ]
+    },
+    "test/melo_juan_baja_fidelidad_estudiantes_insectos_lluvia": {
+      "audio": [
+        "test/melo_juan_baja_fidelidad_estudiantes_insectos_lluvia.wav",
+        "27b1b9c3fe1f0bde7b207a30fa98c4b5"
+      ]
+    },
+    "test/Airplane Cabin": {
+      "audio": [
+        "test/Airplane Cabin.wav",
+        "9a4a79510037e2ea32bea88ff7b9431f"
+      ]
+    },
+    "test/110420-001_openair_cafe_karlsruhe_Schlosscafe": {
+      "audio": [
+        "test/110420-001_openair_cafe_karlsruhe_Schlosscafe.wav",
+        "143c2992bf96b8f355a0b6d52edfc9ac"
+      ]
+    },
+    "test/Conrose Park - Middle of Site": {
+      "audio": [
+        "test/Conrose Park - Middle of Site.wav",
+        "1e14ecd5c960276840c8bf81beed2016"
+      ]
+    },
+    "test/Hair Clippers 2": {
+      "audio": [
+        "test/Hair Clippers 2.wav",
+        "98cb1701e999cf116283196fe0e0e724"
+      ]
+    },
+    "test/Footsteps on Crunchy Snow": {
+      "audio": [
+        "test/Footsteps on Crunchy Snow.wav",
+        "275d966ac08a40cde9b039bd96ac752b"
+      ]
+    },
+    "test/hillden": {
+      "audio": [
+        "test/hillden.wav",
+        "f0ca967379ce27805bafbaa4805ecdae"
+      ]
+    },
+    "test/24 hn_footstepsSneakerConcreteSnow": {
+      "audio": [
+        "test/24 hn_footstepsSneakerConcreteSnow.wav",
+        "f4842c798f87aadc8fff48b2937cd8ee"
+      ]
+    },
+    "test/horse in woods 130213_00": {
+      "audio": [
+        "test/horse in woods 130213_00.wav",
+        "f0aa87cebbe726e705487e891c31eb1b"
+      ]
+    },
+    "test/satellite receiving busy signal": {
+      "audio": [
+        "test/satellite receiving busy signal.wav",
+        "985514afe2fb552f7151eb7c4cd9333b"
+      ]
+    },
+    "test/Zag.canon.eda": {
+      "audio": [
+        "test/Zag.canon.eda.wav",
+        "51387b92e7e7d66e2ea4194955fd21d4"
+      ]
+    },
+    "test/BodyDrag2": {
+      "audio": [
+        "test/BodyDrag2.wav",
+        "af567be9ef066db088daaa9bca023a55"
+      ]
+    },
+    "test/airshow_2": {
+      "audio": [
+        "test/airshow_2.wav",
+        "1fc191a71d6827dc2d1cf348f8ed5857"
+      ]
+    },
+    "test/Space danger": {
+      "audio": [
+        "test/Space danger.wav",
+        "f65c5a237f9bc8316827f749402a857e"
+      ]
+    },
+    "test/STREET_AMBULANCE_01": {
+      "audio": [
+        "test/STREET_AMBULANCE_01.wav",
+        "83885204b4c7c378af4addf3a8de7b16"
+      ]
+    },
+    "test/Industrial fan": {
+      "audio": [
+        "test/Industrial fan.wav",
+        "54e31bfa9d9498297c58d8e2a4ed64a1"
+      ]
+    },
+    "test/Hour glass sand falling": {
+      "audio": [
+        "test/Hour glass sand falling.wav",
+        "4aa3d1aff907ca8be4158756c3fe176f"
+      ]
+    },
+    "test/Brushing Hair": {
+      "audio": [
+        "test/Brushing Hair.wav",
+        "edf28d1ba690e3740f9c3acc76d5bcda"
+      ]
+    },
+    "test/UoA_Kcq_voices2_120224": {
+      "audio": [
+        "test/UoA_Kcq_voices2_120224.wav",
+        "21192fbce1d37f5c36d686de9b15e519"
+      ]
+    },
+    "test/aup": {
+      "audio": [
+        "test/aup.wav",
+        "8fd30bfaa04089b0ba785f5477f2f29f"
+      ]
+    },
+    "test/Ambience Wind": {
+      "audio": [
+        "test/Ambience Wind.wav",
+        "24abc8664ff7e764e3d93b3fc21a560b"
+      ]
+    },
+    "test/nxSample-158": {
+      "audio": [
+        "test/nxSample-158.wav",
+        "a1c2fbb728170dea78ee164df3413ab4"
+      ]
+    },
+    "test/Plastic Rain Barrel long": {
+      "audio": [
+        "test/Plastic Rain Barrel long.wav",
+        "05a75a0bf7001a45b1822618d12f9400"
+      ]
+    },
+    "test/Kurla local train station Mumbai (1)": {
+      "audio": [
+        "test/Kurla local train station Mumbai (1).wav",
+        "fb7fe0b07a8809ed86bce68917f24c3a"
+      ]
+    },
+    "test/contact_mic_on_satellite_dish09": {
+      "audio": [
+        "test/contact_mic_on_satellite_dish09.wav",
+        "40311eee0ea83ec841273525a60e14e0"
+      ]
+    },
+    "test/Skateboard rolling down concrete ramp": {
+      "audio": [
+        "test/Skateboard rolling down concrete ramp.wav",
+        "b31e4184eb2f698c458bbc7f986fda7f"
+      ]
+    },
+    "test/Stream trickling with small waterfall close by": {
+      "audio": [
+        "test/Stream trickling with small waterfall close by.wav",
+        "2974442697234d5c95c1688b0ada11f9"
+      ]
+    },
+    "test/Pushing Trolley": {
+      "audio": [
+        "test/Pushing Trolley.wav",
+        "10d3588736d5c8d33431d4bcce515497"
+      ]
+    },
+    "test/Twist Off Bottle Cap": {
+      "audio": [
+        "test/Twist Off Bottle Cap.wav",
+        "b678fe31503ea9d0d11ae2494c5477a5"
+      ]
+    },
+    "test/Hammering_Empty tank_large_CLOSE": {
+      "audio": [
+        "test/Hammering_Empty tank_large_CLOSE.wav",
+        "3017f1503c5c7655276834883d75d786"
+      ]
+    },
+    "test/Grocery Shop Atmos": {
+      "audio": [
+        "test/Grocery Shop Atmos.wav",
+        "8a4236d77515f2ff81b8b638216b1426"
+      ]
+    },
+    "test/Sound_FX_Kitchen_Kniifes and forks": {
+      "audio": [
+        "test/Sound_FX_Kitchen_Kniifes and forks.wav",
+        "e45c0e90f099cc16ead1f4b81d4793a1"
+      ]
+    },
+    "test/sw_thunder_03": {
+      "audio": [
+        "test/sw_thunder_03.wav",
+        "7ae53a363b05f352b4fe67be01656f5d"
+      ]
+    },
+    "test/PaperTossOnDesk": {
+      "audio": [
+        "test/PaperTossOnDesk.wav",
+        "0f94003f23760e4741aed094758937b8"
+      ]
+    },
+    "test/Ambience - Pig Pen - Day - 96kHzsssssss": {
+      "audio": [
+        "test/Ambience - Pig Pen - Day - 96kHzsssssss.wav",
+        "3ba8ad46c83f8fb2572772ee9c9cf631"
+      ]
+    },
+    "test/spider_monkeys": {
+      "audio": [
+        "test/spider_monkeys.wav",
+        "1bda45d08020c7320a97d2cc2bc9aa12"
+      ]
+    },
+    "test/traffic_night_street": {
+      "audio": [
+        "test/traffic_night_street.wav",
+        "37fba9406695b812f2b96486a7b53fe1"
+      ]
+    },
+    "test/elvis_radio_announcer": {
+      "audio": [
+        "test/elvis_radio_announcer.wav",
+        "b946e421228fb69b071c71563885cb64"
+      ]
+    },
+    "test/Subway to Namba St. ": {
+      "audio": [
+        "test/Subway to Namba St. .wav",
+        "5566e2a2ecf398b08a81360016c0ab78"
+      ]
+    },
+    "test/Rain_Patter_01": {
+      "audio": [
+        "test/Rain_Patter_01.wav",
+        "557e2f8dc67f02b924748946009e9db6"
+      ]
+    },
+    "test/WasherEndWashCycleStartSpinCycle": {
+      "audio": [
+        "test/WasherEndWashCycleStartSpinCycle.wav",
+        "c5c3ae637011d8780b332cd180e66eb3"
+      ]
+    },
+    "test/Filing Nail": {
+      "audio": [
+        "test/Filing Nail.wav",
+        "5c63895c60b93dd1ae7de7ae93e0daa0"
+      ]
+    },
+    "test/light": {
+      "audio": [
+        "test/light.wav",
+        "9ce98ba573b86eaabacb590dd731e562"
+      ]
+    },
+    "test/Sredniy Nikolopeskovsky lane, evening ambiance": {
+      "audio": [
+        "test/Sredniy Nikolopeskovsky lane, evening ambiance.wav",
+        "59b58f3eb91af3dedaa8a69e08e8323f"
+      ]
+    },
+    "test/Getting Into Car and Driving Away": {
+      "audio": [
+        "test/Getting Into Car and Driving Away.wav",
+        "d220288c2a84a520599eed87ffd021dc"
+      ]
+    },
+    "test/20091226.squeaky.door": {
+      "audio": [
+        "test/20091226.squeaky.door.wav",
+        "a1b32daf38b6ec9cf5e2a2908b14ed2a"
+      ]
+    },
+    "test/CFX-20130331-UK-DorsetSeaCliff07": {
+      "audio": [
+        "test/CFX-20130331-UK-DorsetSeaCliff07.wav",
+        "9b40330cc528840f2d540d2c95aff386"
+      ]
+    },
+    "test/Stram": {
+      "audio": [
+        "test/Stram.wav",
+        "304c80867b3345d4b29a02ff9d8865ab"
+      ]
+    },
+    "test/Melon Stabs (Juicy)": {
+      "audio": [
+        "test/Melon Stabs (Juicy).wav",
+        "94c5021960bece56f32fbc13880fb0ba"
+      ]
+    },
+    "test/ambient_sound": {
+      "audio": [
+        "test/ambient_sound.wav",
+        "da4899208484f069451cb8d10049f851"
+      ]
+    },
+    "test/dog howl in woods": {
+      "audio": [
+        "test/dog howl in woods.wav",
+        "a99bddadc24753a49d2a4086e48ab47f"
+      ]
+    },
+    "test/Ferry 03": {
+      "audio": [
+        "test/Ferry 03.wav",
+        "f111e18065f2cbeb1a87e29c770c7cef"
+      ]
+    },
+    "test/sheep calling her baby lambs": {
+      "audio": [
+        "test/sheep calling her baby lambs.wav",
+        "5551b4b1ae3d9ecfdd4c4fc8a414a209"
+      ]
+    },
+    "test/Tortured Apple 02": {
+      "audio": [
+        "test/Tortured Apple 02.wav",
+        "b20f96390f9c002e5ef77204c102127c"
+      ]
+    },
+    "test/Fake Wind - Blowing into the Mic - 30 sec": {
+      "audio": [
+        "test/Fake Wind - Blowing into the Mic - 30 sec.wav",
+        "5280bf44788dfedf536d9ed185c5ef61"
+      ]
+    },
+    "test/ambiant hangar sound": {
+      "audio": [
+        "test/ambiant hangar sound.wav",
+        "070fcd3c2de73359333f9026131d73da"
+      ]
+    },
+    "test/WM_drain_pre_spin_cycle_24_96_mono": {
+      "audio": [
+        "test/WM_drain_pre_spin_cycle_24_96_mono.wav",
+        "ad6fd66a15c4ff7b300856efcb9ccdf5"
+      ]
+    },
+    "test/leaves_on_the_wind": {
+      "audio": [
+        "test/leaves_on_the_wind.wav",
+        "b3f097a15fc7aef936f009875ff2e147"
+      ]
+    },
+    "test/TC.Balcarce08..CarRevving.2": {
+      "audio": [
+        "test/TC.Balcarce08..CarRevving.2.wav",
+        "bef90e4fd001a5e35ff82f274311d57d"
+      ]
+    },
+    "test/Smoke": {
+      "audio": [
+        "test/Smoke.wav",
+        "baded433f6b7bb68d964171e1bf3a52d"
+      ]
+    },
+    "test/cat_door": {
+      "audio": [
+        "test/cat_door.wav",
+        "18675313559795961998bbdce98eb59d"
+      ]
+    },
+    "test/inside an old factory under recustruction": {
+      "audio": [
+        "test/inside an old factory under recustruction.wav",
+        "561b2d3f467b6e8a93f5180794ed2a9b"
+      ]
+    },
+    "test/More Bells": {
+      "audio": [
+        "test/More Bells.wav",
+        "250aada43914f0b117497301d6a60e90"
+      ]
+    },
+    "test/rockonice": {
+      "audio": [
+        "test/rockonice.wav",
+        "d51e92067b440d1b9c01cae8fde6e3fe"
+      ]
+    },
+    "test/Gong mf2": {
+      "audio": [
+        "test/Gong mf2.wav",
+        "0689366c97f7fe0c773fbd18667b50cb"
+      ]
+    },
+    "test/Fan noise": {
+      "audio": [
+        "test/Fan noise.wav",
+        "568851190e65d8ffece153a933d2bf0a"
+      ]
+    },
+    "test/Sao_Paulo_Liberdade_Forro_2014_10_12": {
+      "audio": [
+        "test/Sao_Paulo_Liberdade_Forro_2014_10_12.wav",
+        "309fca887be4912fba1e53b6a2247fc7"
+      ]
+    },
+    "test/Stiff Metal Wire": {
+      "audio": [
+        "test/Stiff Metal Wire.wav",
+        "3efc1dd195f014e803a1385f5029aede"
+      ]
+    },
+    "test/JM_MACHINE_Coffee Machine 01 - Office": {
+      "audio": [
+        "test/JM_MACHINE_Coffee Machine 01 - Office.wav",
+        "ea6362e139a28a079ec4e85c29836309"
+      ]
+    },
+    "test/waves and that helicopter": {
+      "audio": [
+        "test/waves and that helicopter.wav",
+        "7419c5e16bcd249eb61f12b580dce65f"
+      ]
+    },
+    "test/Storm in the mountain forest of Parc regional des Cevennes_1": {
+      "audio": [
+        "test/Storm in the mountain forest of Parc regional des Cevennes_1.wav",
+        "f8a6daef90752210b14932f9a4b25448"
+      ]
+    },
+    "test/Pills ": {
+      "audio": [
+        "test/Pills .wav",
+        "f27970b5358bdcbbaa7a313e2b5312ca"
+      ]
+    },
+    "test/110719_glasgowdemolish": {
+      "audio": [
+        "test/110719_glasgowdemolish.wav",
+        "894282a9f0d0924130666ea4c24e3a98"
+      ]
+    },
+    "test/Door pounding - increasing intensity": {
+      "audio": [
+        "test/Door pounding - increasing intensity.wav",
+        "a3bd37351161600a1e14a42d283c2f10"
+      ]
+    },
+    "test/garbage collection": {
+      "audio": [
+        "test/garbage collection.wav",
+        "2e544364536c793962d7dc7ac8387d2f"
+      ]
+    },
+    "test/jetengines": {
+      "audio": [
+        "test/jetengines.wav",
+        "e53dc9b54e2bdb3f96fa2f99d3710c82"
+      ]
+    },
+    "test/Filling up a large container with water": {
+      "audio": [
+        "test/Filling up a large container with water.wav",
+        "9a2ca3df896acc37c694b1a2f9cc1d64"
+      ]
+    },
+    "test/OMV_02": {
+      "audio": [
+        "test/OMV_02.wav",
+        "18d807b84450764040088032792e1115"
+      ]
+    },
+    "test/water_sink": {
+      "audio": [
+        "test/water_sink.wav",
+        "f514374f26ba568e9cb9a61336027ec3"
+      ]
+    },
+    "test/20130825-Water-fountain-Slavonice": {
+      "audio": [
+        "test/20130825-Water-fountain-Slavonice.wav",
+        "78671a7d7505126093f1dca0d823a42d"
+      ]
+    },
+    "test/Mouth Wind Howling": {
+      "audio": [
+        "test/Mouth Wind Howling.wav",
+        "04d4cedafdb89e427117ff41e96ef4e3"
+      ]
+    },
+    "test/an intro demo": {
+      "audio": [
+        "test/an intro demo.wav",
+        "5ebbe34f1c3209d9b4c0e0a25b743667"
+      ]
+    },
+    "test/outdoors ambient distant village 2": {
+      "audio": [
+        "test/outdoors ambient distant village 2.wav",
+        "a43ee17ffb3128b283717983f0112570"
+      ]
+    },
+    "test/tropicbird2": {
+      "audio": [
+        "test/tropicbird2.wav",
+        "4e3826bef1277376b6c10f6d4a3314e5"
+      ]
+    },
+    "test/ambience winter train station outdoor quiet distant construction": {
+      "audio": [
+        "test/ambience winter train station outdoor quiet distant construction.wav",
+        "5afee1de4193d3ef8ac6cd584de0dc66"
+      ]
+    },
+    "test/Wind in a tree, close to the foliage": {
+      "audio": [
+        "test/Wind in a tree, close to the foliage.wav",
+        "635c8e73391dc617689e1d7aace57aa1"
+      ]
+    },
+    "test/20130406_nasty.weather.09": {
+      "audio": [
+        "test/20130406_nasty.weather.09.wav",
+        "297edf62df2e7599770ac655e82d2c7b"
+      ]
+    },
+    "test/20081231.fire.02": {
+      "audio": [
+        "test/20081231.fire.02.wav",
+        "d0f82c321f137e76be2a3c2ea278b74d"
+      ]
+    },
+    "test/Joggers ": {
+      "audio": [
+        "test/Joggers .wav",
+        "a7fa33011af110b07964ed364520b199"
+      ]
+    },
+    "test/bike race 05": {
+      "audio": [
+        "test/bike race 05.wav",
+        "4ed681b6886c1cb54a74ebd67f2ab7cb"
+      ]
+    },
+    "test/thunder without rain": {
+      "audio": [
+        "test/thunder without rain.wav",
+        "db4c711baeee6920122615704ad9bb18"
+      ]
+    },
+    "test/sirenaWAV": {
+      "audio": [
+        "test/sirenaWAV.wav",
+        "246afd5f743b7ba9fc72df7e09fe0662"
+      ]
+    },
+    "test/strange sounding firework rocket explosions": {
+      "audio": [
+        "test/strange sounding firework rocket explosions.wav",
+        "7a0a8d43d8954286745d2e2ea023c434"
+      ]
+    },
+    "test/More china bowl": {
+      "audio": [
+        "test/More china bowl.wav",
+        "33e80ae143db33597bf49291b7b4a2c0"
+      ]
+    },
+    "test/creekclose": {
+      "audio": [
+        "test/creekclose.wav",
+        "5cfaaa53ad8d1dd3622ff13be2753f97"
+      ]
+    },
+    "test/PlanetaryAndXporterSingleLoop_STTOS_recreated": {
+      "audio": [
+        "test/PlanetaryAndXporterSingleLoop_STTOS_recreated.wav",
+        "e1b24a2a7f240355fce6b5f5ab6caccb"
+      ]
+    },
+    "test/Omni_Ambiental_ParkingLot": {
+      "audio": [
+        "test/Omni_Ambiental_ParkingLot.wav",
+        "525def3a242ec82b1ebb2ff493f5deed"
+      ]
+    },
+    "test/tram turn": {
+      "audio": [
+        "test/tram turn.wav",
+        "0bb7fc29878958969a2b4f806880de4f"
+      ]
+    },
+    "test/Gun_Being_Loaded": {
+      "audio": [
+        "test/Gun_Being_Loaded.wav",
+        "415c19d1278546c0d7884d1480477e8c"
+      ]
+    },
+    "test/Fireworks_Amsterdam_48_24": {
+      "audio": [
+        "test/Fireworks_Amsterdam_48_24.wav",
+        "90c4f0429734288dc5f55c6611a7b955"
+      ]
+    },
+    "test/Cafe 1": {
+      "audio": [
+        "test/Cafe 1.wav",
+        "ae1cbc46aa8cb21ff8f0bbce967f8679"
+      ]
+    },
+    "test/Ambient washing dishes": {
+      "audio": [
+        "test/Ambient washing dishes.wav",
+        "c4b414c6fa79a98d671336650c975e3d"
+      ]
+    },
+    "test/newport-hotel-blow-drier": {
+      "audio": [
+        "test/newport-hotel-blow-drier.wav",
+        "4b939f12f51c6c8170999ee0a6107154"
+      ]
+    },
+    "test/Glass crushed 1": {
+      "audio": [
+        "test/Glass crushed 1.wav",
+        "d3a52d5863578cfea352797ebcadfa65"
+      ]
+    },
+    "test/room tone empty train station quiet": {
+      "audio": [
+        "test/room tone empty train station quiet.wav",
+        "03bdc269344ff3bfd7b983b2eba07345"
+      ]
+    },
+    "test/pepper grinder": {
+      "audio": [
+        "test/pepper grinder.wav",
+        "645d55e0b3b0f647c4ac953fb7e3af17"
+      ]
+    },
+    "test/metallic_crackle": {
+      "audio": [
+        "test/metallic_crackle.wav",
+        "c23256ea9cef37a731160a53b89a8a2a"
+      ]
+    },
+    "test/redbarn_feeding-horses": {
+      "audio": [
+        "test/redbarn_feeding-horses.wav",
+        "df74137f8dbdbfc4578cbe60cba5c68a"
+      ]
+    },
+    "test/Train Passing, Close, Left to Right, B": {
+      "audio": [
+        "test/Train Passing, Close, Left to Right, B.wav",
+        "be915553fe6eb41238c3a60425a3e998"
+      ]
+    },
+    "test/city park Tel Aviv": {
+      "audio": [
+        "test/city park Tel Aviv.wav",
+        "3386036ed2f56e71b28dcee0befac6c8"
+      ]
+    },
+    "test/Loch-Ness-At-night": {
+      "audio": [
+        "test/Loch-Ness-At-night.wav",
+        "e2afc2587f2f03dbec769b77b25171c7"
+      ]
+    },
+    "test/Splashing in water": {
+      "audio": [
+        "test/Splashing in water.wav",
+        "2e86ae3e83472528c90961710eb8370a"
+      ]
+    },
+    "test/after nine": {
+      "audio": [
+        "test/after nine.wav",
+        "5f5a003eaead0e1dcfc66305f1e4c2c1"
+      ]
+    },
+    "test/Dry Erase": {
+      "audio": [
+        "test/Dry Erase.wav",
+        "e8b8cf4f6d872673e2b7c01aca8069b5"
+      ]
+    },
+    "test/Fountain at place pigale - Paris - France": {
+      "audio": [
+        "test/Fountain at place pigale - Paris - France.wav",
+        "e7839639ac57adbff10b6e6025110161"
+      ]
+    },
+    "test/Wailing Wind": {
+      "audio": [
+        "test/Wailing Wind.wav",
+        "dc88c479d1651c4cc7d38273fb2b5cd1"
+      ]
+    },
+    "test/Spooky Atmosphere": {
+      "audio": [
+        "test/Spooky Atmosphere.wav",
+        "8fad9bc776c835dcd2914f210db3dfbd"
+      ]
+    },
+    "test/20061111Band": {
+      "audio": [
+        "test/20061111Band.wav",
+        "2b5abea1ce9cd131753eca89bdfb8826"
+      ]
+    },
+    "test/Covent_Garden_rain_5": {
+      "audio": [
+        "test/Covent_Garden_rain_5.wav",
+        "0cac0db7e0c25023f679edd403e2d56f"
+      ]
+    },
+    "test/airliner_ascend": {
+      "audio": [
+        "test/airliner_ascend.wav",
+        "458db8e5a38b4899942bad56e0a03389"
+      ]
+    },
+    "test/Drips_in_Downspout_Churping_Cardinal_Some_Distant_Street_Traffic": {
+      "audio": [
+        "test/Drips_in_Downspout_Churping_Cardinal_Some_Distant_Street_Traffic.wav",
+        "22e2de6fd923c652d94d3e5032872425"
+      ]
+    },
+    "test/11_car_radio": {
+      "audio": [
+        "test/11_car_radio.wav",
+        "835ecce513edacdbbfb1cfc4caf02bb7"
+      ]
+    },
+    "test/stretch ": {
+      "audio": [
+        "test/stretch .wav",
+        "57d88791724a7bfb8b1fd7c5d936595f"
+      ]
+    },
+    "test/LakeWavesOct25th2015": {
+      "audio": [
+        "test/LakeWavesOct25th2015.wav",
+        "99d5f56b95343f589fc5c4df54ad30c5"
+      ]
+    },
+    "test/Train Plan V 090627": {
+      "audio": [
+        "test/Train Plan V 090627.wav",
+        "337e8a0eea127bfd698302207c1504ef"
+      ]
+    },
+    "test/Plastic bag crumple": {
+      "audio": [
+        "test/Plastic bag crumple.wav",
+        "a3c0019e34c1c43f13990cfe6113c936"
+      ]
+    },
+    "test/copper-chimes": {
+      "audio": [
+        "test/copper-chimes.wav",
+        "a05cbaf97d782632458661713c30cc19"
+      ]
+    },
+    "test/stray_dogs": {
+      "audio": [
+        "test/stray_dogs.wav",
+        "ffc84d66f5b20d01895e87d3764b67a3"
+      ]
+    },
+    "test/butter_toast_2x": {
+      "audio": [
+        "test/butter_toast_2x.wav",
+        "6a15c3a28ab55dd6349e87a032e60815"
+      ]
+    },
+    "test/Roof with fans": {
+      "audio": [
+        "test/Roof with fans.wav",
+        "82de618dac7873297939a1f42f9b5f38"
+      ]
+    },
+    "test/LightningCrash": {
+      "audio": [
+        "test/LightningCrash.wav",
+        "e11d2b0edc229ecbac79bf4b9a03e23c"
+      ]
+    },
+    "test/004-Ambient Recording at Saint-Augustin (FR 7pm in October)": {
+      "audio": [
+        "test/004-Ambient Recording at Saint-Augustin (FR 7pm in October).wav",
+        "a51b4b539e67668eb9d4d94f70747e49"
+      ]
+    },
+    "test/stoplight": {
+      "audio": [
+        "test/stoplight.wav",
+        "8a6df4a340d6227230da35ca6280af5c"
+      ]
+    },
+    "test/bread_in_toaster": {
+      "audio": [
+        "test/bread_in_toaster.wav",
+        "ab758a259bffaeacf2eb2a72f9c8a9b8"
+      ]
+    },
+    "test/Walking on Wood Floor": {
+      "audio": [
+        "test/Walking on Wood Floor.wav",
+        "c158adb73e42afd9172d9ad5643d36b2"
+      ]
+    },
+    "test/20110903_splashing.walk": {
+      "audio": [
+        "test/20110903_splashing.walk.wav",
+        "20a7a42fd88bb90cc7ef1a3fe2843349"
+      ]
+    },
+    "test/130916 General Paz y Panamericana": {
+      "audio": [
+        "test/130916 General Paz y Panamericana.wav",
+        "8f05ec67159313db4917b408e88b25ba"
+      ]
+    },
+    "test/Diesel truck and small car": {
+      "audio": [
+        "test/Diesel truck and small car.wav",
+        "660c057ec31fb68adcd97c5ba0a628c7"
+      ]
+    },
+    "test/bebops_fire2": {
+      "audio": [
+        "test/bebops_fire2.wav",
+        "3e6df751435e82efce9c1caa480e135f"
+      ]
+    },
+    "test/maastricht town sounds": {
+      "audio": [
+        "test/maastricht town sounds.wav",
+        "acb8ac4ec85122491961e93191e5573f"
+      ]
+    },
+    "test/Eating a TicTac": {
+      "audio": [
+        "test/Eating a TicTac.wav",
+        "27382d8d1caa4c644b76487a5fc0da84"
+      ]
+    },
+    "test/DallasWorldAquarium01": {
+      "audio": [
+        "test/DallasWorldAquarium01.wav",
+        "2a5b72769b85b10fea59c7b131b20140"
+      ]
+    },
+    "test/Kitchen Roomtone w_Dripping Faucet_1-2": {
+      "audio": [
+        "test/Kitchen Roomtone w_Dripping Faucet_1-2.wav",
+        "eb4a5c95593c8bfbc5fbbc1e6f00b859"
+      ]
+    },
+    "test/Rain on the Window Sill (indoors)": {
+      "audio": [
+        "test/Rain on the Window Sill (indoors).wav",
+        "3f63fd46473e8b72273fe7ad19d95069"
+      ]
+    },
+    "test/GobletPing2LHR": {
+      "audio": [
+        "test/GobletPing2LHR.wav",
+        "04119f719ae9a787d57897bef5de9d17"
+      ]
+    },
+    "test/stones on thin ice": {
+      "audio": [
+        "test/stones on thin ice.wav",
+        "edd43219335f8dd0bd195a827606c8cd"
+      ]
+    },
+    "test/Parada de buses UCA_1": {
+      "audio": [
+        "test/Parada de buses UCA_1.wav",
+        "5e263b556796f6077bd3c6805be86e45"
+      ]
+    },
+    "test/boxes_falling_down_stairs_01": {
+      "audio": [
+        "test/boxes_falling_down_stairs_01.wav",
+        "9ec3a292ca78a203de165c28414a6669"
+      ]
+    },
+    "test/Birds and Nature": {
+      "audio": [
+        "test/Birds and Nature.wav",
+        "b91aeec726aebbbcefe2febdfe32d3bb"
+      ]
+    },
+    "test/md1trk18": {
+      "audio": [
+        "test/md1trk18.wav",
+        "402211593a927a16acd735f6e7e94bba"
+      ]
+    },
+    "test/Amusement Park": {
+      "audio": [
+        "test/Amusement Park.wav",
+        "d37d8ec92791e6f761701d5ae34fff2b"
+      ]
+    },
+    "test/plastic foil (outdoor recording)": {
+      "audio": [
+        "test/plastic foil (outdoor recording).wav",
+        "db59fcbbf633614467d0b69ec9cf835b"
+      ]
+    },
+    "test/door_squeaky": {
+      "audio": [
+        "test/door_squeaky.wav",
+        "06a2ce0ec60320f6ed18302893853aff"
+      ]
+    },
+    "test/faucet2": {
+      "audio": [
+        "test/faucet2.wav",
+        "b397f4e53135649300d37c82adfd3d78"
+      ]
+    },
+    "test/DH12_141Tram1": {
+      "audio": [
+        "test/DH12_141Tram1.wav",
+        "c5c351a9e75b89f637a11249b816a695"
+      ]
+    },
+    "test/20091217.20.pedestrians": {
+      "audio": [
+        "test/20091217.20.pedestrians.wav",
+        "69993ca2c4d452e599f9f70b4d32c8c4"
+      ]
+    },
+    "test/public transport soliciting passengers": {
+      "audio": [
+        "test/public transport soliciting passengers.wav",
+        "1d2ee60c611f399358434fae2a4b58fa"
+      ]
+    },
+    "test/fm-radio-tuning-sweeps": {
+      "audio": [
+        "test/fm-radio-tuning-sweeps.wav",
+        "4ee8a46c1b057715166a665bffbbf9f9"
+      ]
+    },
+    "test/Fireworks_2_Amsterdam_48_24": {
+      "audio": [
+        "test/Fireworks_2_Amsterdam_48_24.wav",
+        "05b6cb65989bc4a1ae975fc11337e28c"
+      ]
+    },
+    "test/Daaaark": {
+      "audio": [
+        "test/Daaaark.wav",
+        "ef4b3f9e3a409f6c9dc3e01c696fbf5f"
+      ]
+    },
+    "test/alabamaFrogs": {
+      "audio": [
+        "test/alabamaFrogs.wav",
+        "5c93d606802230e6c1e5e597f935faa4"
+      ]
+    },
+    "test/tile-scrape-flange1": {
+      "audio": [
+        "test/tile-scrape-flange1.wav",
+        "63c314bea8ac42bbfb4806d1b5c93706"
+      ]
+    },
+    "test/150209 Trevor Webb Snooker": {
+      "audio": [
+        "test/150209 Trevor Webb Snooker.wav",
+        "bc85fd637406bfcbe6c1eccfb386c68f"
+      ]
+    },
+    "test/train-station-Rajasthan": {
+      "audio": [
+        "test/train-station-Rajasthan.wav",
+        "8f2aa3cc40c649e86fe8bba6a00f7903"
+      ]
+    },
+    "test/Bar atmosphere - Not So Busy": {
+      "audio": [
+        "test/Bar atmosphere - Not So Busy.wav",
+        "fdc8ba5b4d6877afae4322622a25514b"
+      ]
+    },
+    "test/engine boat passing by": {
+      "audio": [
+        "test/engine boat passing by.wav",
+        "d5d32f9a5f2aef2395cb3b6626075726"
+      ]
+    },
+    "test/beautiful voiced flock of sheep": {
+      "audio": [
+        "test/beautiful voiced flock of sheep.wav",
+        "21e7ca5f866a72e5d056546d413b55d0"
+      ]
+    },
+    "test/raindrops on metal_police background": {
+      "audio": [
+        "test/raindrops on metal_police background.wav",
+        "0661f81f57e323749253c4838df8a060"
+      ]
+    },
+    "test/CarStart Idle Rev": {
+      "audio": [
+        "test/CarStart Idle Rev.wav",
+        "cfd3709a27aa95d72f4bed7d2fa6330e"
+      ]
+    },
+    "test/Place Pigalle ambience Paris": {
+      "audio": [
+        "test/Place Pigalle ambience Paris.wav",
+        "1a7087f34959d322dc8d3ad1f253dc94"
+      ]
+    },
+    "test/Tea Garden Outside Ambience": {
+      "audio": [
+        "test/Tea Garden Outside Ambience.wav",
+        "ce2804425ebff52bb54bb750cb867157"
+      ]
+    },
+    "test/Letter B BINGO in Arlington Heights": {
+      "audio": [
+        "test/Letter B BINGO in Arlington Heights.wav",
+        "b5c7ad68968cf29f370e4124bbe8ac9f"
+      ]
+    },
+    "test/door walking exit": {
+      "audio": [
+        "test/door walking exit.wav",
+        "9a62c29a8b2edd74c769fd0186edf9bc"
+      ]
+    },
+    "test/DeLisa Foley clicky robot talk 02": {
+      "audio": [
+        "test/DeLisa Foley clicky robot talk 02.wav",
+        "1407e4ea2949d5d36630e6f6b712347a"
+      ]
+    },
+    "test/FLUSH ": {
+      "audio": [
+        "test/FLUSH .wav",
+        "9585c92b1eb969e6eb0e04c8e87b7199"
+      ]
+    },
+    "test/Running Water, various pressure": {
+      "audio": [
+        "test/Running Water, various pressure.wav",
+        "d1d0d5e0ab661e2ec00b4530ceb35c39"
+      ]
+    },
+    "test/Day 10 10th July acclivity Seaside Town Soundscape": {
+      "audio": [
+        "test/Day 10 10th July acclivity Seaside Town Soundscape.wav",
+        "66ad130dcddc3b8e1e1cf8c0b6719b25"
+      ]
+    },
+    "test/ambient bubbling liquid": {
+      "audio": [
+        "test/ambient bubbling liquid.wav",
+        "eebd87f26fa8db4cdd34fad26486770d"
+      ]
+    }
+  },
+  "metadata": {
+    "clotho_metadata_development": [
+      "clotho_metadata_development.csv",
+      "170d20935ecfdf161ce1bb154118cda5"
+    ],
+    "clotho_captions_development": [
+      "clotho_captions_development.csv",
+      "d4090b39ce9f2491908eebf4d5b09bae"
+    ],
+    "clotho_metadata_evaluation": [
+      "clotho_metadata_evaluation.csv",
+      "13946f054d4e1bf48079813aac61bf77"
+    ],
+    "clotho_captions_evaluation": [
+      "clotho_captions_evaluation.csv",
+      "1b16b9e57cf7bdb7f13a13802aeb57e2"
+    ],
+    "clotho_metadata_validation": [
+      "clotho_metadata_validation.csv",
+      "2e010427c56b1ce6008b0f03f41048ce"
+    ],
+    "clotho_captions_validation": [
+      "clotho_captions_validation.csv",
+      "5879e023032b22a2c930aaa0528bead4"
+    ],
+    "retrieval_audio_metadata": [
+      "retrieval_audio_metadata.csv",
+      "1301db07acbf1e4fabc467eb54e0d353"
+    ],
+    "retrieval_captions": [
+      "retrieval_captions.csv",
+      "f9e810118be00c64ea8cd7557816d4fe"
+    ]
+  }
+}

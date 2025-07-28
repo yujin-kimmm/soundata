@@ -86,15 +86,16 @@ INDEXES = {
     "default": "1.0",
     "test": "sample",
     "1.0": core.Index(
-        filename="dcase23_task6b_index_1.0.json",
-        url="https://zenodo.org/records/11176793/files/dcase23_task6b_index_1.0.json?download=1",
-        checksum="66def2c298050d30ad9661d3e824c6b0",
+        # filename="dcase23_task6b_index_1.0.json",
+        # url="https://zenodo.org/records/11176793/files/dcase23_task6b_index_1.0.json?download=1",
+        # checksum="66def2c298050d30ad9661d3e824c6b0",
+        filename = "./soundata/datasets/dcase23_task6b_index_1.0.jason",
+        checksum="15da31bfbdf86f15e2867f7581bf2858",
     ),
     "sample": core.Index(filename="dcase23_task6b_index_1.0_sample.json"),
 }
 
 REMOTES = {
-    
     "retrieval_audio": download_utils.RemoteFileMetadata(
         filename="retrieval_audio.7z",
         url="https://zenodo.org/record/6590983/files/retrieval_audio.7z?download=1",
@@ -112,30 +113,30 @@ REMOTES = {
     ),
 }
 
+LICENSE_INFO = """
+Creative Commons Attribution 4.0 International
+"""
 class ClothoWrapper:
     def __init__(self, data_home=None):
-        self._data_home = data_home
-        print("initialized")
         self._clotho = None
+        self._data_home = data_home
 
     def _load(self):
         if self._clotho is None:
-            print("Loading")
             self._clotho = clotho.Dataset(data_home=self._data_home)
 
     def has_clip(self, clip_id):
         self._load()
-        print("clip_loading")
         return clip_id in self._clotho.clip_ids
 
     def clip(self, clip_id):
         self._load()
-        print("clipclipclip")
         return self._clotho.clip(clip_id)
 
-LICENSE_INFO = """
-Creative Commons Attribution 4.0 International
-"""
+    @property
+    def clip_ids(self):
+        self._load()
+        return self._clotho.clip_ids
 
 class Clip(core.Clip):
     """DCASE'23 Task 6B Clip class
@@ -158,10 +159,6 @@ class Clip(core.Clip):
         super().__init__(clip_id, data_home, dataset_name, index, metadata)
 
         self.audio_path = self.get_path("audio")
-        self.clotho_wrapper = self._clip_metadata.get("clotho_wrapper", None)
-        
-        print("[Clip.__init__] clip_id:", clip_id)
-        print("[Clip.__init__] clotho_wrapper is None?", self.clotho_wrapper is None)
 
     @property
     def audio(self) -> Optional[Tuple[np.ndarray, float]]:
@@ -172,33 +169,7 @@ class Clip(core.Clip):
             * float - sample rate
 
         """
-        if self.clotho_wrapper and self.clotho_wrapper.has_clip(self.clip_id):
-            return self.clotho_wrapper.clip(self.clip_id).audio
-        
-        if self._clip_metadata is not None: 
-            return load_audio(self.audio_path)
-        
-        raise FileNotFoundError("The Clip was not found in DCASE23 Task6B or Clotho.")
-        
-        # if self._clip_metadata is not None:
-         
-        #     return load_audio(self.audio_path)
-        
-        # elif self.clotho_wrapper:
-        #     if self.clotho_wrapper.has_clip(self.clip_id):
-        #         return self.clotho_wrapper.clip(self.clip_id).audio
-            
-        #     else:
-        #         raise FileNotFoundError(
-        #             f"Clip '{self.clip_id}' was not found in DCASE23 Task6B or Clotho. "
-        #             "Please check the clip ID or download Clotho with `soundata.initialize('clotho').download()`."
-        #     )
-        # else:
-        #     raise FileNotFoundError(
-        #         f"Clip '{self.clip_id}' is not part of DCASE23 Task6B and Clotho."
-        #     )
-            
-        #return load_audio(self.audio_path)
+        return load_audio(self.audio_path)
 
     @property
     def file_name(self):
@@ -289,6 +260,7 @@ class Dataset(core.Dataset):
     """
 
     def __init__(self, data_home=None, version="default"):
+        self._clotho_wrapper = ClothoWrapper(data_home=data_home)
         
         super().__init__(
             data_home,
@@ -300,16 +272,28 @@ class Dataset(core.Dataset):
             remotes=REMOTES,
             license_info=LICENSE_INFO,
         )
-        self.clothowrapper = ClothoWrapper(self.data_home)
-        
+
     @core.copy_docs(load_audio)
     def load_audio(self, *args, **kwargs):
         return load_audio(*args, **kwargs)
     
+    def clip_ids(self):
+        return super().clip_ids + self._clotho_wrapper.clip_ids
+
+    def clip(self, clip_id):
+        
+        if clip_id in super().clip_ids:
+            return super().clip(clip_id)
+        
+        if self._clotho_wrapper.has_clip(clip_id):
+            return self._clotho_wrapper.clip(clip_id)
+        
+        raise ValueError(f"Clip ID '{clip_id}' not found from both Dcase23_task6b and Clotho.")
+
     @core.cached_property
     def _metadata(self):
         # Define all the metadata and caption files for both datasets
-        files = {                        
+        files = {
             "retrieval_audio_metadata.csv": "metadata",
         }
         combined_data = {}
@@ -321,14 +305,7 @@ class Dataset(core.Dataset):
                 csv_reader = csv.DictReader(csv_file, delimiter=",")
                 for row in csv_reader:
                     file_key = row["file_name"].replace(".wav", "")
-                    if "development" in file_name:
-                        file_key = "development/" + file_key
-                    elif "validation" in file_name:
-                        file_key = "validation/" + file_key
-                    elif "evaluation" in file_name:
-                        file_key = "evaluation/" + file_key
-                    elif "retrieval" in file_name:
-                        file_key = "test/" + file_key
+                    file_key = "test/" + file_key
                     if file_key not in combined_data:
                         combined_data[file_key] = {
                             "file_name": "",
@@ -356,9 +333,4 @@ class Dataset(core.Dataset):
                         combined_data[file_key]["captions"] = [
                             row[key] for key in row if key != "file_name"
                         ]
-        clotho_wrapper = ClothoWrapper(data_home=self.data_home)
-        for metadata in combined_data.values():
-            print("[_metadata] assigning clotho_wrapper to metadata...")
-            metadata["clotho_wrapper"] = clotho_wrapper
-            
         return combined_data

@@ -67,7 +67,8 @@ from typing import BinaryIO, Optional, TextIO, Tuple
 import numpy as np
 import csv
 import librosa
-from soundata import download_utils, core, annotations, io, clotho
+from soundata import download_utils, core, annotations, io
+from soundata.datasets import clotho
 
 BIBTEX = """
 @inproceedings{Drossos:ICASSP:20,

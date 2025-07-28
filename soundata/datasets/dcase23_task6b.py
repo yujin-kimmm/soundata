@@ -86,7 +86,7 @@ INDEXES = {
     "default": "1.0",
     "test": "sample",
     "1.0": core.Index(
-        # filename="dcase23_task6b_index_1.0.json",
+        filename="dcase23_task6b_index_1.0.json",
         # url="https://zenodo.org/records/11176793/files/dcase23_task6b_index_1.0.json?download=1",
         url="https://drive.google.com/file/d/1fynBjwDNVoCSqLxj4X9OpR2hyKt-ZQK5/view?usp=drive_link",
         # checksum="66def2c298050d30ad9661d3e824c6b0",

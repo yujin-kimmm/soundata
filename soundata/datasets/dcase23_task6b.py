@@ -115,18 +115,22 @@ REMOTES = {
 class ClothoWrapper:
     def __init__(self, data_home=None):
         self._data_home = data_home
+        print("initialized")
         self._clotho = None
 
     def _load(self):
         if self._clotho is None:
+            print("Loading")
             self._clotho = clotho.Dataset(data_home=self._data_home)
 
     def has_clip(self, clip_id):
         self._load()
+        print("clip_loading")
         return clip_id in self._clotho.clip_ids
 
     def clip(self, clip_id):
         self._load()
+        print("clipclipclip")
         return self._clotho.clip(clip_id)
 
 LICENSE_INFO = """
@@ -155,6 +159,9 @@ class Clip(core.Clip):
 
         self.audio_path = self.get_path("audio")
         self.clotho_wrapper = self._clip_metadata.get("clotho_wrapper", None)
+        
+        print("[Clip.__init__] clip_id:", clip_id)
+        print("[Clip.__init__] clotho_wrapper is None?", self.clotho_wrapper is None)
 
     @property
     def audio(self) -> Optional[Tuple[np.ndarray, float]]:

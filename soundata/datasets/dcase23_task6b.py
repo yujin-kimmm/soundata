@@ -358,6 +358,7 @@ class Dataset(core.Dataset):
                         ]
         clotho_wrapper = ClothoWrapper(data_home=self.data_home)
         for metadata in combined_data.values():
+            print("[_metadata] assigning clotho_wrapper to metadata...")
             metadata["clotho_wrapper"] = clotho_wrapper
             
         return combined_data

@@ -94,51 +94,7 @@ INDEXES = {
 }
 
 REMOTES = {
-    # "clotho_audio_development": download_utils.RemoteFileMetadata(
-    #     filename="clotho_audio_development.7z",
-    #     url="https://zenodo.org/record/4783391/files/clotho_audio_development.7z?download=1",
-    #     checksum="c8b05bc7acdb13895bb3c6a29608667e",
-    # ),
-    # "clotho_audio_evaluation": download_utils.RemoteFileMetadata(
-    #     filename="clotho_audio_evaluation.7z",
-    #     url="https://zenodo.org/record/4783391/files/clotho_audio_evaluation.7z?download=1",
-    #     checksum="4569624ccadf96223f19cb59fe4f849f",
-    # ),
-    # "clotho_audio_validation": download_utils.RemoteFileMetadata(
-    #     filename="clotho_audio_validation.7z",
-    #     url="https://zenodo.org/record/4783391/files/clotho_audio_validation.7z?download=1",
-    #     checksum="7dba730be08bada48bd15dc4e668df59",
-    # ),
-    # "clotho_captions_development": download_utils.RemoteFileMetadata(
-    #     filename="clotho_captions_development.csv",
-    #     url="https://zenodo.org/record/4783391/files/clotho_captions_development.csv?download=1",
-    #     checksum="d4090b39ce9f2491908eebf4d5b09bae",
-    # ),
-    # "clotho_captions_evaluation": download_utils.RemoteFileMetadata(
-    #     filename="clotho_captions_evaluation.csv",
-    #     url="https://zenodo.org/record/4783391/files/clotho_captions_evaluation.csv?download=1",
-    #     checksum="1b16b9e57cf7bdb7f13a13802aeb57e2",
-    # ),
-    # "clotho_captions_validation": download_utils.RemoteFileMetadata(
-    #     filename="clotho_captions_validation.csv",
-    #     url="https://zenodo.org/record/4783391/files/clotho_captions_validation.csv?download=1",
-    #     checksum="5879e023032b22a2c930aaa0528bead4",
-    # ),
-    # "clotho_metadata_development": download_utils.RemoteFileMetadata(
-    #     filename="clotho_metadata_development.csv",
-    #     url="https://zenodo.org/record/4783391/files/clotho_metadata_development.csv?download=1",
-    #     checksum="170d20935ecfdf161ce1bb154118cda5",
-    # ),
-    # "clotho_metadata_evaluation": download_utils.RemoteFileMetadata(
-    #     filename="clotho_metadata_evaluation.csv",
-    #     url="https://zenodo.org/record/4783391/files/clotho_metadata_evaluation.csv?download=1",
-    #     checksum="13946f054d4e1bf48079813aac61bf77",
-    # ),
-    # "clotho_metadata_validation": download_utils.RemoteFileMetadata(
-    #     filename="clotho_metadata_validation.csv",
-    #     url="https://zenodo.org/record/4783391/files/clotho_metadata_validation.csv?download=1",
-    #     checksum="2e010427c56b1ce6008b0f03f41048ce",
-    # ),
+    
     "retrieval_audio": download_utils.RemoteFileMetadata(
         filename="retrieval_audio.7z",
         url="https://zenodo.org/record/6590983/files/retrieval_audio.7z?download=1",
@@ -318,6 +274,8 @@ class Dataset(core.Dataset):
     """
 
     def __init__(self, data_home=None, version="default"):
+        self.clothowrapper = ClothoWrapper(data_home=self.data_home)
+        
         super().__init__(
             data_home,
             version,
@@ -329,7 +287,7 @@ class Dataset(core.Dataset):
             license_info=LICENSE_INFO,
         )
         
-        self.clothowrapper = ClothoWrapper(data_home=self.data_home)
+        
     @core.copy_docs(load_audio)
     def load_audio(self, *args, **kwargs):
         return load_audio(*args, **kwargs)

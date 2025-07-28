@@ -165,7 +165,7 @@ class Clip(core.Clip):
             * float - sample rate
 
         """
-        if self._clip_metadata is not None:
+        if self.audio_path is not None:
          
             return load_audio(self.audio_path)
         

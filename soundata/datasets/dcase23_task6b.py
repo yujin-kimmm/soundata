@@ -274,7 +274,7 @@ class Dataset(core.Dataset):
     """
 
     def __init__(self, data_home=None, version="default"):
-        self.clothowrapper = ClothoWrapper(data_home=self.data_home)
+        self.clothowrapper = ClothoWrapper(data_home=data_home)
         
         super().__init__(
             data_home,

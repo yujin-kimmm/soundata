@@ -88,9 +88,9 @@ INDEXES = {
     "1.0": core.Index(
         filename="dcase23_task6b_index_1.0.json",
         # url="https://zenodo.org/records/11176793/files/dcase23_task6b_index_1.0.json?download=1",
-        url="https://drive.google.com/file/d/1fynBjwDNVoCSqLxj4X9OpR2hyKt-ZQK5/view?usp=drive_link",
+        url="https://drive.google.com/file/d/1WHp7OqJ9TE6IcnHic8XEStFeZcYj0OVc/view?usp=sharing",
         # checksum="66def2c298050d30ad9661d3e824c6b0",
-        checksum="15da31bfbdf86f15e2867f7581bf2858",
+        checksum="6958a4932db1599671872ef2ad8cd83a",
     ),
     "sample": core.Index(filename="dcase23_task6b_index_1.0_sample.json"),
 }
@@ -132,11 +132,11 @@ class ClothoWrapper:
     def clip(self, clip_id):
         self._load()
         return self._clotho.clip(clip_id)
-
-    @property
-    def clip_ids(self):
-        self._load()
-        return self._clotho.clip_ids
+    
+    # @property
+    # def clip_ids(self):
+    #     self._load()
+    #     return self._clotho.clip_ids
 
 class Clip(core.Clip):
     """DCASE'23 Task 6B Clip class
@@ -159,6 +159,7 @@ class Clip(core.Clip):
         super().__init__(clip_id, data_home, dataset_name, index, metadata)
 
         self.audio_path = self.get_path("audio")
+        
 
     @property
     def audio(self) -> Optional[Tuple[np.ndarray, float]]:
@@ -277,18 +278,18 @@ class Dataset(core.Dataset):
     def load_audio(self, *args, **kwargs):
         return load_audio(*args, **kwargs)
     
-    def clip_ids(self):
-        return super().clip_ids + self._clotho_wrapper.clip_ids
+    # def clip_ids(self):
+    #     return super().clip_ids + self._clotho_wrapper.clip_ids
 
-    def clip(self, clip_id):
+    # def clip(self, clip_id):
         
-        if clip_id in super().clip_ids:
-            return super().clip(clip_id)
+    #     if clip_id in super().clip_ids:
+    #         return super().clip(clip_id)
         
-        if self._clotho_wrapper.has_clip(clip_id):
-            return self._clotho_wrapper.clip(clip_id)
+    #     if self._clotho_wrapper.has_clip(clip_id):
+    #         return self._clotho_wrapper.clip(clip_id)
         
-        raise ValueError(f"Clip ID '{clip_id}' not found from both Dcase23_task6b and Clotho.")
+    #     raise ValueError(f"Clip ID '{clip_id}' not found from both Dcase23_task6b and Clotho.")
 
     @core.cached_property
     def _metadata(self):

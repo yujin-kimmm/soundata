@@ -165,23 +165,31 @@ class Clip(core.Clip):
             * float - sample rate
 
         """
-        if self.audio_path is not None:
-         
+        if self.clotho_wrapper and self.clotho_wrapper.has_clip(self.clip_id):
+            return self.clotho_wrapper.clip(self.clip_id).audio
+        
+        if self._clip_metadata is not None: 
             return load_audio(self.audio_path)
         
-        elif self.clotho_wrapper:
-            if self.clotho_wrapper.has_clip(self.clip_id):
-                return self.clotho_wrapper.clip(self.clip_id).audio
+        raise FileNotFoundError("The Clip was not found in DCASE23 Task6B or Clotho.")
+        
+        # if self._clip_metadata is not None:
+         
+        #     return load_audio(self.audio_path)
+        
+        # elif self.clotho_wrapper:
+        #     if self.clotho_wrapper.has_clip(self.clip_id):
+        #         return self.clotho_wrapper.clip(self.clip_id).audio
             
-            else:
-                raise FileNotFoundError(
-                    f"Clip '{self.clip_id}' was not found in DCASE23 Task6B or Clotho. "
-                    "Please check the clip ID or download Clotho with `soundata.initialize('clotho').download()`."
-            )
-        else:
-            raise FileNotFoundError(
-                f"Clip '{self.clip_id}' is not part of DCASE23 Task6B and Clotho."
-            )
+        #     else:
+        #         raise FileNotFoundError(
+        #             f"Clip '{self.clip_id}' was not found in DCASE23 Task6B or Clotho. "
+        #             "Please check the clip ID or download Clotho with `soundata.initialize('clotho').download()`."
+        #     )
+        # else:
+        #     raise FileNotFoundError(
+        #         f"Clip '{self.clip_id}' is not part of DCASE23 Task6B and Clotho."
+        #     )
             
         #return load_audio(self.audio_path)
 

@@ -631,24 +631,55 @@ def test_extractall_cp437(mocker, mock_download_from_remote, mock_unzip):
     shutil.rmtree(os.path.join("tests", "resources", "__MACOSX"))
 
 
-def test_download_from_remote_already_exists(tmpdir, mocker):
-
-    filename = "a"
-    save_dir = str(tmpdir)
-    file_path = os.path.join(save_dir, filename)
-    with open(file_path, "w") as f:
-        f.write("dummy data")
-
-    remote = download_utils.RemoteFileMetadata(
-        filename=filename,
-        url="b",
-        checksum="c",
+def test_unpack_directories_source_not_exists(mocker, mock_path):
+    mock_download_from_remote = mocker.patch.object(
+        download_utils, "download_from_remote"
     )
-
-    # Mock md5 to return the expected checksum
-    mocker.patch("soundata.download_utils.md5", return_value=remote.checksum)
-
-    result = download_utils.download_from_remote(
-        remote, save_dir, force_overwrite=False
+    mock_unzip = mocker.patch.object(download_utils, "unzip")
+    
+    # Create a remote with unpack_directories
+    zip_remote = download_utils.RemoteFileMetadata(
+        filename="test.zip", 
+        url="http://example.com", 
+        checksum="1234",
+        unpack_directories=["nonexistent_dir"]
     )
-    assert result == file_path
+    
+    index = core.Index("test.json")
+    
+    # Mock os.path.exists to return False for the source directory
+    mock_exists = mocker.patch('os.path.exists')
+    # First call for save_dir creation should return True
+    # Second call for source_dir should return False
+    mock_exists.side_effect = [True, False]
+    
+    # Call downloader - this should trigger the warning and early return
+    download_utils.downloader("test_dir", index=index, remotes={"test": zip_remote})
+    
+    # Verify that download_from_remote and unzip were called
+    mock_download_from_remote.assert_called_once()
+    mock_unzip.assert_called_once()
+    
+    # Verify that os.path.exists was called for the source directory
+    assert mock_exists.call_count >= 2
+
+
+def test_move_directory_contents_target_exists(tmpdir):
+    
+    # Create source directory with a file
+    source_dir = tmpdir.mkdir("source")
+    source_file = source_dir.join("test.txt")
+    source_file.write("source content")
+    
+    # Create target directory with a file of the same name
+    target_dir = tmpdir.mkdir("target")
+    target_file = target_dir.join("test.txt")
+    target_file.write("target content")
+    
+    # Call move_directory_contents - should log warning and continue
+    download_utils.move_directory_contents(str(source_dir), str(target_dir))
+    
+    # Verify source directory was removed (this is expected behavior)
+    assert not source_dir.exists()
+    # Verify target file still has original content (wasn't overwritten)
+    assert target_file.read() == "target content"

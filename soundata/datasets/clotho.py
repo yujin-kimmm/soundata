@@ -309,10 +309,10 @@ class Dataset(core.Dataset):
 
     @core.cached_property
     def _metadata(self):
-        
-        if self.version == "sample":  
+
+        if self.version == "sample":
             splits = ["development"]
-            
+
         else:
             splits = ["development", "validation", "evaluation"]
 

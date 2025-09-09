@@ -357,4 +357,4 @@ class Dataset(core.Dataset):
                     "split": split,
                 }
 
-            return metadata_index
+        return metadata_index

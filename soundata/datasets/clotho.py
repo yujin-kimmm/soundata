@@ -309,8 +309,12 @@ class Dataset(core.Dataset):
 
     @core.cached_property
     def _metadata(self):
-        # Name of each splits
-        splits = ["development", "validation", "evaluation"]
+        
+        if self.version == "sample":  
+            splits = ["development"]
+            
+        else:
+            splits = ["development", "validation", "evaluation"]
 
         # Create empty index dictionary
         metadata_index = {}

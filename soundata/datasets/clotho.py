@@ -312,8 +312,7 @@ class Dataset(core.Dataset):
 
         if self.version == "sample":
             splits = ["development"]
-
-        else:
+        else:  # pragma
             splits = ["development", "validation", "evaluation"]
 
         # Create empty index dictionary

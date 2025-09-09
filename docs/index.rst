@@ -24,9 +24,9 @@ Installation
 
 To install Soundata simply do:
 
-    .. code-block:: console
+.. code-block:: console
 
-        pip install soundata
+    pip install soundata
 
 
 We recommend to do this inside a conda or virtual environment for reproducibility. To install optional dependencies for plots functionality, please follow :ref:`tutorial`.
@@ -92,21 +92,19 @@ If you use soundata in your research, please cite:
     }
 
 .. toctree::
-   :hidden:
-   :maxdepth: 0
-
+   :caption: Get Started
+   :maxdepth: 1
+   
    self
-   source/tutorial
+   source/tutorial_edit
    source/contributing
    source/quick_reference
-
-
 
 
 .. toctree::
    :hidden:
    :caption: API documentation
-   :maxdepth: 0
+   :maxdepth: 1
 
    source/soundata
 
@@ -114,7 +112,7 @@ If you use soundata in your research, please cite:
 .. toctree::
    :hidden:
    :caption: Reference
-   :maxdepth: 0
+   :maxdepth: 1
 
    source/changelog
    source/faq

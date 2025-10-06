@@ -96,7 +96,7 @@ If you use soundata in your research, please cite:
    :maxdepth: 1
    
    self
-   source/tutorial_edit
+   source/tutorial
    source/contributing
    source/quick_reference
 

@@ -250,12 +250,6 @@ class Dataset(core.Dataset):
     def _metadata(self):
         # Define all the metadata and caption files for both datasets
         files = {
-            "clotho_metadata_development.csv": "metadata",
-            "clotho_metadata_evaluation.csv": "metadata",
-            "clotho_metadata_validation.csv": "metadata",
-            "clotho_captions_development.csv": "captions",
-            "clotho_captions_evaluation.csv": "captions",
-            "clotho_captions_validation.csv": "captions",
             "clotho_metadata_test.csv": "test_metadata",  # Differentiate the test metadata
         }
         combined_data = {}

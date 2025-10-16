@@ -86,8 +86,8 @@ INDEXES = {
     "test": "sample",
     "1.0": core.Index(
         filename="dcase23_task6b_index_1.0.json",
-        url="https://drive.google.com/file/d/1rn60Ewo8BW5U__wM9qXeRuoYMLOK-2rw/view?usp=drive_link",
-        checksum="15da31bfbdf86f15e2867f7581bf2858",
+        url="https://drive.google.com/file/d/1F1ZbKNTjtGNgN_CfPB1nNv9Wz8bf4RYg/view?usp=drive_link",
+        checksum="6958a4932db1599671872ef2ad8cd83a",
     ),
     "sample": core.Index(filename="dcase23_task6b_index_1.0_sample.json"),
 }

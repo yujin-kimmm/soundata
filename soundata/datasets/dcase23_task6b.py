@@ -86,8 +86,8 @@ INDEXES = {
     "test": "sample",
     "1.0": core.Index(
         filename="dcase23_task6b_index_1.0.json",
-        url="https://drive.google.com/file/d/1F1ZbKNTjtGNgN_CfPB1nNv9Wz8bf4RYg/view?usp=drive_link",
-        checksum="6958a4932db1599671872ef2ad8cd83a",
+        url="https://zenodo.org/records/17409164/files/dcase23_task6b_index_1.0.json?download=1",
+        checksum="6ab0de1e3fd13014de6747db8a476be0",
     ),
     "sample": core.Index(filename="dcase23_task6b_index_1.0_sample.json"),
 }
@@ -267,14 +267,7 @@ class Dataset(core.Dataset):
                 csv_reader = csv.DictReader(csv_file, delimiter=",")
                 for row in csv_reader:
                     file_key = row["file_name"].replace(".wav", "")
-                    if "development" in file_name:
-                        file_key = "development/" + file_key
-                    elif "validation" in file_name:
-                        file_key = "validation/" + file_key
-                    elif "evaluation" in file_name:
-                        file_key = "evaluation/" + file_key
-                    elif "retrieval" in file_name:
-                        file_key = "test/" + file_key
+
                     if file_key not in combined_data:
                         combined_data[file_key] = {
                             "file_name": "",
@@ -298,8 +291,5 @@ class Dataset(core.Dataset):
                                 "license": row["license"],
                             }
                         )
-                    elif file_type == "captions":
-                        combined_data[file_key]["captions"] = [
-                            row[key] for key in row if key != "file_name"
-                        ]
+
         return combined_data

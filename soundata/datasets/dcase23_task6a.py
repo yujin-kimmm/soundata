@@ -85,8 +85,8 @@ INDEXES = {
     "test": "sample",
     "1.0": core.Index(
         filename="dcase23_task6a_index_1.0.json",
-        url="https://drive.google.com/file/d/1SkwwohOq7DL9tUIxUmNfbM5pICewirR7/view?usp=drive_link",
-        checksum="8cf52a39f2f8f2a80e4a71b1db3bd2eb",
+        url="https://zenodo.org/records/17409152/files/dcase23_task6a_index_1.0.json?download=1",
+        checksum="8f522cd5acdefe112c2497325557d85d",
     ),
     "sample": core.Index(filename="dcase23_task6a_index_1.0_sample.json"),
 }
@@ -150,33 +150,6 @@ class Clip(core.Clip):
             * str - Name of the file.
         """
         return self._clip_metadata.get("file_name")
-
-    @property
-    def keywords(self):
-        """Keywords associated with the clip.
-
-        Returns:
-            * str - Keywords for the clip.
-        """
-        return self._clip_metadata.get("keywords")
-
-    @property
-    def sound_id(self):
-        """Unique identifier for the sound.
-
-        Returns:
-            * str - Sound ID.
-        """
-        return self._clip_metadata.get("sound_id")
-
-    @property
-    def sound_link(self):
-        """Link to the sound.
-
-        Returns:
-            * str - URL of the sound.
-        """
-        return self._clip_metadata.get("sound_link")
 
     @property
     def start_end_samples(self):
@@ -267,33 +240,16 @@ class Dataset(core.Dataset):
                     dataset_type = file_name.split("_")[2].split(".")[
                         0
                     ]  # development, validation, evaluation, test
-                    file_key = f"{dataset_type}/{file_key}"
+                    file_key = f"{file_key}"
                     if file_key not in combined_data:
                         combined_data[file_key] = {
                             "file_name": "",
-                            "keywords": "",
-                            "sound_id": "",
-                            "sound_link": "",
                             "start_end_samples": "",
                             "manufacturer": "",
                             "license": "",
-                            "captions": [],
                         }
-                    if file_type == "metadata":
-                        combined_data[file_key].update(
-                            {
-                                "file_name": file_key,
-                                "keywords": row[
-                                    "keywords"
-                                ],  # Replace with actual header names
-                                "sound_id": row["sound_id"],
-                                "sound_link": row["sound_link"],
-                                "start_end_samples": row["start_end_samples"],
-                                "manufacturer": row["manufacturer"],
-                                "license": row["license"],
-                            }
-                        )
-                    elif file_type == "test_metadata":
+
+                    if file_type == "test_metadata":
                         combined_data[file_key].update(
                             {
                                 "file_name": file_key,
@@ -302,9 +258,5 @@ class Dataset(core.Dataset):
                                 "license": row["license"],
                             }
                         )
-                    elif file_type == "captions":
-                        combined_data[file_key]["captions"] = [
-                            row[key] for key in row if key != "file_name"
-                        ]  # Assuming rest of the keys are captions
 
         return combined_data

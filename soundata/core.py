@@ -743,3 +743,65 @@ class Index(object):
             str: absolute path to the index file
         """
         return os.path.join(self.indexes_dir, self.filename)
+
+
+class DCASEWrapper:
+    """
+    DCASE Challenge Wrapper class that manages development and evaluation datasets
+    """
+
+    def __init__(self, challenge_name, dictionary):
+        """
+        Initialize DCASE wrapper with challenge name
+
+        Args:
+            challenge_name (str): Name of the DCASE challenge from the dictionary (e.g., 'dcase2023_task6A')
+            dictionary (dict): Dictionary containing challenge configurations
+        """
+        from soundata import initialize
+
+        self.challenge_name = challenge_name
+        self.config = dictionary[challenge_name]
+
+        # Initialize development dataset
+        dev_config = self.config["development"]
+        self.development = initialize(
+            dev_config["dataset"], version=dev_config["version"]
+        )
+
+        eval_config = self.config["evaluation"]
+        self.evaluation = initialize(
+            eval_config["dataset"], version=eval_config["version"]
+        )
+
+    def download(self, **kwargs):
+        """
+        Download datasets with optimized remote selection
+
+        Args:
+            **kwargs: Additional arguments passed to the download method (e.g., force_overwrite, cleanup)
+        """
+        self.development.download(**kwargs)
+        self.evaluation.download(**kwargs)
+
+    def validate(self):
+        """
+        Validate datasets for specified splits
+        """
+        self.development.validate()
+        self.evaluation.validate()
+
+    def info(self):
+        """
+        Print information about the DCASE challenge and datasets
+        """
+        print(f"DCASE Challenge Task Name: {self.challenge_name}")
+        print(
+            f"Development dataset: {self.config['development']['dataset']}, version {self.config['development']['version']}"
+        )
+        print(
+            f"Evaluation dataset: {self.config['evaluation']['dataset']}, version {self.config['evaluation']['version']}"
+        )
+        print(
+            "For detailed information about the task, please visit the DCASE Challenge Website."
+        )

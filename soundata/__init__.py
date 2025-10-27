@@ -76,7 +76,7 @@ def initialize(dataset_name, data_home=None, version="default"):
     return module.Dataset(data_home=data_home, version=version)
 
 
-def dcase_challenge(challenge_name):
+def dcase_challenge(challenge_name, dictionary=DCASE_CHALLENGES):
     """
     Function to create DCASE wrapper
 
@@ -88,7 +88,7 @@ def dcase_challenge(challenge_name):
         DCASEWrapper: Initialized wrapper instance
     """
 
-    if challenge_name not in DCASE_CHALLENGES:
+    if challenge_name not in dictionary:
         raise ValueError(f"Challenge '{challenge_name}' not found in dictionary")
 
-    return DCASEWrapper(challenge_name, DCASE_CHALLENGES)
+    return DCASEWrapper(challenge_name, dictionary)

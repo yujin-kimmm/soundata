@@ -781,7 +781,14 @@ class DCASEWrapper:
         Args:
             **kwargs: Additional arguments passed to the download method (e.g., force_overwrite, cleanup)
         """
+        print(
+            f"Downloading development dataset {self.config['development']['dataset']}..."
+        )
         self.development.download(**kwargs)
+
+        print(
+            f"Downloading evaluation dataset {self.config['evaluation']['dataset']}..."
+        )
         self.evaluation.download(**kwargs)
 
     def validate(self):

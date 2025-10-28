@@ -758,6 +758,7 @@ class DCASEWrapper:
             dictionary (dict): Dictionary containing challenge configurations
         """
         from soundata import initialize
+
         self.data_home = data_home
         self.challenge_name = challenge_name
         self.config = dictionary[challenge_name]

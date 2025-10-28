@@ -750,16 +750,15 @@ class DCASEWrapper:
     DCASE Challenge Wrapper class that manages development and evaluation datasets
     """
 
-    def __init__(self, challenge_name, dictionary):
+    def __init__(self, challenge_name, dictionary, data_home):
         """
         Initialize DCASE wrapper with challenge name
-
         Args:
             challenge_name (str): Name of the DCASE challenge from the dictionary (e.g., 'dcase2023_task6A')
             dictionary (dict): Dictionary containing challenge configurations
         """
         from soundata import initialize
-
+        self.data_home = data_home
         self.challenge_name = challenge_name
         self.config = dictionary[challenge_name]
 
@@ -777,7 +776,6 @@ class DCASEWrapper:
     def download(self, **kwargs):
         """
         Download datasets with optimized remote selection
-
         Args:
             **kwargs: Additional arguments passed to the download method (e.g., force_overwrite, cleanup)
         """

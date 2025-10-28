@@ -759,20 +759,37 @@ class DCASEWrapper:
         """
         from soundata import initialize
 
+        # self.data_home = self.default_path if data_home is None else data_home
         self.data_home = data_home
         self.challenge_name = challenge_name
         self.config = dictionary[challenge_name]
 
         # Initialize development dataset
-        dev_config = self.config["development"]
-        self.development = initialize(
-            dev_config["dataset"], version=dev_config["version"]
-        )
+        if data_home is None:
+            dev_config = self.config["development"]
+            self.development = initialize(
+                dev_config["dataset"], self.data_home, version=dev_config["version"]
+            )
 
-        eval_config = self.config["evaluation"]
-        self.evaluation = initialize(
-            eval_config["dataset"], version=eval_config["version"]
-        )
+            eval_config = self.config["evaluation"]
+            self.evaluation = initialize(
+                eval_config["dataset"], self.data_home, version=eval_config["version"]
+            )
+
+        else:
+            dev_config = self.config["development"]
+            self.development = initialize(
+                dev_config["dataset"],
+                self.data_home + "/" + dev_config["dataset"],
+                version=dev_config["version"],
+            )
+
+            eval_config = self.config["evaluation"]
+            self.evaluation = initialize(
+                eval_config["dataset"],
+                self.data_home + "/" + eval_config["dataset"],
+                version=eval_config["version"],
+            )
 
     def download(self, **kwargs):
         """

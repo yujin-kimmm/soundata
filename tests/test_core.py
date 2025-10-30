@@ -740,29 +740,32 @@ def test_dcasewrapper():
         }
     }
 
-    with patch("soundata.initialize", side_effect=[d, e]):
-        w = soundata.dcase_challenge("my_chal", config)
+    DATA_HOME = [None, "foo"]
 
-        w.development.download = Mock()
-        w.evaluation.download = Mock()
+    for data_home in DATA_HOME:
+        with patch("soundata.initialize", side_effect=[d, e]):
+            w = soundata.dcase_challenge("my_chal", config, data_home)
 
-        w.download(force_overwrite=True)
-        w.development.download.assert_called_once_with(force_overwrite=True)
-        w.evaluation.download.assert_called_once_with(force_overwrite=True)
+            w.development.download = Mock()
+            w.evaluation.download = Mock()
 
-        w.development.validate = Mock()
-        w.evaluation.validate = Mock()
+            w.download(force_overwrite=True)
+            w.development.download.assert_called_once_with(force_overwrite=True)
+            w.evaluation.download.assert_called_once_with(force_overwrite=True)
 
-        w.validate()
-        w.development.validate.assert_called_once()
-        w.evaluation.validate.assert_called_once()
+            w.development.validate = Mock()
+            w.evaluation.validate = Mock()
 
-        with patch("builtins.print") as mock_print:
-            w.info()
-            mock_print.assert_any_call("DCASE Challenge Task Name: my_chal")
-            mock_print.assert_any_call(
-                f"Development dataset: {config['my_chal']['development']['dataset']}, version {config['my_chal']['development']['version']}"
-            )
-            mock_print.assert_any_call(
-                f"Evaluation dataset: {config['my_chal']['evaluation']['dataset']}, version {config['my_chal']['evaluation']['version']}"
-            )
+            w.validate()
+            w.development.validate.assert_called_once()
+            w.evaluation.validate.assert_called_once()
+
+            with patch("builtins.print") as mock_print:
+                w.info()
+                mock_print.assert_any_call("DCASE Challenge Task Name: my_chal")
+                mock_print.assert_any_call(
+                    f"Development dataset: {config['my_chal']['development']['dataset']}, version {config['my_chal']['development']['version']}"
+                )
+                mock_print.assert_any_call(
+                    f"Evaluation dataset: {config['my_chal']['evaluation']['dataset']}, version {config['my_chal']['evaluation']['version']}"
+                )

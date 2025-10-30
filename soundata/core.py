@@ -756,6 +756,7 @@ class DCASEWrapper:
         Args:
             challenge_name (str): Name of the DCASE challenge from the dictionary (e.g., 'dcase2023_task6A')
             dictionary (dict): Dictionary containing challenge configurations
+            data_home (str or None): path where soundata will look for the dataset
         """
         from soundata import initialize
 

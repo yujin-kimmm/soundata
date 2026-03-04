@@ -59,7 +59,6 @@ from soundata import core
 from soundata import annotations
 from soundata import io
 
-
 BIBTEX = """
 @article{article,
 author = {Stowell, Dan and Wood, Michael and Pamuła, Hanna and Stylianou, Yannis and Glotin, Hervé},

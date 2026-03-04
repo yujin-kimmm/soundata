@@ -7,7 +7,6 @@ from tests.test_utils import run_clip_tests
 from soundata import annotations
 from soundata.datasets import dcase23_task2
 
-
 TEST_DATA_HOME = os.path.normpath("tests/resources/sound_datasets/dcase23_task2")
 
 

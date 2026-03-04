@@ -200,7 +200,6 @@ import numpy as np
 
 from soundata import download_utils, core, annotations, io
 
-
 BIBTEX = """
 @dataset{fonseca2020fsd50k,
     title={FSD50K: an Open Dataset of Human-Labeled Sound Events}, 

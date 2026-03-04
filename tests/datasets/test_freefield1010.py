@@ -7,7 +7,6 @@ from soundata import annotations
 from soundata.datasets import freefield1010
 from tests.test_utils import DEFAULT_DATA_HOME
 
-
 TEST_DATA_HOME = os.path.normpath("tests/resources/sound_datasets/freefield1010")
 
 

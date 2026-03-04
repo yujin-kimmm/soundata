@@ -164,7 +164,6 @@ import csv
 
 from soundata import download_utils, core, annotations, io
 
-
 BIBTEX = """
 @inproceedings{Mesaros:DCASE:17,
     Address = {Munich, Germany},

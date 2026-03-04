@@ -82,7 +82,6 @@ from soundata import core
 from soundata import annotations
 from soundata import io
 
-
 BIBTEX = """
 @dataset{nolasco_ines_2022_6482837,
   author       = {Nolasco, Ines and

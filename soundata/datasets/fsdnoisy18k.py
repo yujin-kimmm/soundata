@@ -118,7 +118,6 @@ import numpy as np
 
 from soundata import download_utils, core, annotations, io
 
-
 BIBTEX = """
 @misc{fonseca2019learning,
       title={Learning Sound Event Classifiers from Web Audio with Noisy Labels},

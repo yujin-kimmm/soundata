@@ -6,7 +6,6 @@ from tests.test_utils import run_clip_tests
 from soundata import annotations
 from soundata.datasets import urbansed
 
-
 TEST_DATA_HOME = os.path.normpath("tests/resources/sound_datasets/urbansed")
 
 

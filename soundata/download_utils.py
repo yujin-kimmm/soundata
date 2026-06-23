@@ -104,7 +104,7 @@ def downloader(
                     )
                 )
             objs_to_download = partial_download
-            if "index" in remotes.keys():
+            if "index" in remotes.keys() and "index" not in objs_to_download:
                 objs_to_download.append("index")
         else:
             objs_to_download = list(remotes.keys())

@@ -639,8 +639,8 @@ def test_update_line_exception():
 
 
 @patch("soundata.display_plot_utils.sns.countplot")
-@patch("soundata.display_plot_utils.pd.value_counts")
-def test_plot_distribution(mock_value_counts, mock_countplot):
+@patch("soundata.display_plot_utils.pd.Series")
+def test_plot_distribution(mock_series, mock_countplot):
     # Mock patches for the plot
     mock_patches = []
     for _ in range(3):  # Assuming three patches for simplicity
@@ -658,14 +658,15 @@ def test_plot_distribution(mock_value_counts, mock_countplot):
     axes = [MagicMock(), MagicMock()]
     axes[0].patches = mock_patches
 
-    # Mock value_counts to return a specific order
-    mock_value_counts.return_value.index = ["A", "B", "C"]
+    # Mock pd.Series(data).value_counts() to return a specific order
+    mock_series.return_value.value_counts.return_value.index = ["A", "B", "C"]
 
     # Call the function
     display_plot_utils.plot_distribution(data, title, x_label, y_label, axes, 0)
 
     # Assertions
-    mock_value_counts.assert_called_with(data)
+    mock_series.assert_called_with(data)
+    mock_series.return_value.value_counts.assert_called_once()
     mock_countplot.assert_called_with(
         y=data,
         order=["A", "B", "C"],

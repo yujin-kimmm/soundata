@@ -293,7 +293,7 @@ def plot_distribution(data, title, x_label, y_label, axes, subplot_position):
     my_palette = ["#404040", "#126782", "#C9C9C9"]
     sns.countplot(
         y=data,
-        order=pd.value_counts(data).index,
+        order=pd.Series(data).value_counts().index,
         palette=my_palette,
         ax=axes[subplot_position],
     )

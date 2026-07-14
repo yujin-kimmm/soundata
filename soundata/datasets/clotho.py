@@ -73,7 +73,6 @@ from soundata import core
 from soundata import annotations
 from soundata import io
 
-
 BIBTEX = """
 @INPROCEEDINGS{9052990,
   author={Drossos, Konstantinos and Lipping, Samuel and Virtanen, Tuomas},

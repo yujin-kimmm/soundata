@@ -138,7 +138,6 @@ from soundata import core
 from soundata import annotations
 from soundata import io
 
-
 BIBTEX = """
 @inproceedings{Salamon:UrbanSound:ACMMM:14,
 	Address = {Orlando, FL, USA},

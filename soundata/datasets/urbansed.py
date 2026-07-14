@@ -133,7 +133,6 @@ from soundata import core
 from soundata import annotations
 from soundata import io
 
-
 BIBTEX = """
 @inproceedings{Salamon:Scaper:WASPAA:17,
 	Address = {New Paltz, NY, USA},

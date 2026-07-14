@@ -67,7 +67,6 @@ from soundata import core
 from soundata import annotations
 from soundata import io
 
-
 BIBTEX = """
 @inproceedings{lostanlen2018icassp,
   title = {BirdVox-full-night: a dataset and benchmark for avian flight call detection},

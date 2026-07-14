@@ -7,7 +7,6 @@ from tests.test_utils import run_clip_tests, DEFAULT_DATA_HOME
 from soundata import annotations
 from soundata.datasets import tau2020sse_nigens
 
-
 TEST_DATA_HOME = os.path.normpath("tests/resources/sound_datasets/tau2020sse_nigens")
 
 

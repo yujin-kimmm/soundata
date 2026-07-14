@@ -73,7 +73,6 @@ from soundata import core
 from soundata import annotations
 from soundata import io
 
-
 BIBTEX = """
 @INPROCEEDINGS{9052990,
   author={Drossos, Konstantinos and Lipping, Samuel and Virtanen, Tuomas},
@@ -357,4 +356,4 @@ class Dataset(core.Dataset):
                     "split": split,
                 }
 
-            return metadata_index
+        return metadata_index

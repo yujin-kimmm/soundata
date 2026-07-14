@@ -50,7 +50,6 @@ from soundata import core
 from soundata import annotations
 from soundata import io
 
-
 BIBTEX = """
 @inproceedings{Stowell:2014f,
   title = {freefield1010 - an open dataset for research on audio field recording archives},

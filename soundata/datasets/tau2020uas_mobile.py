@@ -580,7 +580,6 @@ import csv
 
 from soundata import download_utils, core, annotations, io
 
-
 BIBTEX = """
 @inproceedings{Heittola:DCASE:20,
     Address = {Tokyo, Japan},

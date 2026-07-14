@@ -14,6 +14,34 @@
         "clotho_metadata_development.csv",
         "170d20935ecfdf161ce1bb154118cda5"
       ]
+    },
+    "Santa Motor": {
+      "audio": [
+        "clotho_audio_evaluation/Santa Motor.wav",
+        "5535fb92bbfddd4bfe45e901d54aa47e"
+      ],
+      "captions": [
+        "clotho_captions_evaluation.csv",
+        "1b16b9e57cf7bdb7f13a13802aeb57e2"
+      ],
+      "metadata": [
+        "clotho_metadata_evaluation.csv",
+        "13946f054d4e1bf48079813aac61bf77"
+      ]
+    },
+    "risas nenas": {
+      "audio": [
+        "clotho_audio_validation/risas nenas.wav",
+        "f1bd6f22bc7857f5271f9c5f10a8b42c"
+      ],
+      "captions": [
+        "clotho_captions_validation.csv",
+        "5879e023032b22a2c930aaa0528bead4"
+      ],
+      "metadata": [
+        "clotho_metadata_validation.csv",
+        "2e010427c56b1ce6008b0f03f41048ce"
+      ]
     }
   }
 }

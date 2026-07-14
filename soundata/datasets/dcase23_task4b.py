@@ -70,7 +70,6 @@ import csv
 import numpy as np
 from soundata import download_utils, core, annotations, io
 
-
 BIBTEX = """
 @article{Martinmorato2023,
     author = "Martín-Morató, Irene and Mesaros, Annamaria",

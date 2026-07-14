@@ -67,7 +67,6 @@ import csv
 
 from soundata import download_utils, core, annotations, io
 
-
 BIBTEX = """
 @inproceedings{piczak2015dataset,
   title = {{ESC}: {Dataset} for {Environmental Sound Classification}},

@@ -263,9 +263,7 @@ def download_from_remote(remote, save_dir, force_overwrite):
                             If this error persists, please raise an issue at
                             https://github.com/soundata/soundata,
                             and tag it with 'broken-link'.
-                            """.format(
-                    remote.url
-                )
+                            """.format(remote.url)
                 logging.error(error_msg)
                 raise exc
     else:

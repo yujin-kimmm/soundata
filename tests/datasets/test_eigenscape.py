@@ -6,7 +6,6 @@ from soundata import annotations
 from soundata.datasets import eigenscape
 import os
 
-
 TEST_DATA_HOME = os.path.normpath("tests/resources/sound_datasets/eigenscape")
 
 
